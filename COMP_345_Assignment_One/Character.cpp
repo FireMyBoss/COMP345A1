@@ -81,6 +81,9 @@ Character::Character(int levelToSet, std::string & name) : level(levelToSet){
     setCharismaModifier();
 }
 
+// Deconstructor
+Character::~Character(){
+}
 // Getters
 std::string Character::getCharacterClass() const {return characterClass;}
 std::string Character::getName() const {return name;}
