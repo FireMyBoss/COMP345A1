@@ -19,6 +19,9 @@ public:
     Character();
     explicit Character(int levelToSet, std::string & name);
 
+    // Deconstructor
+    ~Character();
+
 
     // Getters
     std::string getCharacterClass() const;
