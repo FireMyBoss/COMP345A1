@@ -4,7 +4,7 @@
 
 #ifndef COMP_345_ASSIGNMENT_ONE_CHARACTER_H
 #define COMP_345_ASSIGNMENT_ONE_CHARACTER_H
-#include "allItems.h"
+#include "GroupItemH.h"
 #include <string>
 
 class Character {
