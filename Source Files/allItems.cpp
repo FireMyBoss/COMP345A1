@@ -58,29 +58,3 @@ public:
         std::cout << "Weapon: " << enchantmentType << std::endl;
     }
 };
-
-int main() {
-    // Example usage:
-    Helmet helmet;
-    helmet.displayInfo();
-
-    Armor armor;
-    armor.displayInfo();
-
-    Shield shield;
-    shield.displayInfo();
-
-    Ring ring;
-    ring.displayInfo();
-
-    Belt belt;
-    belt.displayInfo();
-
-    Boots boots;
-    boots.displayInfo();
-
-    Weapon weapon;
-    weapon.displayInfo();
-
-    return 0;
-}
