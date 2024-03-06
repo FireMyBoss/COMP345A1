@@ -1,0 +1,6 @@
+".", white, floor
+"X", black, wall
+"C", orange, chest
+"D", brown, door
+"S", blue, start
+"E", red, end
