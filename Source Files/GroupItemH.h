@@ -1,5 +1,5 @@
-#ifndef GroupItemH.h
-#define GroupItemH.h
+#ifndef GroupItemH_h
+#define GroupItemH_h
 
 #include "Item.h"
 #include "TreasureChest.h"
