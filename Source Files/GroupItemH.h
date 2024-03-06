@@ -7,6 +7,7 @@
 #include "Backpack.h"
 #include "Armor.h"
 #include "Belt.h"
+#include "Boots.h"
 #include "Helmet.h"
 #include "Ring.h"
 #include "Shield.h"
