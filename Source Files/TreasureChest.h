@@ -1,5 +1,5 @@
-#ifndef TreasureChest.h
-#define TreasureChest.h
+#ifndef TreasureChest_h
+#define TreasureChest_h
 
 #include <string>
 #include <stdio.h>
@@ -7,14 +7,14 @@
 
 using namespace std;
 
-class TreasureChest : public Item;
+class TreasureChest : public Item
 {
 private:
     int space;
     vector<Item> contents;
 public:
-    TreasureChest(int spc, vector<item> preExistingContent) : space(spc), contents(preExistingContent){};
-    TreasureChest(vector<item> preExistingContent) : contents(preExistingContent){};
+    TreasureChest(int spc, vector<Item> preExistingContent) : space(spc), contents(preExistingContent){};
+    TreasureChest(vector<Item> preExistingContent) : contents(preExistingContent){};
     TreasureChest(int spc) : space(spc){};
     TreasureChest();
     ~TreasureChest();
