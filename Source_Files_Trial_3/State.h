@@ -17,8 +17,8 @@ public:
    
 
     State(): colour("white"), letter('.') {};
-    void setColour(string color){};
-    void setLetter(char let){};
+    void setColour(string color);
+    void setLetter(char let);
     
 
 };
