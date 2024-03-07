@@ -307,7 +307,11 @@ bool Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
 void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, calls createTreasureChest
     for(int i = 0; i < height; i++){
         for(int j = 0; j < width; j++) {
-        
+            if (!map[i][j]->isPath && typeid(map[i][j]->state) == typeid(EmptySpot)){
+                if(createTreasureChest){
+                    map[i][j]->state = new TreasureChest(5); //space in treasure chest can be added later, and contents can be added later aswell
+                }
+            }
         }
     }
 };
