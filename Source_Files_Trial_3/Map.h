@@ -16,6 +16,13 @@ public:
 
     Map(int height, int width);
     void to_string();
+    void to_string();
+    void createStart();
+    void putPlayerAtStart();
+    void placePerimeterWalls();
+    void endPath();
+    void createTreasureChest();
+    void fillMapWithChests();
 
 };
 
