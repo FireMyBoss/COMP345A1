@@ -46,5 +46,9 @@ bool Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
     return (rand() % 100 == 69) ? true : false;
 };
 void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, calls createTreasureChest
-
+    for(int i = 0; i < height; i++){
+        for(int j = 0; j < width; j++) {
+        
+        }
+    }
 };
