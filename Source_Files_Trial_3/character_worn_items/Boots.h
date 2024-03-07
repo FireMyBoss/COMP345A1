@@ -3,7 +3,7 @@
 
 #include <string>
 #include <stdio.h>
-#include "../Equipment.h"
+#include "Equipment.h"
 
 using namespace std;
 

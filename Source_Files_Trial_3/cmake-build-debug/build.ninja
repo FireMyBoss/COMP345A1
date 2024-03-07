@@ -137,6 +137,41 @@ build CMakeFiles/Source_Files_Trial_3.dir/Dice.cpp.o: CXX_COMPILER__Source_Files
   OBJECT_DIR = CMakeFiles/Source_Files_Trial_3.dir
   OBJECT_FILE_DIR = CMakeFiles/Source_Files_Trial_3.dir
 
+build CMakeFiles/Source_Files_Trial_3.dir/State.cpp.o: CXX_COMPILER__Source_Files_Trial_3_Debug /Users/mebitch/Desktop/COMP345A1-main$ 3/Source_Files_Trial_3/State.cpp || cmake_object_order_depends_target_Source_Files_Trial_3
+  DEP_FILE = CMakeFiles/Source_Files_Trial_3.dir/State.cpp.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++14
+  INCLUDES = -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/." -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/character_worn_items"
+  OBJECT_DIR = CMakeFiles/Source_Files_Trial_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Source_Files_Trial_3.dir
+
+build CMakeFiles/Source_Files_Trial_3.dir/Cell.cpp.o: CXX_COMPILER__Source_Files_Trial_3_Debug /Users/mebitch/Desktop/COMP345A1-main$ 3/Source_Files_Trial_3/Cell.cpp || cmake_object_order_depends_target_Source_Files_Trial_3
+  DEP_FILE = CMakeFiles/Source_Files_Trial_3.dir/Cell.cpp.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++14
+  INCLUDES = -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/." -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/character_worn_items"
+  OBJECT_DIR = CMakeFiles/Source_Files_Trial_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Source_Files_Trial_3.dir
+
+build CMakeFiles/Source_Files_Trial_3.dir/Map.cpp.o: CXX_COMPILER__Source_Files_Trial_3_Debug /Users/mebitch/Desktop/COMP345A1-main$ 3/Source_Files_Trial_3/Map.cpp || cmake_object_order_depends_target_Source_Files_Trial_3
+  DEP_FILE = CMakeFiles/Source_Files_Trial_3.dir/Map.cpp.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++14
+  INCLUDES = -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/." -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/character_worn_items"
+  OBJECT_DIR = CMakeFiles/Source_Files_Trial_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Source_Files_Trial_3.dir
+
+build CMakeFiles/Source_Files_Trial_3.dir/MapObserver.cpp.o: CXX_COMPILER__Source_Files_Trial_3_Debug /Users/mebitch/Desktop/COMP345A1-main$ 3/Source_Files_Trial_3/MapObserver.cpp || cmake_object_order_depends_target_Source_Files_Trial_3
+  DEP_FILE = CMakeFiles/Source_Files_Trial_3.dir/MapObserver.cpp.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++14
+  INCLUDES = -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/." -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/character_worn_items"
+  OBJECT_DIR = CMakeFiles/Source_Files_Trial_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Source_Files_Trial_3.dir
+
+build CMakeFiles/Source_Files_Trial_3.dir/Rooms.cpp.o: CXX_COMPILER__Source_Files_Trial_3_Debug /Users/mebitch/Desktop/COMP345A1-main$ 3/Source_Files_Trial_3/Rooms.cpp || cmake_object_order_depends_target_Source_Files_Trial_3
+  DEP_FILE = CMakeFiles/Source_Files_Trial_3.dir/Rooms.cpp.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1 -std=gnu++14
+  INCLUDES = -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/." -I"/Users/mebitch/Desktop/COMP345A1-main 3/Source_Files_Trial_3/character_worn_items"
+  OBJECT_DIR = CMakeFiles/Source_Files_Trial_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Source_Files_Trial_3.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Source_Files_Trial_3
@@ -145,7 +180,7 @@ build CMakeFiles/Source_Files_Trial_3.dir/Dice.cpp.o: CXX_COMPILER__Source_Files
 #############################################
 # Link the executable Source_Files_Trial_3
 
-build Source_Files_Trial_3: CXX_EXECUTABLE_LINKER__Source_Files_Trial_3_Debug CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Armor.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Belt.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Boots.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Helmet.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Ring.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Shield.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Weapon.cpp.o CMakeFiles/Source_Files_Trial_3.dir/allcharacters.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Character.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Equipment.cpp.o CMakeFiles/Source_Files_Trial_3.dir/main.cpp.o CMakeFiles/Source_Files_Trial_3.dir/selectItems.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Dice.cpp.o
+build Source_Files_Trial_3: CXX_EXECUTABLE_LINKER__Source_Files_Trial_3_Debug CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Armor.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Belt.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Boots.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Helmet.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Ring.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Shield.cpp.o CMakeFiles/Source_Files_Trial_3.dir/character_worn_items/Weapon.cpp.o CMakeFiles/Source_Files_Trial_3.dir/allcharacters.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Character.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Equipment.cpp.o CMakeFiles/Source_Files_Trial_3.dir/main.cpp.o CMakeFiles/Source_Files_Trial_3.dir/selectItems.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Dice.cpp.o CMakeFiles/Source_Files_Trial_3.dir/State.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Cell.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Map.cpp.o CMakeFiles/Source_Files_Trial_3.dir/MapObserver.cpp.o CMakeFiles/Source_Files_Trial_3.dir/Rooms.cpp.o
   FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.1
   OBJECT_DIR = CMakeFiles/Source_Files_Trial_3.dir
   POST_BUILD = :

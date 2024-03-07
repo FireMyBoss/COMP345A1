@@ -26,7 +26,7 @@ public:
     void putPlayerAtStart(Character * player);
     void placePerimeterWalls();
     void snakeEndPath();
-    bool createTreasureChest();
+    void createTreasureChest();
     void fillMapWithChests();
     void fillMapWithRooms();
     void fillMapWithWalls();
