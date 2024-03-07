@@ -9,6 +9,9 @@
 
 class Character {
 public:
+    int y;
+    int x;
+    
     // Constructors
     Character();
     explicit Character(int levelToSet, std::string & name);
