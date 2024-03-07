@@ -13,12 +13,14 @@ class Cell{
 private:
 
 public:
-    State state;
-    Character *hasCharacter;
+    State * state;
+    Character * characterInSpot;
     bool isPath;
 
-    Cell(State st): state(st){};
-    Cell(){}; // empty state, white space
+
+    Cell(){this->state = new EmptySpot();this->isPath=false; characterInSpot = nullptr;}; // empty state, white space
+
+    bool isEmptyCell(Cell * currentCell);
 
 };
 
