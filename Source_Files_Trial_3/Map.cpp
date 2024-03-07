@@ -40,5 +40,9 @@ void Map::placePerimeterWalls(){
 void Map::endPath(){
     
 }
-void Map::createTreasureChest(){};
-void Map::fillMapWithChests(){};
+void Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
+
+};
+void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, calls createTreasureChest
+
+};
