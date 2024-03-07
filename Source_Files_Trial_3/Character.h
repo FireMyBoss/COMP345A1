@@ -9,9 +9,10 @@
 
 class Character {
 public:
-    int y;
+    // Player coordinates
     int x;
-    
+    int y;
+
     // Constructors
     Character();
     explicit Character(int levelToSet, std::string & name);

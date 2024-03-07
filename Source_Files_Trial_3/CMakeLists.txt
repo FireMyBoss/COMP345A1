@@ -35,4 +35,14 @@ add_executable(Source_Files_Trial_3
         TreasureChest.h
         Dice.cpp
         Dice.h
+        State.cpp
+        State.h
+        Cell.h
+        Cell.cpp
+        Map.h
+        Map.cpp
+        MapObserver.cpp
+        MapObserver.h
+        Rooms.cpp
+        Rooms.h
         )

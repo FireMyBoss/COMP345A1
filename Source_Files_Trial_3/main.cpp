@@ -1,6 +1,8 @@
 #include <iostream>
 #include "Character.h"
 #include "allcharacters.h"
+#include "Map.h"
+#include "MapObserver.h"
 #include <vector>
 
 void printCharacter(Character* character){
@@ -187,11 +189,9 @@ void createCharacterInterface() {
 
 int main() {
 
-    Character* newCharacter = new Character();
-    Helmet* newHelmet = new Helmet(10);
-    newCharacter->setHelmet(newHelmet);
-    std::cout << newCharacter->getHelmet()->getBonus() << std::endl;
-
+    Map * newMap = new Map(100, 100);
+    MapObserver newObserver;
+    newObserver.to_string(newMap);
 
     return 0;
 }

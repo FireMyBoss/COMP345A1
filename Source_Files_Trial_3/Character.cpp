@@ -10,6 +10,10 @@
 // Constructors
 Character::Character(){
 
+    // Player coordinates
+    this->x = 0;
+    this->y = 0;
+
     // Initializing player attributes
     this->characterClass = "None";
     this->name = "";
@@ -45,6 +49,11 @@ Character::Character(){
     this->charismaModifier = 0;
 }
 Character::Character(int levelToSet, std::string & name) : level(levelToSet){
+
+    // Player coordinates
+    this->x = 0;
+    this->y = 0;
+
     // Initializing player attributes
     this->characterClass = "None";
     setName(name);
