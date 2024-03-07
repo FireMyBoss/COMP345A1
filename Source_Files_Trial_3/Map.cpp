@@ -28,4 +28,17 @@ void Map::to_string(){
         std::cout << "" << std::endl;
     }
 }
-void Map::createStart(){}
+void Map::createStart(){ // finds a starting point on the perimeter
+    
+}
+void Map::putPlayerAtStart(){ // sets the player coordinates to the start
+    
+}
+void Map::placePerimeterWalls(){
+    
+}
+void Map::endPath(){
+    
+}
+void Map::createTreasureChest(){};
+void Map::fillMapWithChests(){};
