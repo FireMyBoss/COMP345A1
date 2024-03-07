@@ -21,7 +21,7 @@ public:
     void putPlayerAtStart();
     void placePerimeterWalls();
     void endPath();
-    void createTreasureChest();
+    bool createTreasureChest();
     void fillMapWithChests();
 
 };

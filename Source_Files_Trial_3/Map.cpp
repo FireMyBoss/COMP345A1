@@ -1,7 +1,8 @@
 //
 // Created by Nicholas Kamra on 3/6/24.
 //
-
+#include <cstdlib>
+#include <string>
 #include "Map.h"
 
 Map::Map(int height, int width){
@@ -40,8 +41,9 @@ void Map::placePerimeterWalls(){
 void Map::endPath(){
     
 }
-void Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
-
+bool Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
+    srand((unsigned) time(NULL));
+    return (rand() % 100 == 69) ? true : false;
 };
 void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, calls createTreasureChest
 
