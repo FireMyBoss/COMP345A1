@@ -265,7 +265,7 @@ void Map::fillMapWithWalls(){
 }
 
 void Map::fillMapWithRooms(){
- // We want around 25% of the map area to be rooms, so we take the mapWidth*mapHeight*0.5 and this
+ // We want around 25% of the map area to be rooms, so we take the mapWidth*mapHeight*(percent of room) and this
  // will give us the amount of area we can reserve for rooms. We can calculate how many rooms we are going to have
  // by randomly selecting a room (on frequency, the treasure room will have a very low chance, dungeon high chance)
  // and we will take the area of the room and subtract it from the reserved area for rooms. This will then
