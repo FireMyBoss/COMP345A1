@@ -16,7 +16,7 @@ public:
    Boots(int enchantBonus);
    Boots();
 
-   string getRandomEnchantment();
+   void getRandomEnchantment();
 };
 
 

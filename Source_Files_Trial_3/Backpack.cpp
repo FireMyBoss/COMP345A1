@@ -3,11 +3,17 @@
 
 void Backpack::printItem(){
     while(true){
-        std::cout << "\n\nWould you like to: \n1. Create an item  \n2.See the contents of the backpack\n: Please input the number you would like: ";
-        int create;
-        std::cin >> create;
-        if(create == 2){
-            break;
+        while(true){
+            std::cout << "\n\nWould you like to: \n1. Create an item  \n2.See the contents of the backpack\nPlease input the number you would like: ";
+            int create;
+            std::cin >> create;
+            if(create == 2){
+               printContents(getContents());
+               return;
+            } else if (create == 1){
+                break;
+            }
+            std::cout <<"\nError on input, please try again:";
         }
         std::cout << "\n\nWhat type of item would you like to make? \n1. Armor\n2. Belt\n3. Boots\n4. Helmet\n5. Ring\n6. Shield\n7. Weapon\n\nPlease input the number youd like: ";
         int type;
@@ -59,17 +65,18 @@ void Backpack::printItem(){
             break;
         
         default:
+            std::cout <<"\nError on input, please try again:";
             break;
         }
         addContent(itm);
     } 
-    printContents(getContents());
+    
 };
 
 void Backpack::printContents(vector<Item*> itms){
     for(int i = 0; i < itms.size(); i ++){
         std::cout <<"\nThe " << i+1 << "'s item is a " << itms[i]->name << endl;
-        std::cout << "Its enchantment is: " << itms[i]->getEnchantment();
-        std::cout << "Its bonus is: " << itms[i]->getBonus();
+        std::cout << "Its enchantment is: " << itms[i]->getEnchantment() << endl;
+        std::cout << "Its bonus is: " << itms[i]->getBonus() << endl;
     }
 };

@@ -5,20 +5,17 @@
 string Ring::listOfEnchantments[] = {"Armor class", "Strength", "Constitution", "Wisdom", "Charismas"};
 
 Ring::Ring(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Ring") {
-    string enchantType = Ring::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Ring::getRandomEnchantment();
 }
 Ring::Ring(int enchantBonus) : Equipment(enchantBonus), name("Ring") {
-    string enchantType = Ring::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Ring::getRandomEnchantment();
 }
 Ring::Ring() : name("Ring"){
-    string enchantType = Ring::getRandomEnchantment();
+    Ring::getRandomEnchantment();
     setRandBonus();
-    setEnchantment(enchantType);
 }
 
-string Ring::getRandomEnchantment(){
+void Ring::getRandomEnchantment(){
     srand((unsigned) time(NULL));
-    return listOfEnchantments[rand() % 5];
+    setEnchantment(listOfEnchantments[rand() % 5]);
 }

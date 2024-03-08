@@ -5,20 +5,17 @@
 string Boots::listOfEnchantments[] = {"Armor class", "Dexterity"};
 
 Boots::Boots(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Boots") {
-    string enchantType = Boots::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Boots::getRandomEnchantment();
 }
 Boots::Boots(int enchantBonus) : Equipment(enchantBonus), name("Boots") {
-    string enchantType = Boots::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Boots::getRandomEnchantment();
 }
 Boots::Boots() : name("Boots"){
-    string enchantType = Boots::getRandomEnchantment();
+    Boots::getRandomEnchantment();
     setRandBonus();
-    setEnchantment(enchantType);
 }
 
-string Boots::getRandomEnchantment(){
+void Boots::getRandomEnchantment(){
     srand((unsigned) time(NULL));
-    return listOfEnchantments[rand() % 2];
+    setEnchantment(listOfEnchantments[rand() % 2]);
 }

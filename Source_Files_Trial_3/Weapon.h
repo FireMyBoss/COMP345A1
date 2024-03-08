@@ -16,7 +16,7 @@ public:
    explicit Weapon(int enchantBonus);
    Weapon();
 
-   string getRandomEnchantment();
+   void getRandomEnchantment();
 };
 
 

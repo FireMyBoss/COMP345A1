@@ -16,7 +16,7 @@ public:
    explicit Shield(int enchantBonus);
    Shield();
 
-   string getRandomEnchantment();
+   void getRandomEnchantment();
 };
 
 

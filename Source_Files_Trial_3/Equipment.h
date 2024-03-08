@@ -25,7 +25,7 @@ public:
 
     
     void setEnchantment(string & enchantment){enchantmentType = enchantment;};
-    virtual string getRandomEnchantment(){return "";};
+    virtual void getRandomEnchantment(){};
    
 };
 

@@ -16,7 +16,7 @@ public:
    explicit Belt(int enchantBonus);
    Belt();
 
-   string getRandomEnchantment();
+   void getRandomEnchantment();
 };
 
 

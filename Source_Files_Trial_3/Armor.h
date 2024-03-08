@@ -16,7 +16,7 @@ public:
    Armor(int enchantBonus);
    Armor();
 
-   string getRandomEnchantment();
+   void getRandomEnchantment();
 };
 
 

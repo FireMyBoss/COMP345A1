@@ -192,6 +192,8 @@ int main() {
     Map * newMap = new Map(100, 100);
     MapObserver newObserver;
     newObserver.to_string(newMap);
+    Backpack backpk(4);
+    backpk.printItem();
 
     return 0;
 }

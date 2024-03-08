@@ -16,7 +16,7 @@ public:
    Helmet(int enchantBonus);
    Helmet();
 
-   string getRandomEnchantment();
+   void getRandomEnchantment();
 };
 
 

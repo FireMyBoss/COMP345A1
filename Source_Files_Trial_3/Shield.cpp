@@ -5,19 +5,16 @@
 string Shield::listOfEnchantments[] = {"Armor class"};
 
 Shield::Shield(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Shield") {
-    string enchantType = Shield::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Shield::getRandomEnchantment();
 }
 Shield::Shield(int enchantBonus) : Equipment(enchantBonus), name("Shield") {
-    string enchantType = Shield::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Shield::getRandomEnchantment();
 }
 Shield::Shield() : name("Shield"){
-    string enchantType = Shield::getRandomEnchantment();
+    Shield::getRandomEnchantment();
     setRandBonus();
-    setEnchantment(enchantType);
 }
 
-string Shield::getRandomEnchantment(){
-    return listOfEnchantments[0];
+void Shield::getRandomEnchantment(){
+    setEnchantment(listOfEnchantments[0]);
 }

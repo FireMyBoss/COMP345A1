@@ -16,7 +16,7 @@ public:
    explicit Ring(int enchantBonus);
    Ring();
 
-   string getRandomEnchantment() override;
+   void getRandomEnchantment() override;
 };
 
 

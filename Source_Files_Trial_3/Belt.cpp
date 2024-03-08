@@ -5,20 +5,17 @@
 string Belt::listOfEnchantments[] = {"Constitution", "Strength"};
 
 Belt::Belt(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Belt") {
-    string enchantType = Belt::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Belt::getRandomEnchantment();
 }
 Belt::Belt(int enchantBonus) : Equipment(enchantBonus), name("Belt") {
-    string enchantType = Belt::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Belt::getRandomEnchantment();
 }
 Belt::Belt() : name("Belt"){
-    string enchantType = Belt::getRandomEnchantment();
+    Belt::getRandomEnchantment();
     setRandBonus();
-    setEnchantment(enchantType);
 }
 
-string Belt::getRandomEnchantment(){
+void Belt::getRandomEnchantment(){
     srand((unsigned) time(NULL));
-    return listOfEnchantments[rand() % 2];
+    setEnchantment(listOfEnchantments[rand() % 2]);
 }

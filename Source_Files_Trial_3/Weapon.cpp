@@ -5,20 +5,17 @@
 string Weapon::listOfEnchantments[] = {"Attack bonus", "Damage bonus"};
 
 Weapon::Weapon(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Weapon") {
-    string enchantType = Weapon::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Weapon::getRandomEnchantment();
 }
 Weapon::Weapon(int enchantBonus) : Equipment(enchantBonus), name("Weapon") {
-    string enchantType = Weapon::getRandomEnchantment();
-    setEnchantment(enchantType);
+    Weapon::getRandomEnchantment();
 }
 Weapon::Weapon() : name("Weapon"){
-    string enchantType = Weapon::getRandomEnchantment();
+    Weapon::getRandomEnchantment();
     setRandBonus();
-    setEnchantment(enchantType);
 }
 
-string Weapon::getRandomEnchantment(){
+void Weapon::getRandomEnchantment(){
     srand((unsigned) time(NULL));
-    return listOfEnchantments[rand() % 2];
+    setEnchantment(listOfEnchantments[rand() % 2]);
 }
