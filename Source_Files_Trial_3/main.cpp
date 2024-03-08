@@ -12,5 +12,8 @@ int main() {
     MapObserver * newMapObserver = new MapObserver();
     std::cout << newMapObserver->to_string(myMap) << std::endl;
 
+    Backpack backpk(4);
+    backpk.printItem();
+
     return 0;
 }
