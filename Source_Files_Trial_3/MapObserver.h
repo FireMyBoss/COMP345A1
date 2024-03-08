@@ -9,7 +9,7 @@
 
 class MapObserver {
 public:
-    void to_string(Map * currentMap);
+    std::string to_string(Map * currentMap);
 };
 
 
