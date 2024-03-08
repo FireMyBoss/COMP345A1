@@ -30,38 +30,38 @@ void Backpack::printItem(){
         case 2:
             std::cout << "\n\nCreating Belt: ";
             itm = new Belt();
-            std::cout << "\nArmor's enchantment: " << itm->getEnchantment();
-            std::cout << "\nArmor's bonus: " << itm->getBonus();
+            std::cout << "\nBelt's enchantment: " << itm->getEnchantment();
+            std::cout << "\nBelt's bonus: " << itm->getBonus();
             break;
         case 3:
             std::cout << "\n\nCreating Boots: ";
             itm = new Boots();
-            std::cout << "\nArmor's enchantment: " << itm->getEnchantment();
-            std::cout << "\nArmor's bonus: " << itm->getBonus();
+            std::cout << "\nBoots's enchantment: " << itm->getEnchantment();
+            std::cout << "\nBoots's bonus: " << itm->getBonus();
             break;
         case 4:
             std::cout << "\n\nCreating Helmet: ";
             itm = new Helmet();
-            std::cout << "\nArmor's enchantment: " << itm->getEnchantment();
-            std::cout << "\nArmor's bonus: " << itm->getBonus();
+            std::cout << "\nHelmet's enchantment: " << itm->getEnchantment();
+            std::cout << "\nHelmet's bonus: " << itm->getBonus();
             break;
         case 5:
             std::cout << "\n\nCreating Ring: ";
             itm = new Ring();
-            std::cout << "\nArmor's enchantment: " << itm->getEnchantment();
-            std::cout << "\nArmor's bonus: " << itm->getBonus();
+            std::cout << "\nRing's enchantment: " << itm->getEnchantment();
+            std::cout << "\nRing's bonus: " << itm->getBonus();
             break;
         case 6:
             std::cout << "\n\nCreating Shield: ";
             itm = new Shield();
-            std::cout << "\nArmor's enchantment: " << itm->getEnchantment();
-            std::cout << "\nArmor's bonus: " << itm->getBonus();
+            std::cout << "\nShield's enchantment: " << itm->getEnchantment();
+            std::cout << "\nShield's bonus: " << itm->getBonus();
             break;
         case 7:
             std::cout << "\n\nCreating Weapon: ";
             itm = new Weapon();
-            std::cout << "\nArmor's enchantment: " << itm->getEnchantment();
-            std::cout << "\nArmor's bonus: " << itm->getBonus();
+            std::cout << "\nWeapon's enchantment: " << itm->getEnchantment();
+            std::cout << "\nWeapon's bonus: " << itm->getBonus();
             break;
         
         default:
