@@ -26,8 +26,6 @@ public:
     vector<Item> getContents(){return contents;};
     void addContent(Item itm){contents.push_back(itm);};
 
-    void printItem();// prints the item to the screen
-
 };
 
 #endif
