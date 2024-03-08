@@ -407,7 +407,7 @@ bool Map::foundCellForRoomAndAdded(Rooms * room){
 }
 bool Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
     srand((unsigned) time(NULL));
-    return (rand() % 100 == 69) ? true : false;
+    return (rand() % 100 == 69) ? true : false; //nice
 };
 void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, calls createTreasureChest
     for(int i = 0; i < height; i++){

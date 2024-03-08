@@ -18,11 +18,11 @@ public:
     explicit Equipment(int enchantBonus) : enchantmentBonus(enchantBonus){};
     Equipment() {setRandBonus();};
 
-    int getBonus() const {return enchantmentBonus;};
+    
     void setBonus(int bonus){enchantmentBonus = bonus;};
     void setRandBonus(); //if enchantmentType != null, gets a random bonus between 1-5
 
-    string getEnchantment(){return enchantmentType;};
+    
     void setEnchantment(string & enchantment){enchantmentType = enchantment;};
     virtual string getRandomEnchantment(){return "";};
    
