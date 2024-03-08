@@ -4,15 +4,10 @@
 
 string Ring::listOfEnchantments[] = {"Armor class", "Strength", "Constitution", "Wisdom", "Charismas"};
 
-Ring::Ring(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Ring") {
-    Ring::getRandomEnchantment();
-}
-Ring::Ring(int enchantBonus) : Equipment(enchantBonus), name("Ring") {
-    Ring::getRandomEnchantment();
-}
-Ring::Ring() : name("Ring"){
+Ring::Ring(){
     Ring::getRandomEnchantment();
     setRandBonus();
+    itmName = "Ring";
 }
 
 void Ring::getRandomEnchantment(){

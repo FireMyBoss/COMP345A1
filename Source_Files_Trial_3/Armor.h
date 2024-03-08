@@ -11,9 +11,6 @@ class Armor : public Equipment{
 private:
    static string listOfEnchantments[1];
 public:
-   string name;
-   Armor(bool equippedValue, int enchantBonus);
-   Armor(int enchantBonus);
    Armor();
 
    void getRandomEnchantment();

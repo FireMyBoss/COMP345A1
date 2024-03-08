@@ -75,7 +75,7 @@ void Backpack::printItem(){
 
 void Backpack::printContents(vector<Item*> itms){
     for(int i = 0; i < itms.size(); i ++){
-        std::cout <<"\nThe " << i+1 << "'s item is a " << itms[i]->name << endl;
+        std::cout <<"\nThe " << i+1 << "'s item is a " << itms[i]->itmName << endl;
         std::cout << "Its enchantment is: " << itms[i]->getEnchantment() << endl;
         std::cout << "Its bonus is: " << itms[i]->getBonus() << endl;
     }

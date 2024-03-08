@@ -1,18 +1,14 @@
 #include "Boots.h"
 #include <cstdlib>
 #include <string>
+#include <iostream>
 
 string Boots::listOfEnchantments[] = {"Armor class", "Dexterity"};
 
-Boots::Boots(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Boots") {
-    Boots::getRandomEnchantment();
-}
-Boots::Boots(int enchantBonus) : Equipment(enchantBonus), name("Boots") {
-    Boots::getRandomEnchantment();
-}
-Boots::Boots() : name("Boots"){
+Boots::Boots(){
     Boots::getRandomEnchantment();
     setRandBonus();
+    itmName = "Boots";
 }
 
 void Boots::getRandomEnchantment(){

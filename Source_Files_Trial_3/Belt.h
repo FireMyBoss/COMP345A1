@@ -11,9 +11,6 @@ class Belt : public Equipment{
 private:
    static string listOfEnchantments[2];
 public:
-   string name;
-   Belt(bool equippedValue, int enchantBonus);
-   explicit Belt(int enchantBonus);
    Belt();
 
    void getRandomEnchantment();

@@ -11,9 +11,6 @@ class Weapon : public Equipment{
 private:
    static string listOfEnchantments[2];
 public:
-   string name;
-   Weapon(bool equippedValue, int enchantBonus);
-   explicit Weapon(int enchantBonus);
    Weapon();
 
    void getRandomEnchantment();
