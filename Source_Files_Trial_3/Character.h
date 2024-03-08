@@ -7,6 +7,23 @@
 #include "GroupItemH.h"
 #include <string>
 
+/* Playable character types are as follows: Barbarian, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer,
+ * Wizard, and Bard. Each character has characteristics, ability scores, and modifiers for each ability. For player
+ * characteristics, we have the following: characterClass, name, level, hitPoints, armorClass, attackBonus, and
+ * damageBonus. The calculations are:
+ * characterClass: decided by user before instantiation of a Character object.
+ * name: defined by the user during construction of a character; default construction sets it to "".
+ * level: defined by the user during construction of a character; default construction sets it to 0.
+ * hitPoint: set to the character's constitution modifier + the top roll of a class's hit die can have. The
+ *     D20 rules is to sum constitution modifier by hit die roll.
+ * armorClass: set to the character's dexterity modifier + 10; this is D20 specific rule.
+ * attackBonus: set to the character class's strength modifier.
+ * damageBonus: set to the character's strength modifier.
+ * All ability scores were randomly generated between the values 3 and 18 using a RNG.
+ * Ability modifiers were calculated by taking the respective ability score, subtracting 10, dividing by 2,
+ * and then taking the floor of the result. The following equation represents the calculation:
+ * floor((abilityScore - 10) / 2).
+*/
 class Character {
 public:
     // Player coordinates

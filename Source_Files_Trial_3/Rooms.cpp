@@ -13,40 +13,46 @@ Rooms::Rooms(){
 }
 
 Prison::Prison(){
-    this->xDimension = 7;
-    this->yDimension = 5;
+    this->xDimension = 9;
+    this->yDimension = 7;
     this->bluePrint =
-            "XXXXXXX"
-            "X X X X"
-            "XDXDXDX"
-            "X     X"
-            "XXDXXXX";
+            "........."
+            ".XXXXXXX."
+            ".X.X.X.X."
+            ".XDXDXDX."
+            ".X.....X."
+            ".XXDXXXX."
+            ".........";
 }
 
 TreasureRoom::TreasureRoom(){
-    this->xDimension = 15;
-    this->yDimension = 6;
+    this->xDimension = 17;
+    this->yDimension = 8;
     this->bluePrint =
-            "XXXXXXXXXXXXXXX"
-            "XC D X     X CX"
-            "XXXXDXC CX X  X"
-            "XCX  XXXXXDX XX"
-            "X             X"
-            "XXXXXXDDXXXXXXX";
+            "................."
+            ".XXXXXXXXXXXXXXX."
+            ".XC.D.X.....X.CX."
+            ".XXXXDXC.CX.X..X."
+            ".XCX..XXXXXDX.XX."
+            ".X.............X."
+            ".XXXXXXDDXXXXXXX."
+            ".................";
 
 }
 
 Dungeon::Dungeon(){
-    this->xDimension = 21;
-    this->yDimension = 7;
+    this->xDimension = 23;
+    this->yDimension = 9;
     this->bluePrint =
-            "XXXXXXXXXXXXXXXXXXXDX"
-            "XC          X     X X"
-            "XXXXXXXX XXXXDXXXXX X"
-            "X     D     X   X   X"
-            "XX XXXXXXXXXXX XXX XX"
-            "X                   X"
-            "XXXXXXXXXXXXXXXXXXXXX";
+            "......................."
+            ".XXXXXXXXXXXXXXXXXXXDX."
+            ".XC..........X.....X.X."
+            ".XXXXXXXX.XXXXDXXXXX.X."
+            ".X.....D.....X...X...X."
+            ".XX.XXXXXXXXXXX.XXX.XX."
+            ".X...................X."
+            ".XXXXXXXXXXXXXXXXXXXXX."
+            ".......................";
 
 }
 
@@ -54,13 +60,13 @@ Cave::Cave(){
     this->xDimension = 16;
     this->yDimension = 8;
     this->bluePrint =
-            "    XX    XX    "
-            "  XXX      XXX  "
-            " XX          XX "
-            "XX            XX"
-            "XX            XX"
-            " XX          XX "
-            "  XXX  C   XXX  "
-            "    XXXXXXXX    ";
+            "XXXXXX....XXXXXX"
+            "XXXXX......XXXXX"
+            "XXX..........XXX"
+            "XX............XX"
+            "XX............XX"
+            "XXX..........XXX"
+            "XXXXX..C...XXXXX"
+            "XXXXXXXXXXXXXXXX";
 
 }

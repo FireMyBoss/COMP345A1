@@ -4,6 +4,10 @@
 #include "Character.h"
 #include <string>
 
+/* All playable character classes, which are children of the Character class. Each class must implement the
+ * setHitPoints and setAttackBonus methods.
+*/
+
 class Barbarian : public Character {
 public:
     explicit Barbarian(int levelToSet, std::string &name);

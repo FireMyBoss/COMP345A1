@@ -8,6 +8,9 @@
 #include "Cell.h"
 #include <vector>
 #include <iostream>
+#include <utility>
+#include "Rooms.h"
+
 class Map {
 public:
     int height;
@@ -18,7 +21,7 @@ public:
     int endY;
     int numPathCells = 0;
 
-    std::vector<std::vector<Cell *>> map;
+    std::vector<std::vector<Cell *> > map;
 
     Map(int height, int width);
 
@@ -30,6 +33,7 @@ public:
     void fillMapWithChests();
     void fillMapWithRooms();
     void fillMapWithWalls();
+    bool foundCellForRoomAndAdded(Rooms * room);
 
 
 };

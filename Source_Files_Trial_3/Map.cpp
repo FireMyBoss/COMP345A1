@@ -5,6 +5,7 @@
 #include "Map.h"
 #include "Rooms.h"
 
+
 /*
  * IMPORTANT!!!!!!!!!!!!!
  * When getting coords on the board with map.at().at() to get into 2D array
@@ -272,33 +273,137 @@ void Map::fillMapWithRooms(){
  // paths.
 
     int mapArea = (width-1) * (height-1) - numPathCells;
-    int roomReserved = mapArea/4;
+    int roomReserved = mapArea/6;
+
+    int areaOfBiggestRoom = 500;
 
     time_t t;
     srand((unsigned) time(&t));
 
-    bool mapNotFilled = false;
 
     int numberOfRoomTypes = Rooms::roomVector.size();
 
 
-    while(mapNotFilled){
+    while(roomReserved > areaOfBiggestRoom){
 
         int roomSelection = rand() % numberOfRoomTypes;
 
         if(roomSelection == 0){ // Prison
 
-
+            Rooms * newRoom = new Prison();
+            if(foundCellForRoomAndAdded(newRoom)){
+                roomReserved -= (newRoom->xDimension * newRoom->yDimension);
+                continue;
+            }else{
+                delete newRoom;
+                newRoom = nullptr;
+            }
 
         }else if(roomSelection == 1){ // TreasureRoom
 
+            Rooms * newRoom = new TreasureRoom();
+            if(foundCellForRoomAndAdded(newRoom)){
+                roomReserved -= (newRoom->xDimension * newRoom->yDimension);
+                continue;
+            }else{
+                delete newRoom;
+                newRoom = nullptr;
+            }
+
         }else if(roomSelection == 2){ // Dungeon
+
+            Rooms * newRoom = new Dungeon();
+            if(foundCellForRoomAndAdded(newRoom)){
+                roomReserved -= (newRoom->xDimension * newRoom->yDimension);
+                continue;
+            }else{
+                delete newRoom;
+                newRoom = nullptr;
+            }
 
         }else if(roomSelection == 3){ // Cave
 
+            Rooms * newRoom = new Cave();
+            if(foundCellForRoomAndAdded(newRoom)){
+                roomReserved -= (newRoom->xDimension * newRoom->yDimension);
+                continue;
+            }else{
+                delete newRoom;
+                newRoom = nullptr;
+            }
 
         }
     }
+}
+bool Map::foundCellForRoomAndAdded(Rooms * room){
+
+    time_t t;
+    srand((unsigned) time(&t));
+
+    int possibleXRange = width - room->xDimension - 4;
+    int possibleYRange = height - room->yDimension - 4;
+
+    int xToTest;
+    int yToTest;
+
+   for(;;) {
+       xToTest = rand() % possibleXRange + 2;
+       yToTest = rand() % possibleYRange + 2;
+       bool findNewTest = false;
+       for (int i = 0; i < room->xDimension; i++) {
+           for (int j = 0; j < room->yDimension; j++) {
+
+               if (map.at(yToTest + j).at(xToTest + i)->isPath) {
+                   findNewTest = true;
+                   break;
+               }
+           }
+           if(findNewTest){
+               break;
+           }
+       }
+       if(findNewTest){
+           continue;
+       }else{
+           break;
+       }
+   }
+    // Put the room into the map
+    int k = 0;
+    for(int i = 0; i < room->yDimension; i++){
+        for(int j = 0; j < room->xDimension; j++){
+            int indexInString = k;
+            char charToAdd;
+            charToAdd = room->bluePrint[indexInString];
+
+            State * newCell;
+
+            switch(charToAdd){
+                case '.':
+                    newCell = new EmptySpot();
+                    break;
+                case 'X':
+                    newCell = new Wall();
+                    break;
+                case 'C':
+                    newCell = new TreasureChest();
+                     break;
+                case 'D':
+                    newCell = new Door();
+                    break;
+                default:
+                    break;
+            }
+
+
+            map.at(i + yToTest).at(j + xToTest)->state = newCell;
+            map.at(i + yToTest).at(j + xToTest)->isPath = true;
+            k++;
+
+        }
+    }
+
+    return true;
 }
 bool Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
     srand((unsigned) time(NULL));
@@ -308,7 +413,7 @@ void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, ca
     for(int i = 0; i < height; i++){
         for(int j = 0; j < width; j++) {
             if (!map[i][j]->isPath && typeid(map[i][j]->state) == typeid(EmptySpot)){
-                if(createTreasureChest){
+                if(createTreasureChest()){
                     map[i][j]->state = new TreasureChest(5); //space in treasure chest can be added later, and contents can be added later aswell
                 }
             }
