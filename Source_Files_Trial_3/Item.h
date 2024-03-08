@@ -15,7 +15,6 @@ public:
 
     bool getEquipped() const {return equipped;};
     void setEquipped(bool value){equipped = value;};
-    void printItem();// prints the item to the screen
 };
 
 #endif
