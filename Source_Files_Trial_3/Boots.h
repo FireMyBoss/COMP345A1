@@ -11,6 +11,7 @@ class Boots : public Equipment{
 private:
    static string listOfEnchantments[2];
 public:
+   string name;
    Boots(bool equippedValue, int enchantBonus);
    Boots(int enchantBonus);
    Boots();

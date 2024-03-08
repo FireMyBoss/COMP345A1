@@ -4,15 +4,15 @@
 
 string Boots::listOfEnchantments[] = {"Armor class", "Dexterity"};
 
-Boots::Boots(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus) {
+Boots::Boots(bool equippedValue, int enchantBonus) : Equipment(equippedValue, enchantBonus), name("Boots") {
     string enchantType = Boots::getRandomEnchantment();
     setEnchantment(enchantType);
 }
-Boots::Boots(int enchantBonus) : Equipment(enchantBonus) {
+Boots::Boots(int enchantBonus) : Equipment(enchantBonus), name("Boots") {
     string enchantType = Boots::getRandomEnchantment();
     setEnchantment(enchantType);
 }
-Boots::Boots(){
+Boots::Boots() : name("Boots"){
     string enchantType = Boots::getRandomEnchantment();
     setRandBonus();
     setEnchantment(enchantType);

@@ -11,6 +11,7 @@ class Helmet : public Equipment{
 private:
    static string listOfEnchantments[3];
 public:
+   string name;
    Helmet(bool equippedValue, int enchantBonus);
    Helmet(int enchantBonus);
    Helmet();

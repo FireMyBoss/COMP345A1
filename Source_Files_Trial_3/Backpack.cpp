@@ -3,7 +3,7 @@
 
 void Backpack::printItem(){
     while(true){
-        std::cout << "Would you like to: \n1. Create an item  \n2.See the contents of the backpack\n: Please input the number you would like: ";
+        std::cout << "\n\nWould you like to: \n1. Create an item  \n2.See the contents of the backpack\n: Please input the number you would like: ";
         int create;
         std::cin >> create;
         if(create == 2){
@@ -64,4 +64,10 @@ void Backpack::printItem(){
         addContent(itm);
     } 
     printContents(getContents());
-}
+};
+
+void Backpack::printContents(vector<Item*> itms){
+    for(int i = 0; i < itms.size(); i ++){
+        std::cout << itms[i].
+    }
+};

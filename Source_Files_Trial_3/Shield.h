@@ -11,6 +11,7 @@ class Shield : public Equipment{
 private:
    static string listOfEnchantments[1];
 public:
+   string name;
    Shield(bool equippedValue, int enchantBonus);
    explicit Shield(int enchantBonus);
    Shield();

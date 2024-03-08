@@ -23,7 +23,7 @@ public:
     void addContent(Item * itm){contents.push_back(itm);};
 
     void printItem();// creates items in backpack the item to the screen
-    void printContents(vector<Item*>);
+    void printContents(vector<Item*> itms);
 
 };
 

@@ -11,6 +11,7 @@ class Equipment : public Item{
 private:
    int enchantmentBonus; //bonus amount, 1-5
    string enchantmentType;  //bonus type (name)
+   string name;
 public:
     Equipment(bool equippedValue, int enchantBonus, string & enchantType) : Item(equippedValue), enchantmentBonus(enchantBonus), enchantmentType(enchantType) {};
     Equipment(bool equippedValue, int enchantBonus) : Item(equippedValue), enchantmentBonus(enchantBonus){};

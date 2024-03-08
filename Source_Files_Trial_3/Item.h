@@ -12,6 +12,7 @@ private:
 protected:
    int enchantmentBonus; //bonus amount, 1-5
    string enchantmentType;  //bonus type (name)
+   string name;
 public:
     explicit Item(bool equippedValue) : equipped(equippedValue){};
     Item() : equipped(false){};
