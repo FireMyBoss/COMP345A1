@@ -63,7 +63,5 @@ void Backpack::printItem(){
         }
         addContent(itm);
     } 
-    
-
-
+    printContents(getContents());
 }
