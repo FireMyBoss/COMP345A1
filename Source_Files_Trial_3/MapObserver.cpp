@@ -4,13 +4,15 @@
 
 #include "MapObserver.h"
 
-void MapObserver::to_string(Map * currentMap){ // this should be the map observer class
+std::string MapObserver::to_string(Map * currentMap){ // this should be the map observer class
+    std::string returnString = "";
     for(int i = 0; i < currentMap->height; i++){
         for(int j = 0; j < currentMap->width; j++) {
 
-                std::cout << currentMap->map.at(i).at(j)->state->letter;
+                returnString += currentMap->map.at(i).at(j)->state->letter;
 
         }
-        std::cout << "" << std::endl;
+        returnString += "\n";
     }
+    return returnString;
 }
