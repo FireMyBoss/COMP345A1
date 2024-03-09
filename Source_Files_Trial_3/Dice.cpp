@@ -193,7 +193,17 @@ class Dice {
 			return roll();
 		
 		}
-		
+		/**
+		 * @brief Function to display a dice menu and handle user input.
+		 * 
+		 * This function displays a menu allowing the user to either roll a dice or exit.
+		 * If the user chooses to roll a dice, they are prompted to enter a dice string,
+		 * which is then validated and rolled. If the input is invalid, the user is
+		 * prompted again until valid input is received. The function returns the result
+		 * of the dice roll.
+		 * 
+		 * @return int Result of the dice roll.
+		 */
 		int diceMenu() {
 		
 			int mainMenuOption = 0;
