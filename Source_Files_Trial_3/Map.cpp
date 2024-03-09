@@ -18,6 +18,20 @@
  *  -------------> Right is the second at()
  */
 
+using namespace std;
+
+Map::Map() {
+
+  height = 0;
+ 	width = 0;
+	startX = 0;
+	startY = 0;
+	endX = 0;
+  endY = 0;
+	numPathCells = 0;
+    
+}
+
 Map::Map(int height, int width){
 
     this->height = height;
@@ -423,215 +437,230 @@ void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, ca
 
 Map* Map::generateInitialMapInfo() {
 
-    int retVal = 0;
-    int runMainLoop = 1;
-    int runInnerLoop = 1;
-
-    int sizeInput = 0;
-    int inputWidth = 0;
-    int inputLength = 0;
-
-    Map* retMap;
-    MapObserver retObserver;
-
-    char* generalMapOptionsInput;
-    int generalMapOptionsMenuSelector = 0;
-    const char* generalMapOptions[2] = {
-
-            ">> Create a map\n Exit the map generation screen\n\nPress W to navigate up, S to navigate down, C to select option\n\n",
-            "Create a map\n>> Exit the map generation screen\n\nPress W to navigate up, S to navigate down, C to select option\n\n"
-
-    };
-
-    char* printMapOptionInput;
-    int  printMapOptionsMenuSelector = 0;
-    const char* printMapOption[2] = {
-
-            ">> Yes \n No\n\nPress W to navigate up, S to navigate down, C to select option / stop viewing map\n\n",
-            "Yes \n>> No\n\nPress W to navigate up, S to navigate down, C to select option / stop viewing map\n\n"
-
-    };
-
-    char* stopViewingMap;
-
-
-    do {
-
-        cout << generalMapOptions[generalMapOptionsMenuSelector];
-        generalMapOptionsInput = userInput(10);
-
-        switch(userInputCase(generalMapOptionsInput)) {
-
-            case 0: //W key (Up)
-
-                generalMapOptionsMenuSelector--;
-                generalMapOptionsMenuSelector = generalMapOptionsMenuSelector - 2*floor(generalMapOptionsMenuSelector/2.0);
-
-                break;
-            case 2: //S key (Down)
-
-                generalMapOptionsMenuSelector++;
-                generalMapOptionsMenuSelector = generalMapOptionsMenuSelector - 2*floor(generalMapOptionsMenuSelector/2.0);
-
-                break;
-            case 10: //C key (Select)
-
-                switch(generalMapOptionsMenuSelector) {
-
-                    case 0: //Random Map generation part
-
-                        while(true) { //Get width of map
-
-                            clearConsole();
-                            cout << "Input the desired width of the map: ";
-
-                            cin >> inputWidth;
-
-                            if(inputWidth < 1) {
-
-                                cout << "Error: The width of the map must be a positive number!\n";
-
-                                pause(1000);
-                                cin.clear(); // Clear the fail state
-                                cin.ignore(numeric_limits<streamsize>::max(), '\n');
-                                continue;
-
-                            }
-
-                            break;
-
-                        }
-
-                        while(true) { //Get length of map
-
-                            clearConsole();
-                            cout << "Input the desired length of the map: ";
-
-                            cin >> inputLength;
-
-                            if(inputLength < 1) {
-
-                                cout << "Error: The length of the map must be a positive number!\n";
-
-                                pause(1000);
-                                cin.clear(); // Clear the fail state
-                                cin.ignore(numeric_limits<streamsize>::max(), '\n');
-                                continue;
-
-                            }
-
-                            break;
-
-                        }
-
-                        clearConsole();
-
-                        retMap = new Map(inputWidth, inputLength); //Generate the map
-
-                        //Offer to display the map
-                        cout << "The map has been successfully generated! Would you like to see the map?\n";
-                        pause(2000);
-
-                        do {
-
-                            cout << printMapOption[printMapOptionsMenuSelector];
-                            printMapOptionInput = userInput(10);
-
-                            switch(userInputCase(printMapOptionInput)) {
-
-                                case 0: //W key (Up)
-
-                                    printMapOptionsMenuSelector--;
-                                    printMapOptionsMenuSelector = printMapOptionsMenuSelector - 2*floor(printMapOptionsMenuSelector/2.0);
-
-                                    break;
-                                case 2: //S key (Down)
-
-                                    printMapOptionsMenuSelector++;
-                                    printMapOptionsMenuSelector = printMapOptionsMenuSelector - 2*floor(printMapOptionsMenuSelector/2.0);
-
-                                    break;
-                                case 10: //C key (Select)
-
-                                    switch(printMapOptionsMenuSelector) {
-
-                                        case 0: //User wants to see the map
-
-                                            clearConsole();
-
-                                            retObserver.to_string(retMap);
-
-                                            while(true) {
-
-                                                stopViewingMap = userInput(10);
-
-                                                if(stopViewingMap[0] == 'c') {
-
-                                                    delete[] stopViewingMap;
-                                                    break;
-
-                                                }
-
-                                                delete[] stopViewingMap;
-
-                                            }
-
-                                            runInnerLoop = 0;
-                                            runMainLoop = 0;
-
-                                            break;
-                                        case 1: //User doesn't want to see the map
-
-                                            runInnerLoop = 0;
-
-                                            break;
-
-                                    }
-
-                            }
-
-                            if(runInnerLoop != 0) {
-
-                                delete[] printMapOptionInput;
-
-                            }
-
-                            clearConsole();
-
-                        } while (runInnerLoop);
-
-                        retVal = 1;
-                        runMainLoop = 0;
-
-
-                        break;
-                    case 1: //Quit Game
-
-                        retVal = 0;
-                        runMainLoop = 0;
-
-                        break;
-
-                }
-
-        }
-
-        if(runMainLoop != 0) {
-
-            delete[] generalMapOptionsInput;
-
-        }
-
-        clearConsole();
-
-    } while(runMainLoop);
-
-    delete[] generalMapOptionsInput;
-
-    return retMap;
+   int retVal = 0;
+	int runMainLoop = 1;
+	int runInnerLoop = 1;
+	
+	int sizeInput = 0;
+	int inputWidth = 0;
+	int inputLength = 0;
+	
+	Map* retMap;
+	MapObserver retObserver;
+	
+	char* generalMapOptionsInput;
+	int generalMapOptionsMenuSelector = 0;
+	const char* generalMapOptions[2] = {
+  
+		">> Create a map\n Exit the map generation screen\n\nPress W to navigate up, S to navigate down, C to select option\n\n",
+		"Create a map\n>> Exit the map generation screen\n\nPress W to navigate up, S to navigate down, C to select option\n\n"
+        
+  };
+  
+  char* printMapOptionInput;
+  int  printMapOptionsMenuSelector = 0;
+	const char* printMapOption[2] = {
+  
+		">> Yes \n No\n\nPress W to navigate up, S to navigate down, C to select option / stop viewing map\n\n",
+		"Yes \n>> No\n\nPress W to navigate up, S to navigate down, C to select option / stop viewing map\n\n"
+        
+  };
+  
+  char* stopViewingMap;
+  
+  
+  do {
+    	
+				cout << generalMapOptions[generalMapOptionsMenuSelector];			
+				generalMapOptionsInput = userInput(10);
+							
+				switch(userInputCase(generalMapOptionsInput)) {
+							
+					case 0: //W key (Up)
+								
+						generalMapOptionsMenuSelector--;
+						generalMapOptionsMenuSelector = generalMapOptionsMenuSelector - 2*floor(generalMapOptionsMenuSelector/2.0);
+									
+					break;
+					case 2: //S key (Down)
+								
+						generalMapOptionsMenuSelector++;
+						generalMapOptionsMenuSelector = generalMapOptionsMenuSelector - 2*floor(generalMapOptionsMenuSelector/2.0);
+							
+					break;
+					case 10: //C key (Select)
+								
+						switch(generalMapOptionsMenuSelector) {
+									
+							case 0: //Random Map generation part
+								
+								while(true) { //Get width of map
+								
+									clearConsole();	
+									cout << "Input the desired width of the map: ";
+								
+									cin >> inputWidth;
+								
+									if(inputWidth < 1) {
+										
+										cout << "Error: The width of the map must be a positive number!\n";
+
+										pause(1000);
+										cin.clear(); // Clear the fail state
+       							cin.ignore(numeric_limits<streamsize>::max(), '\n'); 
+										continue;
+										
+									}
+									
+									break;
+								
+								}
+								
+								while(true) { //Get length of map
+								
+									clearConsole();	
+									cout << "Input the desired length of the map: ";
+								
+									cin >> inputLength;
+								
+									if(inputLength < 1) {
+										
+										cout << "Error: The length of the map must be a positive number!\n";
+										
+										pause(1000);
+										cin.clear(); // Clear the fail state
+       							cin.ignore(numeric_limits<streamsize>::max(), '\n'); 
+										continue;
+										
+									}
+									
+									break;
+								
+								}
+								
+								clearConsole();	
+								
+								retMap = new Map(inputWidth, inputLength); //Generate the map
+								
+								//Offer to display the map
+								cout << "The map has been successfully generated! Would you like to see the map?\n";
+								pause(2000);
+								
+								do {
+								
+									cout << printMapOption[printMapOptionsMenuSelector];			
+									printMapOptionInput = userInput(10);
+									
+									switch(userInputCase(printMapOptionInput)) {
+									
+										case 0: //W key (Up)
+									
+											printMapOptionsMenuSelector--;
+											printMapOptionsMenuSelector = printMapOptionsMenuSelector - 2*floor(printMapOptionsMenuSelector/2.0);
+														
+										break;
+										case 2: //S key (Down)
+													
+											printMapOptionsMenuSelector++;
+											printMapOptionsMenuSelector = printMapOptionsMenuSelector - 2*floor(printMapOptionsMenuSelector/2.0);
+												
+										break;
+										case 10: //C key (Select)
+										
+											switch(printMapOptionsMenuSelector) {
+												
+												case 0: //User wants to see the map
+													
+													clearConsole();
+													
+													cout << retObserver.to_string(retMap);
+													
+													while(true) {
+													
+														stopViewingMap = userInput(10);
+														
+														if(stopViewingMap[0] == 'c') {
+															
+															delete[] stopViewingMap;
+															break;
+														
+														}
+														
+														delete[] stopViewingMap;
+													
+													}
+													
+													runInnerLoop = 0;
+													runMainLoop = 0;
+													
+												break;
+												case 1: //User doesn't want to see the map
+												
+													runInnerLoop = 0;
+													
+												break;
+												
+											}
+									
+									}
+								
+									if(runInnerLoop != 0) {
+					
+										delete[] printMapOptionInput;
+									
+									}
+									
+									clearConsole();	
+								
+								} while (runInnerLoop);
+								
+								retVal = 1;
+								runMainLoop = 0;
+
+											
+							break;
+							case 1: //Quit Game
+								
+								retVal = 0;
+								runMainLoop = 0;
+											
+							break;
+									
+						}
+							
+				}
+				
+				if(runMainLoop != 0) {
+					
+					delete[] generalMapOptionsInput;
+				
+				}
+				
+				clearConsole();	
+    	
+    	} while(runMainLoop);
+    	
+    	delete[] generalMapOptionsInput;
+    	
+    	return retMap;
 
 }
 
+	std::string toString(Map* currentMap) {
+	
+		std::string returnString = "";
+    for(int i = 0; i < currentMap->height; i++){
+        for(int j = 0; j < currentMap->width; j++) {
+
+            returnString += currentMap->map.at(i).at(j)->state->letter;
+
+        }
+        returnString += "\n";
+    }
+    return returnString;
+	
+	}
+	
  std::string MapObserver::to_string(Map * currentMap){ // this should be the map observer class
     std::string returnString = "";
     for(int i = 0; i < currentMap->height; i++){

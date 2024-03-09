@@ -31,7 +31,8 @@ public:
     int numPathCells = 0;
 
     std::vector<std::vector<Cell *> > map;
-
+		
+		Map();
     Map(int height, int width);
 
     void createStart();
@@ -44,6 +45,7 @@ public:
     void fillMapWithWalls();
     bool foundCellForRoomAndAdded(Rooms * room);
     Map* generateInitialMapInfo();
+    std::string toString(Map* currentMap);
 
 
 };

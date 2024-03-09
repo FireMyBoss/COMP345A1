@@ -11,6 +11,7 @@
 #include <unistd.h>
 #include <termios.h>
 
+//#include "Dice.h"
 #include "misc.h"
 //#include "userInput.h"
 
@@ -193,6 +194,85 @@ class Dice {
 		
 		}
 		
+		int diceMenu() {
+		
+			int mainMenuOption = 0;
+			std:string diceInput;
+			char* diceInputCharP;
+			
+			int retVal = 0;
+			
+			int runMainLoop = 1;
+			int runInnerLoop = 1;
+			
+			while(runMainLoop) {
+				
+				clearConsole();
+				cout << "Dice Demonstration\n1) Roll a dice\n2)Exit Menu\n\nEnter Option: ";
+				cin >> mainMenuOption;
+				
+				switch(mainMenuOption) {
+				
+					case 1:
+						
+						while(runInnerLoop) {
+						
+							clearConsole();
+							cin.clear(); // Clear the fail state
+		     			cin.ignore(numeric_limits<streamsize>::max(), '\n');
+		     			cout << "Enter the desired dice string: ";
+		     			
+		     			cin >> diceInput;
+		     			diceInputCharP = new char[diceInput.length() + 1];
+		     			strcpy(diceInputCharP, diceInput.c_str());
+		     			
+		     			if(deconstructDiceValue(diceInputCharP) == 0) {
+		     				
+		     				cout << "Error: inputted string was not a valid dice string\n";
+								
+								pause(1000);
+								delete[] diceInputCharP;
+								cin.clear(); // Clear the fail state
+				   			cin.ignore(numeric_limits<streamsize>::max(), '\n');
+				   			continue; 
+		     				
+		     			} else {
+		     			
+		     				cout << "Success! Rolling the dice now!\n";
+		     				retVal = roll(diceInputCharP);
+		     				delete[] diceInputCharP;
+		     				pause(1000);
+		     				
+		     				runInnerLoop = 0;
+		     				runMainLoop = 0;
+		     			
+		     			}
+       			
+       			}
+					
+					break;
+					case 2:
+						
+						clearConsole();
+						runMainLoop = 0;
+					
+					break;
+					default:
+					
+						cout << "Error: User input was not a valid menu option\n";
+										
+						pause(1000);
+						cin.clear(); // Clear the fail state
+       			cin.ignore(numeric_limits<streamsize>::max(), '\n'); 
+
+				}
+				
+			}
+			
+			return retVal;
+			
+		}
+		
 	private:
 		
 		/**
@@ -253,7 +333,7 @@ class Dice {
 	* @param diceVal The input string representing a new set of dice settings to deconstruct and apply.
 	* @return 0 if successful, 1 if unsuccessful in deconstruction process.
 	*/
-	int deconstructDiceValue(const char* diceVal) {
+	int deconstructDiceValue(char* diceVal) {
 			
 			//Initialize amount of digits for each section (# Dice, # Sides per Dice, Modification value) of the string
 			int digitsNumOfDice = 0;
