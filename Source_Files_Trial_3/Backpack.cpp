@@ -6,18 +6,44 @@ void Backpack::printItem(){
         while(true){
             std::cout << "\n\nWould you like to: \n1. Create an item  \n2.See the contents of the backpack\nPlease input the number you would like: ";
             int create;
-            std::cin >> create;
-            if(create == 2){
-               printContents(getContents());
-               return;
-            } else if (create == 1){
-                break;
-            }
-            std::cout <<"\nError on input, please try again:";
+            try {
+                std::cin >> create;
+                if(cin.fail()) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                    throw std::runtime_error("Invalid input. Please enter an integer.");
+                    continue;
+                } else if(create == 2){
+                printContents(getContents());
+                return;
+                } else if (create == 1){
+                    break;
+                }
+                std::cout <<"\nError on input, please try again:";
+            } catch (...) {
+                std::cin.clear();
+                std::cin.ignore();
+                std::cout <<"\nError on input, please try again:";
+            }   
         }
-        std::cout << "\n\nWhat type of item would you like to make? \n1. Armor\n2. Belt\n3. Boots\n4. Helmet\n5. Ring\n6. Shield\n7. Weapon\n\nPlease input the number youd like: ";
+        
         int type;
-        std::cin >> type;
+        while(true){
+            try {
+                std::cout << "\n\nWhat type of item would you like to make? \n1. Armor\n2. Belt\n3. Boots\n4. Helmet\n5. Ring\n6. Shield\n7. Weapon\n\nPlease input the number youd like: ";
+                std::cin >> type;
+                if(cin.fail()) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                    throw std::runtime_error("Invalid input. Please enter an integer.");
+                    continue;
+                }
+                break;
+            } catch (...) {
+                std::cin.clear();
+                std::cin.ignore();
+            }
+        }
         Item * itm;
         switch (type)
         {
