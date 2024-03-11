@@ -11,13 +11,12 @@ class MapCreator{
 private:
    Map * theMap;
 public:
-    MapCreator(int x, int y, vector<int> start); //every time after the first
-    MapCreator(int x, int y); //first time
-    ~MapCreator();
+    MapCreator(int width, int height, vector<int> start); //every time after the first
+    MapCreator(int width, int height); //first time
     
     void CreateAMap(); //housing func
 
-    vector<int> * randomStart();
+    vector<int> * RandomStart(int width, int height);
 
     void VeiwMapWithIndexes();
 
