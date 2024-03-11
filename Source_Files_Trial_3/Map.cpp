@@ -40,6 +40,8 @@ Map::Map(int height, int width){
     this->startY = 0;
     this->endX = 0;
     this->endY = 0;
+    std::vector<Character *> players;
+    this->playersInGame = players;
 
     for(int i = 0; i < height; i++) {
         for (int j = 0; j < width; j++) {
@@ -54,6 +56,33 @@ Map::Map(int height, int width){
     Map::snakeEndPath();
     Map::fillMapWithWalls();
     Map::fillMapWithRooms();
+    Map::loadCharactersIntoMap(players);
+}
+
+Map::Map(int height, int width, std::vector<Character *> players){
+
+    this->height = height;
+    this->width = width;
+    this->startX = 0;
+    this->startY = 0;
+    this->endX = 0;
+    this->endY = 0;
+    this->playersInGame = players;
+
+    for(int i = 0; i < height; i++) {
+        for (int j = 0; j < width; j++) {
+            std::vector<Cell *> newVector;
+            map.push_back(newVector);
+            Cell * newCell = new Cell();
+            map.at(i).push_back(newCell);
+        }
+    }
+    Map::createStart();
+    Map::placePerimeterWalls();
+    Map::snakeEndPath();
+    Map::fillMapWithWalls();
+    Map::fillMapWithRooms();
+    Map::loadCharactersIntoMap(players);
 }
 
 void Map::createStart(){ // finds a starting point on the perimeter
@@ -646,7 +675,7 @@ Map* Map::generateInitialMapInfo() {
 
 }
 
-	std::string toString(Map* currentMap) {
+std::string Map::toString(Map* currentMap) {
 	
 		std::string returnString = "";
     for(int i = 0; i < currentMap->height; i++){
@@ -659,15 +688,27 @@ Map* Map::generateInitialMapInfo() {
     }
     return returnString;
 	
-	}
+}
+
+void Map::loadCharactersIntoMap(std::vector<Character *> players){
+
+    players.at(0)->x = this->startX;
+    players.at(0)->y = this->startY;
+
+    this->map.at(startY).at(startX)->characterInSpot = players.at(0);
+
+}
 	
  std::string MapObserver::to_string(Map * currentMap){ // this should be the map observer class
     std::string returnString = "";
     for(int i = 0; i < currentMap->height; i++){
         for(int j = 0; j < currentMap->width; j++) {
 
-            returnString += currentMap->map.at(i).at(j)->state->letter;
-
+            if(currentMap->map.at(i).at(j)->characterInSpot!=nullptr){
+                returnString += 'P';
+            }else {
+                returnString += currentMap->map.at(i).at(j)->state->letter;
+            }
         }
         returnString += "\n";
     }

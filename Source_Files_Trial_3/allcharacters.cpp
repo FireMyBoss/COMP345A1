@@ -4,6 +4,7 @@
 Barbarian::Barbarian(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Barbarian::setHitPoints();
     Barbarian::setAttackBonus();
+    isEnemy = false;
     this->characterClass = "Barbarian";
 }
 
@@ -14,6 +15,7 @@ void Barbarian::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Cleric::Cleric(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Cleric::setHitPoints();
     Cleric::setAttackBonus();
+    isEnemy = false;
     this->characterClass = "Cleric";
 }
 
@@ -24,6 +26,7 @@ void Cleric::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Druid::Druid(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Druid::setHitPoints();
     Druid::setAttackBonus();
+    isEnemy = false;
     this->characterClass = "Druid";
 }
 
@@ -34,6 +37,8 @@ void Druid::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Fighter::Fighter(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Fighter::setHitPoints();
     Fighter::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Fighter";
 }
 
@@ -44,6 +49,8 @@ void Fighter::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Monk::Monk(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Monk::setHitPoints();
     Monk::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Monk";
 }
 
@@ -54,6 +61,8 @@ void Monk::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Paladin::Paladin(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Paladin::setHitPoints();
     Paladin::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Paladin";
 }
 
@@ -64,6 +73,8 @@ void Paladin::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Ranger::Ranger(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Ranger::setHitPoints();
     Ranger::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Ranger";
 }
 
@@ -74,6 +85,8 @@ void Ranger::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Rogue::Rogue(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Rogue::setHitPoints();
     Rogue::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Rogue";
 }
 
@@ -84,6 +97,8 @@ void Rogue::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Sorcerer::Sorcerer(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Sorcerer::setHitPoints();
     Sorcerer::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Sorcerer";
 }
 
@@ -94,6 +109,8 @@ void Sorcerer::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Wizard::Wizard(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Wizard::setHitPoints();
     Wizard::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Wizard";
 }
 
@@ -104,6 +121,8 @@ void Wizard::setAttackBonus() { this->attackBonus = getStrengthModifier(); }
 Bard::Bard(int levelToSet, std::string &name) : Character(levelToSet, name) {
     Bard::setHitPoints();
     Bard::setAttackBonus();
+    isEnemy = false;
+
     this->characterClass = "Bard";
 }
 

@@ -172,6 +172,8 @@ void Character::printCharacter(Character* character){
     std::cout << "Damage Bonus: ";
     std::cout << character->getDamageBonus() << std::endl;
 
+    std::cout << "" << std::endl;
+
     std::cout << "---Armor---" << std::endl;
     std::cout << "Helmet: ";
     std::cout << character->getHelmet() << std::endl;
@@ -185,6 +187,8 @@ void Character::printCharacter(Character* character){
     std::cout << character->getWeapon() << std::endl;
     std::cout << "Ring: ";
     std::cout << character->getRing() << std::endl;
+
+    std::cout << "" << std::endl;
 
     std::cout << "---Ability Scores---" << std::endl;
     std::cout << "Strength Score: ";
@@ -200,6 +204,8 @@ void Character::printCharacter(Character* character){
     std::cout << "Charisma Score: ";
     std::cout << character->getCharismaScore() << std::endl;
 
+    std::cout << "" << std::endl;
+
     std::cout << "---Ability Modifiers---" << std::endl;
     std::cout << "Strength Modifier: ";
     std::cout << character->getStrengthModifier() << std::endl;
@@ -214,6 +220,7 @@ void Character::printCharacter(Character* character){
     std::cout << "Charisma Modifier: ";
     std::cout << character->getCharismaModifier() << std::endl;
 
+    std::cout << "" << std::endl;
 
 }
 
@@ -222,13 +229,20 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
     Character *newCharacter;
 
     std::cout << "Please fill in the following options to create a new player:" << std::endl;
+
+    std::cout << "" << std::endl;
+
     std::cout << "Enter a name for your character: " << std::endl;
     // take input for name of character
     std::string name = "";
     std::cin >> name;
 
+    std::cout << "" << std::endl;
+
 
     std::cout << "Enter a level for your character: " << std::endl;
+
+
     // take input for level of character
     int level = 0;
     for (;;){
@@ -247,6 +261,8 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
         }
     }
 
+    std::cout << "" << std::endl;
+
     std::cout << "Enter number of class from list below: " << std::endl;
     std::cout << "'1' for Barbarian" << std::endl;
     std::cout << "'2' for Bard" << std::endl;
@@ -260,6 +276,9 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
     std::cout << "'10' for Sorcerer" << std::endl;
     std::cout << "'11' for Wizard" << std::endl;
     std::cout << "Enter option here: " << std::endl;
+
+    std::cout << "" << std::endl;
+
     // Get input for class
     int characterClass;
     for (;;){
@@ -319,6 +338,7 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
     }
 
     std::cout << "---New character has been created---" << std::endl;
+    std::cout << "" << std::endl;
     createdCharacterArray.push_back(newCharacter);
     printCharacter(newCharacter);
     return newCharacter;
@@ -345,6 +365,8 @@ void Character::createCharacterInterface() {
         std::cout << "1. Enter '1' to create a new character" << std::endl;
         std::cout << "2. Enter '2' to list all created characters" << std::endl;
         std::cout << "3. Enter '3' to quit the program" << std::endl;
+
+        std::cout << "" << std::endl;
 
         // take input for user selection
         char userSelection;

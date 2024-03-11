@@ -70,7 +70,7 @@ void mainMenuUI(){
             
                 Map* testMap = new Map();
   							testMap -> generateInitialMapInfo();
-  							delete[] testMap;
+                              delete[] testMap;
                 break;
             }
             case 4: {
@@ -94,7 +94,14 @@ void mainMenuUI(){
 // Driver code
 
 int main() {
+    int level = 11;
+    std::string name = "Charlie Brown";
 
-    mainMenuUI();
+    Character * player = new Paladin(level, name);
+    std::vector<Character *> players;
+    players.push_back(player);
+    Map * newMap = new Map(50, 50, players);
+    MapObserver * newMapObserver = new MapObserver();
+    std::cout << newMapObserver->to_string(newMap) << std::endl;
 
 }

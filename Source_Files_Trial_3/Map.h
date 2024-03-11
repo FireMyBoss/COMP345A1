@@ -31,9 +31,11 @@ public:
     int numPathCells = 0;
 
     std::vector<std::vector<Cell *> > map;
+    std::vector<Character *> playersInGame;
 		
-		Map();
+    Map();
     Map(int height, int width);
+    Map(int height, int width, std::vector<Character *> players);
 
     void createStart();
     void putPlayerAtStart(Character * player);
@@ -46,6 +48,8 @@ public:
     bool foundCellForRoomAndAdded(Rooms * room);
     Map* generateInitialMapInfo();
     std::string toString(Map* currentMap);
+    void loadCharactersIntoMap(std::vector<Character *> players);
+
 
 
 };

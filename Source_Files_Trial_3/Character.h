@@ -30,9 +30,13 @@ public:
     int x;
     int y;
 
+    bool isEnemy;
+
     // Constructors
     Character();
     explicit Character(int levelToSet, std::string & name);
+    Character(int levelToSet, std::string & name, bool isEnemy);
+
 
 
     // Getters
