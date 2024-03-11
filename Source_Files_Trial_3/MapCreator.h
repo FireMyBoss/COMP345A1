@@ -9,10 +9,20 @@ using namespace std;
 
 class MapCreator{
 private:
-   
+   Map * theMap;
 public:
-    //these should (and will) be added to the map class once Nick is done touching it
-    void CreateAMap(); 
+    MapCreator(int x, int y, vector<int> start); //every time after the first
+    MapCreator(int x, int y); //first time
+    ~MapCreator();
+    
+    void CreateAMap(); //housing func
+
+    vector<int> * randomStart();
+
+    void VeiwMapWithIndexes();
+
+    vector<int> * GetCoordiants();
+
     void SetCustomEndPoint(int OriginX, int OriginY); //or let the the map auto generate one
     //all add path functions would only be created if custom end point is made
     void AddSingularCustomPath(int OriginX, int OriginY);
@@ -22,8 +32,12 @@ public:
     void AddSingularWall(int OriginX, int OriginY);
     void AddHorizontalWall(int OriginX, int OriginY, int endX);
     void AddVerticalWall(int OriginX, int OriginY, int endY);
-    
 
+    void AddTreasureChest(int x, int y);
+
+    void AddDoor(int x, int y);
+    
+    Map * ReturnMap(){return theMap;}; //returns the map and deletes this class from memory
 };
 
 #endif
