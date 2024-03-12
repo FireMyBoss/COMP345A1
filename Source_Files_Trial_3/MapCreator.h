@@ -17,25 +17,18 @@ public:
     void createStart();
     void createEnd();
 
+    void createPath();
+
     void createAMap(); //housing func
 
     void veiwMapWithIndexes();
 
-    vector<int> * getCoordiants();
+    vector<int> getCoordinates(); // y,x
 
-    void setCustomEndPoint(int OriginX, int OriginY); //or let the the map auto generate one
-    //all add path functions would only be created if custom end point is made
-    void addSingularCustomPath(int OriginX, int OriginY);
-    void addHorizontalCustomPath(int OriginX, int OriginY, int endX);
-    void addVerticalCustomPath(int OriginX, int OriginY, int endY);
+    void addHorizontalState(int OriginX, int OriginY, int endX, State & stt);
+    void addVerticalState(int OriginX, int OriginY, int endY, State & stt);
 
-    void addSingularWall(int OriginX, int OriginY);
-    void addHorizontalWall(int OriginX, int OriginY, int endX);
-    void addVerticalWall(int OriginX, int OriginY, int endY);
-
-    void addTreasureChest(int x, int y);
-
-    void addDoor(int x, int y);
+    void addState(int x, int y, State & stt);
     
     Map * returnMap(){return theMap;}; //returns the map and deletes this class from memory
 };
