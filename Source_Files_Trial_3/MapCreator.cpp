@@ -3,51 +3,47 @@
 using namespace std;
 
 MapCreator::MapCreator(int width, int height){
-    vector<int> * start = RandomStart(width, height);
+    theMap->height = height;
+    theMap->width = width;
+    while (true){
+        cout << "Would you like to:\n1. Create a start point at a specific spot\n2. Create a random start point\n\nPlease input one of the numbers above: ";
+        int selection;
+        cin >> selection;
+        if (selection == 1){
+            while (true){
+                cout << "What side would you like to create it on?\n1. The top\n2. The left\n3. The right\n4. The bottom\n\nPlease input one of the numbers above: ";
+                int side;
+                cin >> side;
+                if (side == 1){ //top
+                    theMap->startX = 0;
+                } else if (side == 2){ //left
+                    theMap->startY = 0
+                } else if (side == 3){ //right
+                    theMap->start
+                } else if (side == 4){ //bottom
+                    /* code */
+                } else {
+
+                }
+                
+                
+                
+                
+            }
+            
+            
+            break;
+        } else if (selection == 2){
+            theMap->createStart();
+            cout << "/n\nStart point created!\n\n";
+            break;
+        } else {
+            cout << "\n\nIncorrect input. Please try again.\n\n";
+        }
+    
+    
+    }
+    
     
 }
 
-vector<int> * MapCreator::RandomStart(int width, int height){
-    // if 1 -> left side, if 2 -> top, if 3 -> right side, if 4 -> bottom
-    time_t t;
-    srand((unsigned) time(&t));
-    int side = rand() % 4 + 1;
-    vector<int> * randomStartIndex;
-    int X;
-    int Y;
-
-    switch(side){
-        case 1: // left side
-            X = 0; // isn't random
-            randomStartIndex->push_back(X);
-            Y = rand() % (height - 2) + 1;
-            randomStartIndex->push_back(Y);
-            break;
-        case 2: // top
-            X = rand() % (width - 2) + 1;
-            randomStartIndex->push_back(X);
-            Y = 0; // isn't random
-            randomStartIndex->push_back(Y);
-            break;
-        case 3: // right side
-            X = width - 1; // isn't random
-            randomStartIndex->push_back(X);
-            Y = rand() % (height - 2) + 1;
-            randomStartIndex->push_back(Y);
-            break;
-        case 4: // bottom
-            X = rand() % (width - 2) + 1;
-            randomStartIndex->push_back(X);
-            Y = height - 1; // isn't random
-            randomStartIndex->push_back(Y);
-            break;
-        default:
-            X = 1;
-            randomStartIndex->push_back(X);
-            Y = 0;
-            randomStartIndex->push_back(Y);
-            break;
-        
-    }
-    return randomStartIndex;
-}

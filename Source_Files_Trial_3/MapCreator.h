@@ -16,8 +16,6 @@ public:
     
     void CreateAMap(); //housing func
 
-    vector<int> * RandomStart(int width, int height);
-
     void VeiwMapWithIndexes();
 
     vector<int> * GetCoordiants();
@@ -36,7 +34,7 @@ public:
 
     void AddDoor(int x, int y);
     
-    Map * ReturnMap(){return theMap;}; //returns the map and deletes this class from memory
+    Map * returnMap(){return theMap;}; //returns the map and deletes this class from memory
 };
 
 #endif

@@ -22,14 +22,22 @@ using namespace std;
 
 Map::Map() {
 
-  height = 0;
+    height = 0;
  	width = 0;
 	startX = 0;
 	startY = 0;
 	endX = 0;
-  endY = 0;
+    endY = 0;
 	numPathCells = 0;
     
+    for(int i = 0; i < height; i++) {
+        for (int j = 0; j < width; j++) {
+            std::vector<Cell *> newVector;
+            map.push_back(newVector);
+            Cell * newCell = new Cell();
+            map.at(i).push_back(newCell);
+        }
+    }
 }
 
 Map::Map(int height, int width){
