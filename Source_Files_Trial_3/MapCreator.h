@@ -15,6 +15,7 @@ public:
     MapCreator(int width, int height); //first time
     
     void createStart();
+    void createEnd();
 
     void createAMap(); //housing func
 

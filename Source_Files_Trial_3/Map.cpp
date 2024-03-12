@@ -28,7 +28,8 @@ Map::Map() {
 	startY = 0;
 	endX = 0;
     endY = 0;
-	numPathCells = 0;
+    std::vector<Character *> players;
+    this->playersInGame = players;
     
     for(int i = 0; i < height; i++) {
         for (int j = 0; j < width; j++) {

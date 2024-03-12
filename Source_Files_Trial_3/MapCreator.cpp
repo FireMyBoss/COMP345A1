@@ -5,8 +5,9 @@ using namespace std;
 MapCreator::MapCreator(int width, int height){
     theMap->height = height;
     theMap->width = width;
-
-    
+    MapCreator::createStart(); //handles all start cases
+    theMap->placePerimeterWalls();
+    MapCreator::createEnd();
 
 }
 
@@ -61,3 +62,20 @@ void MapCreator::createStart(){
     }
 }
 
+void MapCreator::createEnd(){
+    while (true){
+        cout << "\n\nWould you like to:\n1.Choose an end point and make the path\n2. Auto create and end point and a path\n\nPlease input one of the numbers above: ";
+        int selection;
+        cin >> selection;
+        if(selection == 1){
+            
+            break;
+        } else if (selection == 2){
+            theMap->snakeEndPath();
+            break;
+        }
+        cout << "\n\nIncorrect input. Please try again.\n\n";
+    }
+    
+    
+}
