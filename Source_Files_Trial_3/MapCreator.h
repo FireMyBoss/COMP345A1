@@ -14,25 +14,27 @@ public:
     MapCreator(int width, int height, vector<int> start); //every time after the first
     MapCreator(int width, int height); //first time
     
-    void CreateAMap(); //housing func
+    void createStart();
 
-    void VeiwMapWithIndexes();
+    void createAMap(); //housing func
 
-    vector<int> * GetCoordiants();
+    void veiwMapWithIndexes();
 
-    void SetCustomEndPoint(int OriginX, int OriginY); //or let the the map auto generate one
+    vector<int> * getCoordiants();
+
+    void setCustomEndPoint(int OriginX, int OriginY); //or let the the map auto generate one
     //all add path functions would only be created if custom end point is made
-    void AddSingularCustomPath(int OriginX, int OriginY);
-    void AddHorizontalCustomPath(int OriginX, int OriginY, int endX);
-    void AddVerticalCustomPath(int OriginX, int OriginY, int endY);
+    void addSingularCustomPath(int OriginX, int OriginY);
+    void addHorizontalCustomPath(int OriginX, int OriginY, int endX);
+    void addVerticalCustomPath(int OriginX, int OriginY, int endY);
 
-    void AddSingularWall(int OriginX, int OriginY);
-    void AddHorizontalWall(int OriginX, int OriginY, int endX);
-    void AddVerticalWall(int OriginX, int OriginY, int endY);
+    void addSingularWall(int OriginX, int OriginY);
+    void addHorizontalWall(int OriginX, int OriginY, int endX);
+    void addVerticalWall(int OriginX, int OriginY, int endY);
 
-    void AddTreasureChest(int x, int y);
+    void addTreasureChest(int x, int y);
 
-    void AddDoor(int x, int y);
+    void addDoor(int x, int y);
     
     Map * returnMap(){return theMap;}; //returns the map and deletes this class from memory
 };
