@@ -127,11 +127,25 @@ void MapCreator::createThePath(){
         cout << "\nYour previous coordniate is \"" << curY << ',' << curX << "\".\n";
         cout << "In the form of \"y,x\", write a new coordniate on the same Y or X plane as the previous coordinate, and the program will create a path there.\nNote, the new coordniate NEEDS to be on the same Y or X plane: ";
         vector <int> pathCoords =  MapCreator::getCoordinates();
-        if(pathCoords[0] == curY || pathCoords[1] == curX){
-            if (pathCoords[0] == theMap ->endY || pathCoords[1] == theMap ->endX){ //reached the end
-                
+        if(pathCoords[0] == curY || pathCoords[1] == curX){ //check to see if its on the same plane
+            if(pathCoords[0] > 0 && pathCoords[0] < theMap->height-1 && pathCoords[1] > 0 && pathCoords[1] < theMap->width-1){ //inside the constrains of the Map
+                if (pathCoords[0] == curY){ //going horizontal
+                    MapCreator::addHorizontalPath(curX, curY, pathCoords[1]);
+                } else { // pathCoords[1] == curX , going vertical
+                    MapCreator::addVerticalPath(curX, curY, pathCoords[0]);
+                }
+                curX = pathCoords[1]; 
+                curY = pathCoords[0];
+            } else if(pathCoords[0] == theMap ->endY || pathCoords[1] == theMap ->endX){ //reached the end
+                if (pathCoords[0] == curY){ //going horizontal
+                    MapCreator::addHorizontalPath(curX, curY, pathCoords[1]);
+                } else { // pathCoords[1] == curX , going vertical
+                    MapCreator::addVerticalPath(curX, curY, pathCoords[0]);
+                }
+                break; //done creating path
+            } else {
+                cout << "One or both coordinates may be outside of the length or width of the map, or touching the outer walls.\n";
             }
-            
         } else{
             cout << "Neither coordinate is on the same plane as the previous coordinates.\n";
         }
@@ -211,4 +225,20 @@ void MapCreator::printMapWithIndex(){
         returnString += "\n";
     }
     cout << returnString << endl;
+}
+
+void MapCreator::addHorizontalPath(int OriginX, int OriginY, int endX){
+    int higher = OriginX > endX ? OriginX : endX;
+    int lower = OriginX > endX ? endX : OriginX;
+    for (int i = lower; i <= higher; i++){
+        theMap->map[OriginY][i]->isPath = true;
+    }
+}
+
+void MapCreator::addVerticalPath(int OriginX, int OriginY, int endY){
+    int higher = OriginY > endY ? OriginY : endY;
+    int lower = OriginY > endY ? endY : OriginY;
+    for (int i = lower; i <= higher; i++){
+        theMap->map[i][OriginX]->isPath = true;
+    }
 }

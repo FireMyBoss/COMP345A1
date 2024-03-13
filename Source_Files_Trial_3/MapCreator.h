@@ -21,13 +21,13 @@ public:
 
     void createAMap(); //housing func
 
+    vector<int> getCoordinates(); // y,x
+
     void printMapWithPathAndIndex();    //prints the map with the path, purely to help make the path
     void printMapWithIndex();   //prints the map with indexes, to help make the map (fill with walls, treasure chests, etc)
 
-    vector<int> getCoordinates(); // y,x
-
-    void addHorizontalPath(int OriginX, int OriginY, int endX);
-    void addVerticalPath(int OriginX, int OriginY, int endY);
+    void addHorizontalPath(int OriginX, int OriginY, int endX); //only replace the inside
+    void addVerticalPath(int OriginX, int OriginY, int endY);   //only replace the inside
 
     void addHorizontalState(int OriginX, int OriginY, int endX, State & stt);
     void addVerticalState(int OriginX, int OriginY, int endY, State & stt);
