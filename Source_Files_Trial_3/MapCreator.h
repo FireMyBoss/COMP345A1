@@ -26,6 +26,9 @@ public:
 
     vector<int> getCoordinates(); // y,x
 
+    void addHorizontalPath(int OriginX, int OriginY, int endX);
+    void addVerticalPath(int OriginX, int OriginY, int endY);
+
     void addHorizontalState(int OriginX, int OriginY, int endX, State & stt);
     void addVerticalState(int OriginX, int OriginY, int endY, State & stt);
 

@@ -120,9 +120,25 @@ bool MapCreator::createEnd(){
 }
 
 void MapCreator::createThePath(){
-    cout << "Here is the current map";
-    MapObserver observer;
-    cout << observer.to_string(theMap);
+    int curX = theMap -> startX, curY = theMap -> startY;
+    while (true){
+        cout << "\nHere is the current map\n\n";
+        MapCreator::printMapWithPathAndIndex();
+        cout << "\nYour previous coordniate is \"" << curY << ',' << curX << "\".\n";
+        cout << "In the form of \"y,x\", write a new coordniate on the same Y or X plane as the previous coordinate, and the program will create a path there.\nNote, the new coordniate NEEDS to be on the same Y or X plane: ";
+        vector <int> pathCoords =  MapCreator::getCoordinates();
+        if(pathCoords[0] == curY || pathCoords[1] == curX){
+            if (pathCoords[0] == theMap ->endY || pathCoords[1] == theMap ->endX){ //reached the end
+                
+            }
+            
+        } else{
+            cout << "Neither coordinate is on the same plane as the previous coordinates.\n";
+        }
+    }
+    
+    
+
 }
 
 vector<int>  MapCreator::getCoordinates(){
@@ -170,7 +186,7 @@ void MapCreator::printMapWithPathAndIndex(){
         }
         returnString += "\n";
     }
-    cout << returnString;
+    cout << returnString << endl;
 }
 
 void MapCreator::printMapWithIndex(){
@@ -194,5 +210,5 @@ void MapCreator::printMapWithIndex(){
         }
         returnString += "\n";
     }
-    cout << returnString;
+    cout << returnString << endl;
 }
