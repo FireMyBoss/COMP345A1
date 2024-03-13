@@ -1,6 +1,8 @@
 #include "MapCreator.h"
+#include "Map.h"
 #include <iostream>
 #include <sstream>
+
 
 using namespace std;
 
@@ -9,7 +11,12 @@ MapCreator::MapCreator(int width, int height){
     theMap->width = width;
     MapCreator::createStart(); //handles all start cases
     theMap->placePerimeterWalls();
-    MapCreator::createEnd();
+    bool check = MapCreator::createEnd();
+    if (!check){
+        MapCreator::createThePath();
+    }
+    
+
 
 }
 
@@ -61,7 +68,7 @@ void MapCreator::createStart(){
     }
 }
 
-void MapCreator::createEnd(){
+bool MapCreator::createEnd(){
     while (true){
         cout << "\n\nWould you like to:\n1.Choose an end point and make the path\n2. Auto create and end point and a path\n\nPlease input one of the numbers above: ";
         int selection;
@@ -100,11 +107,11 @@ void MapCreator::createEnd(){
                     cout << "\n\nError: End must be on the exterior of the map.";
                 }
             }
-            MapCreator::createPath();
-            break;
+            cout << "\n\nEnd point created.\n\n";
+            return false;
         } else if (selection == 2){
             theMap->snakeEndPath();
-            break;
+            return true;
         }
         cout << "\n\nIncorrect input. Please try again.\n\n";
     }
@@ -112,8 +119,10 @@ void MapCreator::createEnd(){
     
 }
 
-void createPath(){
-
+void MapCreator::createThePath(){
+    cout << "Here is the current map";
+    MapObserver observer;
+    cout << observer.to_string(theMap);
 }
 
 vector<int>  MapCreator::getCoordinates(){
@@ -133,4 +142,57 @@ vector<int>  MapCreator::getCoordinates(){
             return coordinates;
         }
     }
+}
+
+void MapCreator::printMapWithPathAndIndex(){
+    std::string returnString = "";
+    for (int i = 0; i < theMap->height; i++){
+        if (i > 9){
+            cout << i << " ";
+        } else {
+            cout << " " << i << " ";
+        }
+    }
+    cout << "\n";
+    for(int i = 0; i < theMap->height; i++){
+        if (i > 9){
+            cout << i << " ";
+        } else {
+            cout << " " << i << " ";
+        }
+        for(int j = 0; j < theMap->width; j++) {
+
+            if(theMap->map.at(i).at(j)->isPath){
+                returnString += ' P ';
+            }else {
+                returnString += ' ' + theMap->map.at(i).at(j)->state->letter + ' ';
+            }
+        }
+        returnString += "\n";
+    }
+    cout << returnString;
+}
+
+void MapCreator::printMapWithIndex(){
+    std::string returnString = "";
+    for (int i = 0; i < theMap->height; i++){
+        if (i > 9){
+            cout << i << " ";
+        } else {
+            cout << " " << i << " ";
+        }
+    }
+    cout << "\n";
+    for(int i = 0; i < theMap->height; i++){
+        if (i > 9){
+            cout << i << " ";
+        } else {
+            cout << " " << i << " ";
+        }
+        for(int j = 0; j < theMap->width; j++) {
+            returnString += ' ' + theMap->map.at(i).at(j)->state->letter + ' ';
+        }
+        returnString += "\n";
+    }
+    cout << returnString;
 }

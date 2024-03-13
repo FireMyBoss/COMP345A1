@@ -15,13 +15,14 @@ public:
     MapCreator(int width, int height); //first time
     
     void createStart();
-    void createEnd();
+    bool createEnd();
 
-    void createPath();
+    void createThePath();
 
     void createAMap(); //housing func
 
-    void veiwMapWithIndexes();
+    void printMapWithPathAndIndex();    //prints the map with the path, purely to help make the path
+    void printMapWithIndex();   //prints the map with indexes, to help make the map (fill with walls, treasure chests, etc)
 
     vector<int> getCoordinates(); // y,x
 
