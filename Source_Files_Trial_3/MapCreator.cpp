@@ -11,13 +11,10 @@ MapCreator::MapCreator(int width, int height){
     theMap->width = width;
     MapCreator::createStart(); //handles all start cases
     theMap->placePerimeterWalls();
-    bool check = MapCreator::createEnd();
-    if (!check){
+    if (!MapCreator::createEnd()){
         MapCreator::createThePath();
     }
-    
-
-
+    MapCreator::createAMap();
 }
 
 void MapCreator::createStart(){
@@ -240,5 +237,43 @@ void MapCreator::addVerticalPath(int OriginX, int OriginY, int endY){
     int lower = OriginY > endY ? endY : OriginY;
     for (int i = lower; i <= higher; i++){
         theMap->map[i][OriginX]->isPath = true;
+    }
+}
+
+void MapCreator::createAMap(){
+    cout << "Welcome to the Map editing screen.\n";
+    bool roomsCreated = false;
+    while (true){
+        MapCreator::printMapWithPathAndIndex();
+        int input;
+        bool isValidInput = false;
+        do {
+            cout << "\nWould you like to:\n1. Select a coordinate to add a specific state\n2. Exit\n";
+            if(!roomsCreated){
+                cout << "3. Randomly generate rooms around the map\n";
+            }
+            cout << "\nPlease input one of the numbers above: ";
+            
+            std::cin >> input;
+
+            // Check if the input is valid
+            if (std::cin.fail() || (input != 1 && input != 2 && input != 3)) {
+                std::cin.clear(); 
+                std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); 
+                std::cout << "Invalid input. Please enter 1, 2, or 3." << std::endl;
+            } else if (input == 3 && roomsCreated) {
+                std::cout << "You've already selected '3'. Please choose another number." << std::endl;
+            } else {
+                isValidInput = true;
+            }
+        } while (!isValidInput);
+        if(input == 1){
+            
+        } else if (input == 2){
+            break;
+        } else { //input == 3
+           theMap ->fillMapWithRooms();
+           roomsCreated = true;
+        }   
     }
 }

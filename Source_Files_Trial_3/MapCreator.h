@@ -19,8 +19,6 @@ public:
 
     void createThePath();
 
-    void createAMap(); //housing func
-
     vector<int> getCoordinates(); // y,x
 
     void printMapWithPathAndIndex();    //prints the map with the path, purely to help make the path
@@ -28,6 +26,8 @@ public:
 
     void addHorizontalPath(int OriginX, int OriginY, int endX); //only replace the inside
     void addVerticalPath(int OriginX, int OriginY, int endY);   //only replace the inside
+
+    void createAMap(); //housing func
 
     void addHorizontalState(int OriginX, int OriginY, int endX, State & stt);
     void addVerticalState(int OriginX, int OriginY, int endY, State & stt);
