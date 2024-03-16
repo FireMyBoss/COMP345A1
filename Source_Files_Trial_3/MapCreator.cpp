@@ -241,7 +241,7 @@ void MapCreator::addVerticalPath(int OriginX, int OriginY, int endY){
 }
 
 void MapCreator::createAMap(){
-    cout << "Welcome to the Map editing screen.\n";
+    cout << "\nWelcome to the Map editing screen.\n\n";
     bool roomsCreated = false;
     while (true){
         MapCreator::printMapWithPathAndIndex();
@@ -268,7 +268,10 @@ void MapCreator::createAMap(){
             }
         } while (!isValidInput);
         if(input == 1){
-            
+            cout << "In the form of \"y,x\", please input a coordinate: ";
+            vector<int> coords = MapCreator::getCoordinates();
+            State * theType = MapCreator::getInput();
+            MapCreator::addState(coords[1], coords[0], *theType);
         } else if (input == 2){
             break;
         } else { //input == 3
@@ -276,4 +279,38 @@ void MapCreator::createAMap(){
            roomsCreated = true;
         }   
     }
+}
+
+State* MapCreator::getInput(){
+    char input;
+    bool isValid = false;
+    State *a;
+
+    do {
+        std::cout << "Please enter 'D' for door, 'T' for treasure chest, or 'W' for wall: ";
+        std::cin >> input;
+
+        input = toupper(input);
+
+        if (input == 'D' || input == 'T' || input == 'W') {
+            isValid = true;
+        } else {
+            std::cout << "Invalid input. Please try again.\n";
+        }
+
+        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+    } while (!isValid);
+    switch (input) {
+        case 'D':
+            return new Door();
+        case 'T':
+            return new TreasureChest();
+        case 'W':
+            return new Wall();
+    }
+}
+
+void MapCreator::addState(int x, int y, State & stt){
+    theMap->map[y][x]->state = &stt;
+
 }
