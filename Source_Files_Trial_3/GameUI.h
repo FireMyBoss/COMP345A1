@@ -69,5 +69,8 @@ std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path 
 std::vector<std::vector<std::string> > getCharacterInformationInCharacterDirectory(fs::path & characterDirectoryPath);
 std::string normalizeCSVOutput(std::string CSVInput);
 
+//for shai's MapCreator
+void createNewCampaign();
+
 
 #endif //COMP345A1_MAIN_GAMEUI_H

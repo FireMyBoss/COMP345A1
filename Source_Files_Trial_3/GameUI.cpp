@@ -3,6 +3,7 @@
 //
 
 #include "GameUI.h"
+#include "MapCreator.h"
 
 
 
@@ -573,6 +574,7 @@ void displayCampaignMenu(){
                 break;
             }
             case '2': {
+                createNewCampaign();
                 break;
             }
             case '3': {
@@ -647,4 +649,11 @@ void funcForCSV(){
         }
     }
 
+}
+
+//shai's func
+void createNewCampaign(){
+    while(true){
+
+    }
 }
