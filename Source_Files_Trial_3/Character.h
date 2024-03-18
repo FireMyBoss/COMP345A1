@@ -6,6 +6,7 @@
 #define COMP_345_ASSIGNMENT_ONE_CHARACTER_H
 #include "GroupItemH.h"
 #include <string>
+#include "misc.h"
 
 /* Playable character types are as follows: Barbarian, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer,
  * Wizard, and Bard. Each character has characteristics, ability scores, and modifiers for each ability. For player
@@ -31,6 +32,8 @@ public:
     int y;
 
     bool isEnemy;
+
+    void updateCharacterCoords(int x, int y);
 
     // Constructors
     Character();
@@ -95,6 +98,17 @@ public:
     void setWisdomModifier();
     void setCharismaModifier();
 
+    void setStrengthModifier(int strengthModifierUpdate);
+    void setDexterityModifier(int dexterityModifierUpdate);
+    void setConstitutionModifier(int constitutionModifierUpdate);
+    void setIntelligenceModifier(int intelligenceModifierUpdate);
+    void setWisdomModifier(int wisdomModifierUpdate);
+    void setCharismaModifier(int charismaModifierUpdate);
+    void setHitPoints(int hitPointsUpdate);
+    void setArmorClass(int armorClassUpdate);
+    void setAttackBonus(int attackBonusUpdate);
+    void setDamageBonus(int damageBonusUpdate);
+
     // UI for menu
     void printCharacter(Character* character);
     Character* createNewCharacter(std::vector<Character*> & createdCharacterArray);
@@ -139,6 +153,6 @@ protected:
     int calculateModifier(int abilityScore);
 
 };
-
+Character * buildCharacterFromSaveFile(std::vector<std::string> characterInformation);
 
 #endif //COMP_345_ASSIGNMENT_ONE_CHARACTER_H

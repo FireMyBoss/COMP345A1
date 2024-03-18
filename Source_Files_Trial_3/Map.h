@@ -18,7 +18,8 @@
 #include <vector>
 #include "userInput.h"
 #include "misc.h"
-
+#include "Item.h"
+#include <queue>
 
 class Map {
 public:
@@ -35,7 +36,7 @@ public:
 		
     Map();
     Map(int height, int width);
-    Map(int height, int width, std::vector<Character *> players);
+    Map(std::vector<std::vector<std::string> > mapAsVectorOfStrings);
 
     void createStart();
     void putPlayerAtStart(Character * player);
@@ -49,13 +50,16 @@ public:
     Map* generateInitialMapInfo();
     std::string toString(Map* currentMap);
     void loadCharactersIntoMap(std::vector<Character *> players);
-
-
+    bool getUserInput(Character * player);
+    State * getStateOfCell(int x, int y);
+    bool pauseMenuUIandExitGame();
 
 };
 class MapObserver {
 public:
     std::string to_string(Map * currentMap);
 };
+
+std::vector<std::vector<std::string> > mapToVectorForCSV(Map * theMap);
 
 #endif //SOURCE_FILES_TRIAL_3_MAP_H

@@ -5,6 +5,8 @@
 #include <termios.h>
 #include <cstring>
 #include <cmath>
+#include "State.h"
+#include "Item.h"
 
 #pragma once
 
@@ -64,6 +66,11 @@ int ifUserSelectsMenuOption(char* input);
 int diagonalTest(int input, int timeInNs);
 
 int userInputCase(char* input);
+
+
+
+
+
 
 
 

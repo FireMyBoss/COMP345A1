@@ -92,6 +92,11 @@ Character::Character(int levelToSet, std::string & name) : level(levelToSet){
     setCharismaModifier();
 }
 
+void Character::updateCharacterCoords(int x, int y){
+    this->x = x;
+    this->y = y;
+}
+
 // Getters
 std::string Character::getCharacterClass() const {return characterClass;}
 std::string Character::getName() const {return name;}
@@ -148,6 +153,17 @@ void Character::setConstitutionModifier() {this->constitutionModifier = calculat
 void Character::setIntelligenceModifier() {this->intelligenceModifier = calculateModifier(getIntelligenceScore());}
 void Character::setWisdomModifier() {this->wisdomModifier = calculateModifier(getWisdomScore());}
 void Character::setCharismaModifier() {this->charismaModifier = calculateModifier(getCharismaScore());}
+
+void Character::setStrengthModifier(int strengthModifierUpdate){this->strengthModifier = strengthModifierUpdate;}
+void Character::setDexterityModifier(int dexterityModifierUpdate){this->dexterityModifier = dexterityModifierUpdate;}
+void Character::setConstitutionModifier(int constitutionModifierUpdate){this->constitutionModifier = constitutionModifierUpdate;}
+void Character::setIntelligenceModifier(int intelligenceModifierUpdate){this->intelligenceModifier = intelligenceModifierUpdate;}
+void Character::setWisdomModifier(int wisdomModifierUpdate){this->wisdomModifier = wisdomModifierUpdate;}
+void Character::setCharismaModifier(int charismaModifierUpdate){this->charismaModifier = charismaModifierUpdate;}
+void Character::setHitPoints(int hitPointsUpdate){this->hitPoints = hitPointsUpdate;}
+void Character::setArmorClass(int armorClassUpdate){this->armorClass = armorClassUpdate;}
+void Character::setAttackBonus(int attackBonusUpdate){this->attackBonus = attackBonusUpdate;}
+void Character::setDamageBonus(int damageBonusUpdate){this->damageBonus = damageBonusUpdate;}
 
 // Calculates the modifier based on d20 rules
 int Character::calculateModifier(int abilityScore) {return floor((abilityScore - 10) / 2);}
@@ -228,6 +244,8 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
 
     Character *newCharacter;
 
+    clearConsole();
+
     std::cout << "Please fill in the following options to create a new player:" << std::endl;
 
     std::cout << "" << std::endl;
@@ -277,7 +295,6 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
     std::cout << "'11' for Wizard" << std::endl;
     std::cout << "Enter option here: " << std::endl;
 
-    std::cout << "" << std::endl;
 
     // Get input for class
     int characterClass;
@@ -297,6 +314,7 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
         }
     }
 
+    std::cout << "" << std::endl;
 
     switch(characterClass) {
         case 1:
@@ -355,6 +373,8 @@ void Character::displayCreatedCharacterList(std::vector<Character*> & createdCha
 
 void Character::createCharacterInterface() {
 
+    clearConsole();
+
     std::cout << "Welcome to D&D character creation!" << std::endl;
     std::cout << "----------------------------------" << std::endl;
 
@@ -399,4 +419,83 @@ void Character::createCharacterInterface() {
             continue;
         }
     }
+}
+Character * buildCharacterFromSaveFile(std::vector<std::string> characterInformation){
+
+    Character * newCharacter;
+
+    // 26 characteristics
+    std::string name = characterInformation.at(0);
+    std::string characterClass = characterInformation.at(1);
+    int level = stoi(characterInformation.at(2));
+    int hitPoints = stoi(characterInformation.at(3));
+    int armorClass = stoi(characterInformation.at(4));
+    int attackBonus = stoi(characterInformation.at(5));
+    int damageBonus = stoi(characterInformation.at(6));
+    Helmet * helmet = nullptr; // characterInformation.at(7);
+    Boots * boots = nullptr; // characterInformation.at(8);
+    Armor * armor = nullptr; // characterInformation.at(9);
+    Shield * shield = nullptr; // characterInformation.at(10);
+    Weapon * weapon = nullptr; // characterInformation.at(11);
+    Ring * ring = nullptr; // characterInformation.at(12);
+    Belt * belt = nullptr; // characterInformation.at(13);
+    int strengthScore = stoi(characterInformation.at(14));
+    int dexterityScore = stoi(characterInformation.at(15));
+    int constitutionScore = stoi(characterInformation.at(16));
+    int intelligenceScore = stoi(characterInformation.at(17));
+    int wisdomScore = stoi(characterInformation.at(18));
+    int charismaScore = stoi(characterInformation.at(19));
+    int strengthModifier = stoi(characterInformation.at(20));
+    int dexterityModifier = stoi(characterInformation.at(21));
+    int constitutionModifier = stoi(characterInformation.at(22));
+    int intelligenceModifier = stoi(characterInformation.at(23));
+    int wisdomModifier = stoi(characterInformation.at(24));
+    int charismaModifier = stoi(characterInformation.at(25));
+
+    if(characterClass == "Barbarian"){
+        newCharacter = new Barbarian(level, name);
+    }else if(characterClass == "Bard"){
+        newCharacter = new Bard(level, name);
+    }else if(characterClass == "Cleric"){
+        newCharacter = new Cleric(level, name);
+    }else if(characterClass == "Druid"){
+        newCharacter = new Druid(level, name);
+    }else if(characterClass == "Fighter"){
+        newCharacter = new Fighter(level, name);
+    }else if(characterClass == "Monk"){
+        newCharacter = new Monk(level, name);
+    }else if(characterClass == "Paladin"){
+        newCharacter = new Paladin(level, name);
+    }else if(characterClass == "Ranger"){
+        newCharacter = new Ranger(level, name);
+    }else if(characterClass == "Rogue"){
+        newCharacter = new Rogue(level, name);
+    }else if(characterClass == "Sorcerer"){
+        newCharacter = new Sorcerer(level, name);
+    }else if(characterClass == "Wizard"){
+        newCharacter = new Wizard(level, name);
+    }else{
+        newCharacter = new Character();
+    }
+
+
+    newCharacter->setStrengthScore(strengthScore);
+    newCharacter->setDexterityScore(dexterityScore);
+    newCharacter->setConstitutionScore(constitutionScore);
+    newCharacter->setIntelligenceScore(intelligenceScore);
+    newCharacter->setWisdomScore(wisdomScore);
+    newCharacter->setCharismaScore(charismaScore);
+    newCharacter->setStrengthModifier(strengthModifier);
+    newCharacter->setDexterityModifier(dexterityModifier);
+    newCharacter->setConstitutionModifier(constitutionModifier);
+    newCharacter->setIntelligenceModifier(intelligenceModifier);
+    newCharacter->setWisdomModifier(wisdomModifier);
+    newCharacter->setCharismaModifier(charismaModifier);
+    newCharacter->setHitPoints(hitPoints);
+    newCharacter->setArmorClass(armorClass);
+    newCharacter->setAttackBonus(attackBonus);
+    newCharacter->setDamageBonus(damageBonus);
+
+    return newCharacter;
+
 }

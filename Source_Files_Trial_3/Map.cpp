@@ -22,15 +22,15 @@ using namespace std;
 
 Map::Map() {
 
-    height = 0;
+  height = 0;
  	width = 0;
 	startX = 0;
 	startY = 0;
 	endX = 0;
-    endY = 0;
+  endY = 0;
     std::vector<Character *> players;
     this->playersInGame = players;
-    
+
     for(int i = 0; i < height; i++) {
         for (int j = 0; j < width; j++) {
             std::vector<Cell *> newVector;
@@ -39,6 +39,7 @@ Map::Map() {
             map.at(i).push_back(newCell);
         }
     }
+    
 }
 
 Map::Map(int height, int width){
@@ -65,33 +66,81 @@ Map::Map(int height, int width){
     Map::snakeEndPath();
     Map::fillMapWithWalls();
     Map::fillMapWithRooms();
-    Map::loadCharactersIntoMap(players);
 }
 
-Map::Map(int height, int width, std::vector<Character *> players){
+Map::Map(std::vector<std::vector<std::string> > mapAsVectorOfStrings){
 
-    this->height = height;
-    this->width = width;
+    this->height = mapAsVectorOfStrings.size();
+    this->width = mapAsVectorOfStrings.at(0).size();
+    std::vector<Character *> players;
+    this->playersInGame = players;
+
+    /* Need to initialize
     this->startX = 0;
     this->startY = 0;
     this->endX = 0;
     this->endY = 0;
-    this->playersInGame = players;
-
+     */
+    // states: TreasureChest 'C', EmptySpot '.', Wall 'X', Door 'D', StartSpot 'S', EndSpot 'E'
+    // isPath = '!'
     for(int i = 0; i < height; i++) {
         for (int j = 0; j < width; j++) {
             std::vector<Cell *> newVector;
             map.push_back(newVector);
-            Cell * newCell = new Cell();
+            Cell * newCell = new Cell(); // need to add characteristics to the cell before pushing to the newVector
+
+            std::string currentString = mapAsVectorOfStrings.at(i).at(j);
+            if(currentString.find('.') != std::string::npos){
+                State * newState = new EmptySpot();
+                newCell->state = newState;
+                if(currentString.find('!') != std::string::npos){
+                    newCell->isPath = true;
+                }
+            }else if(currentString.find('C') != std::string::npos){
+                State * newState = new TreasureChest();
+                newCell->state = newState;
+                if(currentString.find('!') != std::string::npos){
+                    newCell->isPath = true;
+                }
+            }else if(currentString.find('X') != std::string::npos){
+                State * newState = new Wall();
+                newCell->state = newState;
+                if(currentString.find('!') != std::string::npos){
+                    newCell->isPath = true;
+                }
+            }else if(currentString.find('D') != std::string::npos){
+                State * newState = new Door();
+                newCell->state = newState;
+                if(currentString.find('!') != std::string::npos){
+                    newCell->isPath = true;
+                }
+            }else if(currentString.find('S') != std::string::npos){
+                State * newState = new StartSpot();
+                newCell->state = newState;
+                this->startX = j;
+                this->startY = i;
+                if(currentString.find('!') != std::string::npos){
+                    newCell->isPath = true;
+                }
+            }else if(currentString.find('E') != std::string::npos){
+                State * newState = new EndSpot();
+                newCell->state = newState;
+                this->endX = j;
+                this->endX = i;
+                if(currentString.find('!') != std::string::npos){
+                    newCell->isPath = true;
+                }
+            }else{
+                State * newState = nullptr;
+                newCell->state = newState;
+                if(currentString.find('!') != std::string::npos){
+                    newCell->isPath = true;
+                }
+            }
+
             map.at(i).push_back(newCell);
         }
     }
-    Map::createStart();
-    Map::placePerimeterWalls();
-    Map::snakeEndPath();
-    Map::fillMapWithWalls();
-    Map::fillMapWithRooms();
-    Map::loadCharactersIntoMap(players);
 }
 
 void Map::createStart(){ // finds a starting point on the perimeter
@@ -686,7 +735,8 @@ Map* Map::generateInitialMapInfo() {
 
 std::string Map::toString(Map* currentMap) {
 	
-		std::string returnString = "";
+    std::string returnString = "";
+
     for(int i = 0; i < currentMap->height; i++){
         for(int j = 0; j < currentMap->width; j++) {
 
@@ -707,6 +757,236 @@ void Map::loadCharactersIntoMap(std::vector<Character *> players){
     this->map.at(startY).at(startX)->characterInSpot = players.at(0);
 
 }
+
+bool Map::pauseMenuUIandExitGame(){
+
+    clearConsole();
+
+    std::cout << "Pause Menu" << std::endl;
+    std::cout << "----------" << std::endl;
+    std::cout << "" << std::endl;
+    std::cout << "Enter '1' to unpause" << std::endl;
+    std::cout << "Enter '2' to exit game" << std::endl;
+
+    char playerInputChar;
+
+    for (;;){
+        try {
+            std::cin >> playerInputChar;
+            if(cin.fail()) {
+                std::cin.clear();
+                std::cin.ignore();
+                throw std::runtime_error("Invalid input. Please enter a character.");
+                continue;
+            }else if(playerInputChar != '1' && playerInputChar != '2'){
+                std::cin.clear();
+                std::cin.ignore();
+                continue;
+            }
+            break;
+        } catch (...) {
+            std::cin.clear();
+            std::cin.ignore();
+        }
+    }
+    switch(playerInputChar){
+        case '1':{
+            return false;
+        }
+        case '2':{
+
+            return true;
+        }
+        default:{
+            break;
+        }
+    }
+    return false;
+}
+
+bool Map::getUserInput(Character * player){
+
+    std::cout << "Please enter a direction to move ('w', 'a', 's', 'd') or pause ('p'):";
+    std::cout << "" << std::endl;
+    char playerInputChar;
+
+    for (;;){
+        try {
+            std::cin >> playerInputChar;
+            if(cin.fail()) {
+                std::cin.clear();
+                std::cin.ignore();
+                throw std::runtime_error("Invalid input. Please enter a character.");
+                continue;
+            }else if(playerInputChar != 'w' && playerInputChar != 'a' && playerInputChar != 's'
+            && playerInputChar != 'd' && playerInputChar != 'p'){
+                std::cin.clear();
+                std::cin.ignore();
+                continue;
+            }
+            break;
+        } catch (...) {
+            std::cin.clear();
+            std::cin.ignore();
+        }
+    }
+
+    State * stateToCheck;
+    int movementX = 0;
+    int movementY = 0;
+
+    switch(playerInputChar){
+        case 'w':{
+            // must first check if out of bounds
+            movementX = player->x;
+            movementY = player->y - 1;
+            try {
+                stateToCheck = getStateOfCell(movementX, movementY);
+            }catch(...){
+                return false;
+            }
+            break;
+        }
+        case 'a':{
+            // must first check if out of bounds
+            movementX = player->x - 1;
+            movementY = player->y;
+            try {
+                stateToCheck = getStateOfCell(movementX, movementY);
+            }catch(...){
+                return false;
+            }
+            break;
+        }
+        case 's':{
+            // must first check if out of bounds
+            movementX = player->x;
+            movementY = player->y + 1;
+            try {
+                stateToCheck = getStateOfCell(movementX, movementY);
+            }catch(...){
+                return false;
+            }
+            break;
+        }
+        case 'd':{
+            // must first check if out of bounds
+            movementX = player->x + 1;
+            movementY = player->y;
+            try {
+                stateToCheck = getStateOfCell(movementX, movementY);
+            }catch(...){
+                return false;
+            }
+            break;
+        }
+        case 'p':{
+            stateToCheck = nullptr;
+            bool exitGame;
+            exitGame = pauseMenuUIandExitGame();
+            return exitGame;
+        }
+        default: {
+            stateToCheck = nullptr;
+            break;
+        }
+    }
+    if(stateToCheck == nullptr){
+        return false;
+    }
+
+    switch(stateToCheck->letter){
+        case '.':{
+            this->map.at(player->y).at(player->x)->characterInSpot = nullptr;
+            player->x = movementX;
+            player->y = movementY;
+            this->map.at(player->y).at(player->x)->characterInSpot = player;
+            break;
+        }
+        case 'X':{
+            std::cout << "--- A wall obstructs your way. ---" << std::endl;
+            std::cout << "" << std::endl;
+            break;
+        }
+        case 'D':{
+            this->map.at(player->y).at(player->x)->characterInSpot = nullptr;
+            player->x = movementX;
+            player->y = movementY;
+            this->map.at(player->y).at(player->x)->characterInSpot = player;
+            break;
+        }
+        case 'S':{
+            this->map.at(player->y).at(player->x)->characterInSpot = nullptr;
+            player->x = movementX;
+            player->y = movementY;
+            this->map.at(player->y).at(player->x)->characterInSpot = player;
+            break;
+        }
+        case 'E':{
+            this->map.at(player->y).at(player->x)->characterInSpot = nullptr;
+            player->x = movementX;
+            player->y = movementY;
+            this->map.at(player->y).at(player->x)->characterInSpot = player;
+            break;
+        }
+        case 'C':{
+            std::cout << "--- A chest is before you... open it? ('y' or 'n'):" << std::endl;
+            std::cout << "" << std::endl;
+            char openChestDecision;
+
+            for (;;){
+                try {
+                    std::cin >> openChestDecision;
+                    if(cin.fail()) {
+                        std::cin.clear();
+                        std::cin.ignore();
+                        throw std::runtime_error("Invalid input. Please enter a character.");
+                        continue;
+                    }else if(openChestDecision != 'n' && openChestDecision != 'y'){
+                        std::cin.clear();
+                        std::cin.ignore();
+                        continue;
+                    }
+                    break;
+                } catch (...) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                }
+            }
+
+            if(openChestDecision == 'y'){
+                std::cout << "--- Chest Contents ---" << std::endl;
+                std::cout << "" << std::endl;
+                TreasureChest * newChest;
+                newChest = (TreasureChest *)this->map.at(movementX).at(movementY)->state;
+                std::vector<Item> itemVector = newChest->getContents();
+                if(itemVector.empty()){
+                    newChest = nullptr;
+                    break;
+                }
+                for(int i = 0; i < itemVector.size(); i++){
+                    std::cout << "inside chest" << std::endl;
+                    std::cout << "" << std::endl;
+                }
+                newChest = nullptr;
+                break;
+            }else{
+                break;
+            }
+            break;
+        }
+        default:{
+            break;
+        }
+    }
+
+    stateToCheck = nullptr;
+    return false;
+}
+
+State * Map::getStateOfCell(int x, int y){
+    return this->map.at(y).at(x)->state;
+}
 	
  std::string MapObserver::to_string(Map * currentMap){ // this should be the map observer class
     std::string returnString = "";
@@ -722,4 +1002,27 @@ void Map::loadCharactersIntoMap(std::vector<Character *> players){
         returnString += "\n";
     }
     return returnString;
+}
+
+std::vector<std::vector<std::string> > mapToVectorForCSV(Map * theMap){
+
+    std::vector<std::vector<std::string> > mapVector;
+
+    for(int i = 0; i < theMap->height; i++){
+        std::vector<std::string> newVec;
+        for(int j = 0; j < theMap->width; j++) {
+
+
+                std::string currString = "";
+                currString += theMap->map.at(i).at(j)->state->letter;
+
+                if(theMap->map.at(i).at(j)->isPath){
+                    currString += "!";
+                }
+                newVec.push_back(currString);
+        }
+
+        mapVector.push_back(newVec);
+    }
+    return mapVector;
 }

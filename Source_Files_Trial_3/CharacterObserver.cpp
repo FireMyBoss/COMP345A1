@@ -7,7 +7,8 @@
 std::string CharacterObserver::to_string(Character * character){
     std::string returnString = "";
 
-    returnString += "---Character Characteristics---";
+    returnString += "---Character Info---";
+    returnString += "\n";
     returnString += "Name: ";
     returnString += character->getName();
     returnString += "\n";
@@ -15,19 +16,19 @@ std::string CharacterObserver::to_string(Character * character){
     returnString += character->getCharacterClass();
     returnString += "\n";
     returnString += "Level: ";
-    returnString += character->getLevel();
+    returnString += std::to_string(character->getLevel());
     returnString += "\n";
     returnString += "Hit Points: ";
-    returnString += character->getHitPoints();
+    returnString += std::to_string(character->getHitPoints());
     returnString += "\n";
     returnString += "Armor Class: ";
-    returnString += character->getArmorClass();
+    returnString += std::to_string(character->getArmorClass());
     returnString += "\n";
     returnString += "Attack Bonus: ";
-    returnString += character->getAttackBonus();
+    returnString += std::to_string(character->getAttackBonus());
     returnString += "\n";
     returnString += "Damage Bonus: ";
-    returnString += character->getDamageBonus();
+    returnString += std::to_string(character->getDamageBonus());
     returnString += "\n";
     return returnString;
 }

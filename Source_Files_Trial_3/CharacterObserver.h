@@ -6,6 +6,7 @@
 #define CHARACTER_CPP_CHARACTEROBSERVER_H
 
 #include "Character.h"
+#include "allcharacters.h"
 
 class CharacterObserver {
 public:
