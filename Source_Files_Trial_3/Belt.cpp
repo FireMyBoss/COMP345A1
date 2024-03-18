@@ -1,4 +1,6 @@
 #include "Belt.h"
+#include "misc.h"
+
 #include <cstdlib>
 #include <string>
 
@@ -11,6 +13,7 @@ Belt::Belt(){
 }
 
 void Belt::getRandomEnchantment(){
-    srand((unsigned) time(NULL));
-    setEnchantment(listOfEnchantments[rand() % 2]);
+
+    setEnchantment(listOfEnchantments[getCurrentTime() % 2]);
+    
 }

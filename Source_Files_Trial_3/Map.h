@@ -37,6 +37,7 @@ public:
     Map();
     Map(int height, int width);
     Map(std::vector<std::vector<std::string> > mapAsVectorOfStrings);
+    ~Map();
 
     void createStart();
     void putPlayerAtStart(Character * player);

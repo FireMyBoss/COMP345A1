@@ -4,6 +4,8 @@
 #include <string>
 #include <stdio.h>
 
+#include "misc.h"
+
 using namespace std;
 
 class Item{

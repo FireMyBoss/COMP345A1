@@ -15,10 +15,15 @@ public:
 
 };
 
-class EmptySpot : public State{
-public:
-    EmptySpot(){this->letter = '.'; this->colour = "white";};
-};
+class EmptySpot: 
+
+	public State{
+
+	public:
+
+		  EmptySpot(){this->letter = '.'; this->colour = "white";};
+		  
+	};
 
 class Wall : public State{
 public:

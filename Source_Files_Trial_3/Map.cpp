@@ -143,6 +143,27 @@ Map::Map(std::vector<std::vector<std::string> > mapAsVectorOfStrings){
     }
 }
 
+
+Map::~Map() {
+    // Deallocate memory for each Cell object
+    for (int i = 0; i < height; ++i) {
+        for (int j = 0; j < width; ++j) {
+            delete map[i][j];
+        }
+    }
+
+    // Clear the map vector
+    map.clear();
+
+    // Deallocate memory for each Character object in playersInGame vector
+    for (size_t i = 0; i < playersInGame.size(); ++i) {
+        delete playersInGame[i];
+    }
+
+    // Clear the playersInGame vector
+    playersInGame.clear();
+}
+
 void Map::createStart(){ // finds a starting point on the perimeter
     // if 1 -> left side, if 2 -> top, if 3 -> right side, if 4 -> bottom
     time_t t;
