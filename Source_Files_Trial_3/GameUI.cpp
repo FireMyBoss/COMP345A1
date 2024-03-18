@@ -653,7 +653,46 @@ void funcForCSV(){
 
 //shai's func
 void createNewCampaign(){
-    while(true){
+    bool MadeCharacter = false, MadeMaps = false;
+    int input;
+    while(!MadeMaps && !MadeCharacter){
+        std::cout << "\n\nWould you like to:";
+        if(!MadeCharacter){
+            MadeCharacter = true;
+            std::cout << "\n1. Create a character";
+        }
+        if(!MadeMaps){
+            MadeMaps = true;
+            std::cout << "\n2. Create new Maps";
+        }
+        std::cout << "\n\nPlease input one of the numbers above: ";
+        for (;;) {
+            try {
+                std::cin >> input;
+                if (cin.fail()) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                    throw std::runtime_error("Invalid input. Please enter an integer.");
+                    continue;
+                } else if (input != '1' && input != '2') {
+                    continue;
+                }
+                break;
+            } catch (...) {
+                std::cin.clear();
+                std::cin.ignore();
+            }
+        }
+        if(input == 1){
 
+        } else {
+            bool keepMakingMaps = true;
+            while(keepMakingMaps){
+                std::cout << "Please input";
+                MapCreator create();
+            }
+        }
+        
     }
+
 }
