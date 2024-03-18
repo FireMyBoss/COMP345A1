@@ -17,6 +17,50 @@ MapCreator::MapCreator(int width, int height){
     MapCreator::createAMap();
 }
 
+MapCreator::MapCreator(int width, int height, vector<int> prevMapEnd){
+    theMap->height = height;
+    theMap->width = width;
+    MapCreator::setStartBasedOnPrev(prevMapEnd);
+    theMap->placePerimeterWalls();
+    if (!MapCreator::createEnd()){
+        MapCreator::createThePath();
+    }
+    MapCreator::createAMap();
+}
+
+void MapCreator::setStartBasedOnPrev(vector<int> prevMapEnd){
+    if(prevMapEnd[0] == 0){ //top
+        theMap -> startY = theMap -> height -1;
+        if(prevMapEnd[1] < theMap->width-1){
+            theMap -> startX = prevMapEnd[1];
+        } else{
+            theMap -> startX = theMap->width/2;
+        }
+    } else if (prevMapEnd[0] == theMap->height-1){ //bottom
+        theMap -> startY = 0;
+        if(prevMapEnd[1] < theMap->width-1){
+            theMap -> startX = prevMapEnd[1];
+        } else{
+            theMap -> startX = theMap->width/2;
+        }
+    } else if (prevMapEnd[1] == 0){ //left
+       theMap -> startX = theMap -> width -1;
+        if(prevMapEnd[0] < theMap->height-1){
+            theMap -> startY = prevMapEnd[0];
+        } else{
+            theMap -> startY = theMap->height/2;
+        }
+    } else { //right
+        theMap -> startX = 0;
+        if(prevMapEnd[0] < theMap->height-1){
+            theMap -> startY = prevMapEnd[0];
+        } else{
+            theMap -> startY = theMap->height/2;
+        }
+    }
+    
+}
+
 void MapCreator::createStart(){
     while (true){
         cout << "Would you like to:\n1. Create a start point at a specific spot\n2. Create a random start point\n\nPlease input one of the numbers above: ";

@@ -11,9 +11,11 @@ class MapCreator{
 private:
    Map * theMap;
 public:
-    MapCreator(int width, int height, vector<int> start); //every time after the first
+    MapCreator(int width, int height, vector<int> prevMapEnd); //every time after the first, last map's start should be inputed
     MapCreator(int width, int height); //first time
     
+    void setStartBasedOnPrev(vector<int> prevMapEnd);
+
     void createStart();
     bool createEnd();
 
