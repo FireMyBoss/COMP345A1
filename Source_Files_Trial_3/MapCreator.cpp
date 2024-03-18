@@ -234,7 +234,7 @@ void MapCreator::printMapWithPathAndIndex(){
         for(int j = 0; j < theMap->width; j++) {
 
             if(theMap->map.at(i).at(j)->isPath){
-                returnString += ' P ';
+                returnString += " P ";
             }else {
                 returnString += ' ' + theMap->map.at(i).at(j)->state->letter + ' ';
             }
@@ -351,6 +351,8 @@ State* MapCreator::getInput(){
             return new TreasureChest();
         case 'W':
             return new Wall();
+        default:
+            return nullptr;
     }
 }
 
