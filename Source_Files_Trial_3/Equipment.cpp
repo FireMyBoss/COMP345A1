@@ -1,8 +1,10 @@
 #include "Equipment.h"
 #include<cstdlib>
 
+#include "misc.h"
+
 void Equipment::setRandBonus(){
     srand((unsigned) time(NULL));
-    enchantmentBonus = rand() % 6;
+    enchantmentBonus = getCurrentTime() % 6;
 
 }

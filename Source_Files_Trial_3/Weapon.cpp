@@ -1,4 +1,6 @@
 #include "Weapon.h"
+#include "misc.h"
+
 #include <cstdlib>
 #include <string>
 
@@ -13,5 +15,5 @@ Weapon::Weapon(){
 
 void Weapon::getRandomEnchantment(){
     srand((unsigned) time(NULL));
-    setEnchantment(listOfEnchantments[rand() % 2]);
+    setEnchantment(listOfEnchantments[getCurrentTime() % 2]);
 }

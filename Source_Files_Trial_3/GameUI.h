@@ -22,6 +22,17 @@
 #include <string>
 #include <sstream>
 #include <unordered_set>
+
+#ifdef __APPLE__
+
+	namespace fs = std::__fs::filesystem;
+
+#else 
+	
+	namespace fs = std::filesystem;
+	
+#endif
+
 /*
 Character information in CSV file is saved as below:
 name
@@ -52,7 +63,7 @@ wisdom modifier
 charisma modifier
  */
 
-namespace fs = std::__fs::filesystem; // !!!!!!!!!! For windows/linux do namespace fs = std::filesystem;
+
 
 void creationTestsUI();
 void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::vector<Map *> ptrVectorOfAllMaps, std::vector<Character *> vectorOfAllCharacters);

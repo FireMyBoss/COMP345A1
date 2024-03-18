@@ -2,8 +2,20 @@
 // Created by Nicholas Kamra on 3/12/24.
 //
 
+
 #include "GameUI.h"
+#include <filesystem>
 #include "MapCreator.h"
+
+#ifdef __APPLE__
+
+	namespace fs = std::__fs::filesystem;
+
+#else 
+	
+	namespace fs = std::filesystem;
+	
+#endif
 
 
 

@@ -215,8 +215,6 @@ int isWest(char* input) { //User inputs 'a' key
 
 }
 
-
-
 int ifUserOpensChest(char* input) { //User inputs 'o' key
 
     int hashVal = hashUserInput(input);
@@ -239,6 +237,14 @@ int ifUserSelectsMenuOption(char* input) { // User inputs 'c' key
     int hashVal = hashUserInput(input);
 
     return hashVal == 198 || hashVal == 131; //c in ASCII: 99, space in ASCII: 32. 198 case: oo, 131 case: o space OR space o
+
+}
+
+int ifUserAttacks(char* input) { //User inputs 'k' key
+
+    int hashVal = hashUserInput(input);
+
+    return hashVal == 214 || hashVal == 139; //o in ASCII: 107, space in ASCII: 32. 214 case: oo, 139 case: k space OR space k
 
 }
 
@@ -350,7 +356,7 @@ int userInputCase(char* input) {
         case 194: case 129: // isWest
 
             return 3;
-
+				
         case 216: // isNorthWest
 
             return 4;
@@ -378,6 +384,10 @@ int userInputCase(char* input) {
         case 198: case 131: // ifUserSelectsMenuOption
 
             return 10;
+            
+        case 214: case 139: // ifUserAttacks
+
+            return 11;
 
         default:
 
