@@ -670,11 +670,9 @@ void createNewCampaign(){
     while(!MadeMaps && !MadeCharacter){
         std::cout << "\n\nWould you like to:";
         if(!MadeCharacter){
-            MadeCharacter = true;
             std::cout << "\n1. Create a character";
         }
         if(!MadeMaps){
-            MadeMaps = true;
             std::cout << "\n2. Create new Maps";
         }
         std::cout << "\n\nPlease input one of the numbers above: ";
@@ -686,7 +684,7 @@ void createNewCampaign(){
                     std::cin.ignore();
                     throw std::runtime_error("Invalid input. Please enter an integer.");
                     continue;
-                } else if (input != '1' && input != '2') {
+                } else if (input != 1 && input != 2) {
                     continue;
                 }
                 break;
@@ -696,15 +694,60 @@ void createNewCampaign(){
             }
         }
         if(input == 1){
-
-        } else {
-            bool keepMakingMaps = true;
+            MadeCharacter = true;
+            //
+        } else { //input == 2
+            MadeMaps = true;
+            vector<Map*> listOfMaps;
+            bool keepMakingMaps = true, firstTime = true;
             while(keepMakingMaps){
-                std::cout << "Please input";
-                MapCreator create();
+                std::cout << "\nPlease input the size width and height in the form of: \"width,height\": ";
+                string input;
+                int width, height;
+                while(true){
+                    cin >> input;
+                    char comma;
+                    std::istringstream in(input);
+                    if (!(in >> width >> comma >> height) || comma != ',') {
+                        std::cerr << "Invalid input format. Please provide input in the form of \"y,x\"" << std::endl;
+                    }
+                    if(firstTime){
+                        MapCreator create(width,height);
+                        firstTime = false;
+                        break;
+                    } else {
+                        vector<int> prevEnd;
+                        prevEnd.push_back(listOfMaps.back()->endY);
+                        prevEnd.push_back(listOfMaps.back()->endX);
+                        MapCreator create(width,height, prevEnd);
+                        break;
+                    }
+                }
+                std::cout << "Would you like to create another map? Type 1 for yes and 2 for no: ";
+                int anotherMapInput;
+                for (;;) {
+                    try {
+                        std::cin >> anotherMapInput;
+                        if (cin.fail()) {
+                            std::cin.clear();
+                            std::cin.ignore();
+                            throw std::runtime_error("Invalid input. Please enter an integer.");
+                            continue;
+                        } else if (anotherMapInput != 1 && anotherMapInput != 2) {
+                            continue;
+                        }
+                        break;
+                    } catch (...) {
+                        std::cin.clear();
+                        std::cin.ignore();
+                    }
+                }
+                if(anotherMapInput == 2){
+                    keepMakingMaps = false;
+                    break;
+                }
             }
-        }
         
-    }
+        }
 
 }
