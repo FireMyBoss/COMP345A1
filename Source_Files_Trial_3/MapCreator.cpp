@@ -65,7 +65,23 @@ void MapCreator::createStart(){
     while (true){
         cout << "Would you like to:\n1. Create a start point at a specific spot\n2. Create a random start point\n\nPlease input one of the numbers above: ";
         int selection;
-        cin >> selection;
+        for (;;) {
+            try {
+                std::cin >> selection;
+                if (cin.fail()) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                    throw std::runtime_error("Invalid input. Please enter 1 or 2: ");
+                    continue;
+                } else if (selection != 1 && selection != 2) {
+                    continue;
+                }
+                break;
+            } catch (...) {
+                std::cin.clear();
+                std::cin.ignore();
+            }
+        }
         if (selection == 1){
             while (true){
                 cout << "\n\nEnter input the start index in the form of \"y,x\": ";
