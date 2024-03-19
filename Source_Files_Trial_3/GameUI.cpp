@@ -667,7 +667,7 @@ void funcForCSV(){
 void createNewCampaign(){
     bool MadeCharacter = false, MadeMaps = false;
     int input;
-    while(!MadeMaps && !MadeCharacter){
+    while(!MadeMaps || !MadeCharacter){
         std::cout << "\n\nWould you like to:";
         if(!MadeCharacter){
             std::cout << "\n1. Create a character";
@@ -750,4 +750,5 @@ void createNewCampaign(){
         
         }
 
+    }
 }
