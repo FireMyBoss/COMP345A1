@@ -9,7 +9,6 @@ using namespace std;
 MapCreator::MapCreator(int width, int height){
     Map thisMap(height, width, true);
     theMap = &thisMap;
-    cout<<"here";
     theMap->height = height;
     theMap->width = width;
     MapCreator::createStart(); //handles all start cases
@@ -21,6 +20,8 @@ MapCreator::MapCreator(int width, int height){
 }
 
 MapCreator::MapCreator(int width, int height, vector<int> prevMapEnd){
+    Map thisMap(height, width, true);
+    theMap = &thisMap;
     theMap->height = height;
     theMap->width = width;
     MapCreator::setStartBasedOnPrev(prevMapEnd);
