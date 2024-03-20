@@ -1,6 +1,4 @@
 #include "Helmet.h"
-#include "misc.h"
-
 #include <cstdlib>
 #include <string>
 
@@ -14,7 +12,6 @@ Helmet::Helmet(){
 }
 
 void Helmet::getRandomEnchantment(){
-
-
-    setEnchantment(listOfEnchantments[getCurrentTime() % 3]);
+    srand((unsigned) time(NULL));
+    setEnchantment(listOfEnchantments[rand() % 3]);
 }

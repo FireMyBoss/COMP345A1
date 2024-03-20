@@ -1,6 +1,4 @@
 #include "Boots.h"
-#include "misc.h"
-
 #include <cstdlib>
 #include <string>
 #include <iostream>
@@ -14,7 +12,6 @@ Boots::Boots(){
 }
 
 void Boots::getRandomEnchantment(){
-
-    setEnchantment(listOfEnchantments[getCurrentTime() % 2]);
-    
+    srand((unsigned) time(NULL));
+    setEnchantment(listOfEnchantments[rand() % 2]);
 }

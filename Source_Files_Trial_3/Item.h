@@ -3,12 +3,11 @@
 
 #include <string>
 #include <stdio.h>
-
-#include "misc.h"
+#include "Observable.h"
 
 using namespace std;
 
-class Item{
+class Item : public Observable{
 private:
     bool equipped;
 protected:
@@ -29,7 +28,6 @@ public:
     int getBonus() const {return enchantmentBonus;};
     void setBonus(int bonus){enchantmentBonus = bonus;};
 
-   
 };
 
 #endif

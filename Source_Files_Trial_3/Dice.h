@@ -7,13 +7,13 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <termios.h>
-
 #include "misc.h"
 #include "userInput.h"
+#include "Observable.h"
 
 using namespace std;
 
-class Dice {
+class Dice : public Observable {
 
 	public:
 	

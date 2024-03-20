@@ -7,22 +7,6 @@
 
 using namespace std;
 
-int getOS() {
-
-	#ifdef _WIN32 //Check if system is WindowsOS
-    return 0;
-	#elif __APPLE__ //Check if system is MacOS
-		  return 1;
-	#elif __linux__ //Check if system is linux
-		  return 2;
-	#elif __unix__ //Check if system is unix
-		  return 3;
-	#else //Edge case where system is none of these things
-		  return 4;
-	#endif
-
-}
-
 /**
  * @brief Function to get the current time in nanoseconds.
  * 

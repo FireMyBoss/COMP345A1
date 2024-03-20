@@ -3,8 +3,15 @@
 //
 
 #include "CharacterObserver.h"
+CharacterObserver::CharacterObserver(Character * character){
+    this->character = character;
+}
 
-std::string CharacterObserver::to_string(Character * character){
+void CharacterObserver::update(Observable * observable){
+    std::cout << CharacterObserver::to_string();
+}
+
+std::string CharacterObserver::to_string(){
     std::string returnString = "";
 
     returnString += "---Character Info---";

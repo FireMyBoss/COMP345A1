@@ -7,6 +7,7 @@
 #include "GroupItemH.h"
 #include <string>
 #include "misc.h"
+#include "Observable.h"
 
 /* Playable character types are as follows: Barbarian, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer,
  * Wizard, and Bard. Each character has characteristics, ability scores, and modifiers for each ability. For player
@@ -25,7 +26,7 @@
  * and then taking the floor of the result. The following equation represents the calculation:
  * floor((abilityScore - 10) / 2).
 */
-class Character {
+class Character : public Observable {
 public:
     // Player coordinates
     int x;

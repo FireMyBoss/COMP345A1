@@ -3,8 +3,6 @@
 
 #include <string>
 #include <stdio.h>
-
-#include "misc.h"
 #include "Equipment.h"
 
 using namespace std;

@@ -1,6 +1,4 @@
 #include "Ring.h"
-#include "misc.h"
-
 #include <cstdlib>
 #include <string>
 
@@ -13,7 +11,6 @@ Ring::Ring(){
 }
 
 void Ring::getRandomEnchantment(){
-
-	setEnchantment(listOfEnchantments[getCurrentTime() % 5]);
-
+    srand((unsigned) time(NULL));
+    setEnchantment(listOfEnchantments[rand() % 5]);
 }

@@ -22,17 +22,7 @@
 #include <string>
 #include <sstream>
 #include <unordered_set>
-
-#ifdef __APPLE__
-
-    namespace fs = std::__fs::filesystem;
-
-#else 
-	
-	namespace fs = std::filesystem;
-	
-#endif
-
+#include "MapObserver.h"
 /*
 Character information in CSV file is saved as below:
 name
@@ -63,7 +53,15 @@ wisdom modifier
 charisma modifier
  */
 
+#ifdef __APPLE__
 
+namespace fs = std::__fs::filesystem;
+
+#else
+
+namespace fs = std::filesystem;
+
+#endif
 
 void creationTestsUI();
 void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::vector<Map *> ptrVectorOfAllMaps, std::vector<Character *> vectorOfAllCharacters);
@@ -73,15 +71,16 @@ void displayLoadCampaignMenu();
 void displayCampaignMenu();
 void displayStartingMenu();
 void funcForCSV();
-void campaignSelectionUserInput(std::vector<std::string> & campaigns, const std::string & campaignDirectoryToAppend, std::vector<std::string> & mapNamesInCampaign, std::vector<Map *> & ptrVectorOfAllMaps, std::vector<Character *> & vectorOfAllCharacters);
+bool campaignSelectionUserInput(std::vector<std::string> & campaigns, const std::string & campaignDirectoryToAppend, std::vector<std::string> & mapNamesInCampaign, std::vector<Map *> & ptrVectorOfAllMaps, std::vector<Character *> & vectorOfAllCharacters);
 void gameLoopExampleForDemo();
 std::vector<std::string> getMapsInCampaignCSV(fs::path & campaignCSVFilePath);
 std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path & mapDirectoryPath);
 std::vector<std::vector<std::string> > getCharacterInformationInCharacterDirectory(fs::path & characterDirectoryPath);
 std::string normalizeCSVOutput(std::string CSVInput);
-
-//for shai's MapCreator
+Map* generateInitialMapInfo();
+bool pauseMenuUIandExitGame();
+char getUserInput(Character * player, Map * currMap);
+void save();
 void createNewCampaign();
-
 
 #endif //COMP345A1_MAIN_GAMEUI_H

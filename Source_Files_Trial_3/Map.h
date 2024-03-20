@@ -19,9 +19,10 @@
 #include "userInput.h"
 #include "misc.h"
 #include "Item.h"
-#include <queue>
+#include "Observable.h"
 
-class Map {
+
+class Map : public Observable {
 public:
     int height;
     int width;
@@ -37,8 +38,7 @@ public:
     Map();
     Map(int height, int width);
     Map(int height, int width, bool nothing); //for Shai
-    Map(std::vector<std::vector<std::string> > mapAsVectorOfStrings);
-    ~Map();
+    explicit Map(std::vector<std::vector<std::string> > mapAsVectorOfStrings);
 
     void createStart();
     void putPlayerAtStart(Character * player);
@@ -49,17 +49,10 @@ public:
     void fillMapWithRooms();
     void fillMapWithWalls();
     bool foundCellForRoomAndAdded(Rooms * room);
-    Map* generateInitialMapInfo();
     std::string toString(Map* currentMap);
     void loadCharactersIntoMap(std::vector<Character *> players);
-    bool getUserInput(Character * player);
     State * getStateOfCell(int x, int y);
-    bool pauseMenuUIandExitGame();
 
-};
-class MapObserver {
-public:
-    std::string to_string(Map * currentMap);
 };
 
 std::vector<std::vector<std::string> > mapToVectorForCSV(Map * theMap);

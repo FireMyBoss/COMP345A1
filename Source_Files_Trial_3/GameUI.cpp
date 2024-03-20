@@ -2,23 +2,22 @@
 // Created by Nicholas Kamra on 3/12/24.
 //
 
-
 #include "GameUI.h"
-#include <filesystem>
 #include "MapCreator.h"
 
 #ifdef __APPLE__
 
-	namespace fs = std::__fs::filesystem;
-    
+namespace fs = std::__fs::filesystem;
 
-#else 
-	
-	namespace fs = std::filesystem;
-	
+#else
+
+namespace fs = std::filesystem;
+
 #endif
 
+void save(){
 
+}
 
 std::unordered_set<char> acceptableCharacters = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o',
                                     'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '1', '2', '3', '4',
@@ -88,7 +87,6 @@ void creationTestsUI(){
                 cout << rollVal << "\n";
 
                 pause(5000);
-                clearConsole;
 
                 break;
             }
@@ -100,10 +98,7 @@ void creationTestsUI(){
                 break;
             }
             case 3: {
-
-                Map* testMap = new Map();
-                testMap -> generateInitialMapInfo();
-                delete[] testMap;
+                generateInitialMapInfo();
                 break;
             }
             case 4: {
@@ -129,8 +124,6 @@ void creationTestsUI(){
 
 void gameLoopExampleForDemo(){
     bool play = true;
-    CharacterObserver * characterObserver = new CharacterObserver();
-    MapObserver * mapObserver = new MapObserver();
 
 
     Character * characterForCreation = new Character();
@@ -138,6 +131,8 @@ void gameLoopExampleForDemo(){
     characterForCreation->createNewCharacter(characterVec);
 
     Character * newCharacter = characterVec.at(0);
+    Observer * newObserver = new CharacterObserver(newCharacter);
+    newCharacter->attach(newObserver);
 
     Map* newMap;
 
@@ -181,19 +176,22 @@ void gameLoopExampleForDemo(){
     }
 
     newMap = new Map(height, width);
+    Observer * mapObserver = new MapObserver(newMap);
+    newMap->attach(mapObserver);
 
     newMap->loadCharactersIntoMap(characterVec);
 
     while(play){
 
-        std::cout << mapObserver->to_string(newMap) << std::endl;
-        std::cout << characterObserver->to_string(newCharacter) << std::endl;
+        newMap->notify();
+        newCharacter->notify();
 
-        bool exitGame;
+        // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
+        char selection;
 
-        exitGame = newMap->getUserInput(newCharacter);
+        selection = getUserInput(newCharacter, newMap);
         clearConsole();
-        if(exitGame){
+        if(selection == 'S'){
             delete newMap;
             play = false;
         }else{
@@ -209,30 +207,48 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
     clearConsole();
 
     bool play = true;
-    CharacterObserver * characterObserver = new CharacterObserver();
-    MapObserver * mapObserver = new MapObserver();
 
-    Map * newMap = ptrVectorOfAllMaps.at(0);
+    int currMapIndex = 0;
+
+    Map * currMap = ptrVectorOfAllMaps.at(currMapIndex);
+    Observer * mapObserver = new MapObserver(currMap);
+    currMap->attach(mapObserver);
     Character * newCharacter = ptrVectorOfAllCharacters.at(0);
+    Observer * characterObserver = new CharacterObserver(newCharacter);
+    newCharacter->attach(characterObserver);
 
-    newMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
+    currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
 
     while(play){
 
-        std::cout << mapObserver->to_string(newMap) << std::endl;
-        std::cout << characterObserver->to_string(newCharacter) << std::endl;
+        currMap->notify();
+        newCharacter->notify();
 
-        bool exitGame;
+        // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
+        char selection;
 
-        exitGame = newMap->getUserInput(newCharacter);
+        selection = getUserInput(newCharacter, currMap);
 
-        clearConsole();
+       clearConsole();
 
-        if(exitGame){
-            delete newMap;
+        if(selection == 'S'){
             play = false;
+        }else if(selection == 'E'){
+
+                currMapIndex++;
+
+                if(ptrVectorOfAllMaps.size() - 1 < currMapIndex){
+                    currMapIndex--;
+                    continue;
+                }
+                currMap = ptrVectorOfAllMaps.at(currMapIndex);
+                mapObserver = new MapObserver(currMap);
+                currMap->attach(mapObserver);
+                currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
+
         }else{
-            play = true;
+                continue;
+
         }
     }
 }
@@ -286,12 +302,14 @@ std::vector<std::string> getMapsInCampaignCSV(fs::path & campaignCSVFilePath){
 
     return mapNamesInCampaign;
 }
-
+// TODO: there is an error here -----------------------------
 std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path & mapDirectoryPath){
 
 
     std::ifstream file(mapDirectoryPath);
     std::vector<std::vector<std::string> > mapDataVector;
+
+
 
     if (!file.is_open()) {
         std::cerr << "Error opening file" << std::endl;
@@ -301,6 +319,7 @@ std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path 
     std::string line;
     std::cin.clear();
     std::cin.ignore();
+
     while (std::getline(file, line)) {
         std::vector<std::string> newVec;
         // must delimit line and push_back each string into newVec for each line
@@ -369,83 +388,95 @@ std::vector<std::vector<std::string> > getCharacterInformationInCharacterDirecto
 
 }
 
-void campaignSelectionUserInput(std::vector<std::string> & campaigns, const std::string & campaignDirectoryToAppend, std::vector<std::string> & allMapNamesInCampaign, std::vector<Map *> & ptrVectorOfAllMaps, std::vector<Character *> & ptrVectorOfAllCharacters){
+bool campaignSelectionUserInput(std::vector<std::string> & campaigns, const std::string & campaignDirectoryToAppend, std::vector<std::string> & allMapNamesInCampaign, std::vector<Map *> & ptrVectorOfAllMaps, std::vector<Character *> & ptrVectorOfAllCharacters){
 
     fs::path currentPath = fs::current_path();
     currentPath /= campaignDirectoryToAppend;
 
-    std::cout << "Enter campaign name (just include the name without quotations): ";
+    std::cout << "Enter campaign name (just include the name without quotations) to exit enter '/': ";
 
     std::string campaignSelection;
 
-    std::cin >> campaignSelection;
+    // we loop until we get valid campaign or the user wants to exit this selection
+    for(;;) {
 
-    bool campaignExists = false;
+        std::cin >> campaignSelection;
 
-    fs::path campaignDirectory;
+        if(campaignSelection == "/"){
+            return false;
+        }
 
-    for(std::string campaign : campaigns){
-        if(campaign == campaignSelection){
-            currentPath /= campaignSelection;
-            campaignDirectory = currentPath; // This is the directory path inside a campaign
-            campaignExists = true;
+        bool campaignExists = false;
+
+        fs::path campaignDirectory;
+
+
+        for (std::string campaign: campaigns) {
+            if (campaign == campaignSelection) {
+                currentPath /= campaignSelection;
+                campaignDirectory = currentPath; // This is the directory path inside a campaign
+                campaignExists = true;
+            }
+        }
+
+
+        if (campaignExists) {
+            if (fs::exists(currentPath) && fs::is_directory(currentPath)) {
+
+
+                // Creation for vector of maps in campaign
+                std::vector<std::string> mapNamesInCampaign;
+                fs::path campaignCSVFilePath = campaignDirectory;
+                campaignCSVFilePath /= "campaign.csv";
+                mapNamesInCampaign = getMapsInCampaignCSV(campaignCSVFilePath);
+                allMapNamesInCampaign = mapNamesInCampaign; // parameter changed
+
+                // Creation for vector of all maps with map data
+                std::vector<std::vector<std::vector<std::string> > > vectorOfAllMaps;
+                fs::path mapDirectoryPath = campaignDirectory;
+                mapDirectoryPath /= "Maps";
+
+                std::vector<std::vector<std::vector<std::string> > > allMapsInCampaignDataVector;
+
+                for (std::string campaign: mapNamesInCampaign) {
+
+                    std::string currentCampaign = campaign;
+                    fs::path currentMapDirectory = mapDirectoryPath;
+                    currentMapDirectory /= currentCampaign;
+                    std::vector<std::vector<std::string> > newMapDataVector = getMapInformationInMapDirectory(
+                            currentMapDirectory);
+                    allMapsInCampaignDataVector.push_back(newMapDataVector);
+                }
+
+                for (int i = 0; i < allMapsInCampaignDataVector.size(); i++) {
+                    Map *newMap = new Map(allMapsInCampaignDataVector.at(i));
+                    ptrVectorOfAllMaps.push_back(newMap);
+                }
+
+                // Creation for vector of all characters with character data
+                std::vector<std::vector<std::string> > vectorOfAllCharacters;
+
+                fs::path characterDirectoryPath = campaignDirectory;
+                characterDirectoryPath /= "Characters";
+
+                vectorOfAllCharacters = getCharacterInformationInCharacterDirectory(characterDirectoryPath);
+
+                for (int i = 0; i < vectorOfAllCharacters.size(); i++) {
+                    ptrVectorOfAllCharacters.push_back(
+                            buildCharacterFromSaveFile(vectorOfAllCharacters.at(i))); // changing parameter
+                }
+                return true;
+
+            } else {
+                std::cout << "Error: Failure to load - campaign does not exist" << std::endl;
+                continue;
+            }
+        } else {
+            std::cout << "Error: Campaign does not exist" << std::endl;
+            std::cout << "" << std::endl;
+            continue;
         }
     }
-
-    if(campaignExists){
-        if(fs::exists(currentPath) && fs::is_directory(currentPath)) {
-
-
-            // Creation for vector of maps in campaign
-            std::vector<std::string> mapNamesInCampaign;
-            fs::path campaignCSVFilePath = campaignDirectory;
-            campaignCSVFilePath /= "campaign.csv";
-            mapNamesInCampaign = getMapsInCampaignCSV(campaignCSVFilePath);
-            allMapNamesInCampaign = mapNamesInCampaign; // parameter changed
-
-            // Creation for vector of all maps with map data
-            std::vector<std::vector<std::vector<std::string> > > vectorOfAllMaps;
-            fs::path mapDirectoryPath = campaignDirectory;
-            mapDirectoryPath /= "Maps";
-
-            std::vector<std::vector<std::vector<std::string> > > allMapsInCampaignDataVector;
-
-            for(std::string campaign : mapNamesInCampaign){
-
-                std::string currentCampaign = campaign;
-                fs::path currentMapDirectory = mapDirectoryPath;
-                currentMapDirectory /= currentCampaign;
-                std::vector<std::vector<std::string> > newMapDataVector = getMapInformationInMapDirectory(currentMapDirectory);
-                allMapsInCampaignDataVector.push_back(newMapDataVector);
-
-            }
-
-            for(int i = 0; i < allMapsInCampaignDataVector.size(); i++){
-                Map * newMap = new Map(allMapsInCampaignDataVector.at(i));
-                ptrVectorOfAllMaps.push_back(newMap);
-            }
-
-            // Creation for vector of all characters with character data
-            std::vector<std::vector<std::string> > vectorOfAllCharacters;
-
-            fs::path characterDirectoryPath = campaignDirectory;
-            characterDirectoryPath /= "Characters";
-
-            vectorOfAllCharacters = getCharacterInformationInCharacterDirectory(characterDirectoryPath);
-
-            for(int i = 0; i < vectorOfAllCharacters.size(); i++){
-                ptrVectorOfAllCharacters.push_back(buildCharacterFromSaveFile(vectorOfAllCharacters.at(i))); // changing parameter
-            }
-
-        }else{
-            std::cout << "Error: Failure to load - campaign does not exist" << std::endl;
-            return;
-        }
-    }else{
-        std::cout << "Error: Campaign does not exist" << std::endl;
-        std::cout << "" << std::endl;
-    }
-
 }
 
 void displayCampaignSelectionList(){
@@ -488,9 +519,12 @@ void displayCampaignSelectionList(){
             std::vector<std::string> mapNamesInCampaign;
             std::vector<Map *> ptrVectorOfAllMaps;
             std::vector<Character *> vectorOfAllCharacters;
-            campaignSelectionUserInput(campaigns, campaignDirectory, mapNamesInCampaign, ptrVectorOfAllMaps, vectorOfAllCharacters);
-            // TODO: the below function doesn't exit the game
-            gameLoopLoadingCampaign(mapNamesInCampaign, ptrVectorOfAllMaps, vectorOfAllCharacters);
+            bool goodInput = campaignSelectionUserInput(campaigns, campaignDirectory, mapNamesInCampaign, ptrVectorOfAllMaps, vectorOfAllCharacters);
+            if(goodInput) {
+                gameLoopLoadingCampaign(mapNamesInCampaign, ptrVectorOfAllMaps, vectorOfAllCharacters);
+            }else{
+
+            }
             break;
         }
         case '2':
@@ -652,7 +686,6 @@ void funcForCSV(){
 
     std::vector<std::vector<std::string>> vecForCSV;
 
-    MapObserver * mapObserver = new MapObserver();
     Map * newMap = new Map(60, 60);
     vecForCSV = mapToVectorForCSV(newMap);
 
@@ -662,6 +695,448 @@ void funcForCSV(){
         }
     }
 
+}
+
+Map* generateInitialMapInfo() {
+
+    int retVal = 0;
+    int runMainLoop = 1;
+    int runInnerLoop = 1;
+
+    int sizeInput = 0;
+    int inputWidth = 0;
+    int inputLength = 0;
+
+    Map* retMap;
+
+    Observer * retObserver;
+
+    char* generalMapOptionsInput;
+    int generalMapOptionsMenuSelector = 0;
+    const char* generalMapOptions[2] = {
+
+            ">> Create a map\n Exit the map generation screen\n\nPress W to navigate up, S to navigate down, C to select option\n\n",
+            "Create a map\n>> Exit the map generation screen\n\nPress W to navigate up, S to navigate down, C to select option\n\n"
+
+    };
+
+    char* printMapOptionInput;
+    int  printMapOptionsMenuSelector = 0;
+    const char* printMapOption[2] = {
+
+            ">> Yes \n No\n\nPress W to navigate up, S to navigate down, C to select option / stop viewing map\n\n",
+            "Yes \n>> No\n\nPress W to navigate up, S to navigate down, C to select option / stop viewing map\n\n"
+
+    };
+
+    char* stopViewingMap;
+
+
+    do {
+
+        cout << generalMapOptions[generalMapOptionsMenuSelector];
+        generalMapOptionsInput = userInput(10);
+
+        switch(userInputCase(generalMapOptionsInput)) {
+
+            case 0: //W key (Up)
+
+                generalMapOptionsMenuSelector--;
+                generalMapOptionsMenuSelector = generalMapOptionsMenuSelector - 2*floor(generalMapOptionsMenuSelector/2.0);
+
+                break;
+            case 2: //S key (Down)
+
+                generalMapOptionsMenuSelector++;
+                generalMapOptionsMenuSelector = generalMapOptionsMenuSelector - 2*floor(generalMapOptionsMenuSelector/2.0);
+
+                break;
+            case 10: //C key (Select)
+
+                switch(generalMapOptionsMenuSelector) {
+
+                    case 0: //Random Map generation part
+
+                        while(true) { //Get width of map
+
+                            clearConsole();
+                            cout << "Input the desired width of the map: ";
+
+                            cin >> inputWidth;
+
+                            if(inputWidth < 1) {
+
+                                cout << "Error: The width of the map must be a positive number!\n";
+
+                                pause(1000);
+                                cin.clear(); // Clear the fail state
+                                cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                                continue;
+
+                            }
+
+                            break;
+
+                        }
+
+                        while(true) { //Get length of map
+
+                            clearConsole();
+                            cout << "Input the desired length of the map: ";
+
+                            cin >> inputLength;
+
+                            if(inputLength < 1) {
+
+                                cout << "Error: The length of the map must be a positive number!\n";
+
+                                pause(1000);
+                                cin.clear(); // Clear the fail state
+                                cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                                continue;
+
+                            }
+
+                            break;
+
+                        }
+
+                        clearConsole();
+
+                        retMap = new Map(inputWidth, inputLength); //Generate the map
+
+                        retObserver = new MapObserver(retMap);
+                        retMap->attach(retObserver);
+
+                        //Offer to display the map
+                        cout << "The map has been successfully generated! Would you like to see the map?\n";
+                        pause(2000);
+
+                        do {
+
+                            cout << printMapOption[printMapOptionsMenuSelector];
+                            printMapOptionInput = userInput(10);
+
+                            switch(userInputCase(printMapOptionInput)) {
+
+                                case 0: //W key (Up)
+
+                                    printMapOptionsMenuSelector--;
+                                    printMapOptionsMenuSelector = printMapOptionsMenuSelector - 2*floor(printMapOptionsMenuSelector/2.0);
+
+                                    break;
+                                case 2: //S key (Down)
+
+                                    printMapOptionsMenuSelector++;
+                                    printMapOptionsMenuSelector = printMapOptionsMenuSelector - 2*floor(printMapOptionsMenuSelector/2.0);
+
+                                    break;
+                                case 10: //C key (Select)
+
+                                    switch(printMapOptionsMenuSelector) {
+
+                                        case 0: //User wants to see the map
+
+                                            clearConsole();
+
+                                            retMap->notify();
+
+                                            while(true) {
+
+                                                stopViewingMap = userInput(10);
+
+                                                if(stopViewingMap[0] == 'c') {
+
+                                                    delete[] stopViewingMap;
+                                                    break;
+
+                                                }
+
+                                                delete[] stopViewingMap;
+
+                                            }
+
+                                            runInnerLoop = 0;
+                                            runMainLoop = 0;
+
+                                            break;
+                                        case 1: //User doesn't want to see the map
+
+                                            runInnerLoop = 0;
+
+                                            break;
+
+                                    }
+
+                            }
+
+                            if(runInnerLoop != 0) {
+
+                                delete[] printMapOptionInput;
+
+                            }
+
+                            clearConsole();
+
+                        } while (runInnerLoop);
+
+                        retVal = 1;
+                        runMainLoop = 0;
+
+
+                        break;
+                    case 1: //Quit Game
+
+                        retVal = 0;
+                        runMainLoop = 0;
+
+                        break;
+
+                }
+
+        }
+
+        if(runMainLoop != 0) {
+
+            delete[] generalMapOptionsInput;
+
+        }
+
+        clearConsole();
+
+    } while(runMainLoop);
+
+    delete[] generalMapOptionsInput;
+
+    return retMap;
+
+}
+
+bool pauseMenuUIandExitGame(){
+
+    clearConsole();
+
+    std::cout << "Pause Menu" << std::endl;
+    std::cout << "----------" << std::endl;
+    std::cout << "" << std::endl;
+    std::cout << "Enter '1' to unpause" << std::endl;
+    std::cout << "Enter '2' to exit game" << std::endl;
+
+    char playerInputChar;
+
+    for (;;){
+        try {
+            std::cin >> playerInputChar;
+            if(cin.fail()) {
+                std::cin.clear();
+                std::cin.ignore();
+                throw std::runtime_error("Invalid input. Please enter a character.");
+                continue;
+            }else if(playerInputChar != '1' && playerInputChar != '2'){
+                std::cin.clear();
+                std::cin.ignore();
+                continue;
+            }
+            break;
+        } catch (...) {
+            std::cin.clear();
+            std::cin.ignore();
+        }
+    }
+    switch(playerInputChar){
+        case '1':{
+            return false;
+        }
+        case '2':{
+
+            return true;
+        }
+        default:{
+            break;
+        }
+    }
+    return false;
+}
+char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
+
+    std::cout << "Please enter a direction to move ('w', 'a', 's', 'd') or pause ('p'):";
+    std::cout << "" << std::endl;
+    char playerInputChar;
+
+    for (;;){
+        try {
+            std::cin >> playerInputChar;
+            if(cin.fail()) {
+                std::cin.clear();
+                std::cin.ignore();
+                throw std::runtime_error("Invalid input. Please enter a character.");
+                continue;
+            }else if(playerInputChar != 'w' && playerInputChar != 'a' && playerInputChar != 's'
+                     && playerInputChar != 'd' && playerInputChar != 'p'){
+                std::cin.clear();
+                std::cin.ignore();
+                continue;
+            }
+            break;
+        } catch (...) {
+            std::cin.clear();
+            std::cin.ignore();
+        }
+    }
+
+    State * stateToCheck;
+    int movementX = 0;
+    int movementY = 0;
+
+    switch(playerInputChar){
+        case 'w':{
+            // must first check if out of bounds
+            movementX = player->x;
+            movementY = player->y - 1;
+            try {
+                stateToCheck = currMap->getStateOfCell(movementX, movementY);
+            }catch(...){
+                return 'X';
+            }
+            break;
+        }
+        case 'a':{
+            // must first check if out of bounds
+            movementX = player->x - 1;
+            movementY = player->y;
+            try {
+                stateToCheck = currMap->getStateOfCell(movementX, movementY);
+            }catch(...){
+                return 'X';
+            }
+            break;
+        }
+        case 's':{
+            // must first check if out of bounds
+            movementX = player->x;
+            movementY = player->y + 1;
+            try {
+                stateToCheck = currMap->getStateOfCell(movementX, movementY);
+            }catch(...){
+                return 'X';
+            }
+            break;
+        }
+        case 'd':{
+            // must first check if out of bounds
+            movementX = player->x + 1;
+            movementY = player->y;
+            try {
+                stateToCheck = currMap->getStateOfCell(movementX, movementY);
+            }catch(...){
+                return 'X';
+            }
+            break;
+        }
+        case 'p':{
+            stateToCheck = nullptr;
+            bool exitGame;
+            exitGame = pauseMenuUIandExitGame();
+            if(exitGame){
+                return 'S';
+            }else{
+                return 'C';
+            }
+        }
+        default: {
+            stateToCheck = nullptr;
+            break;
+        }
+    }
+    if(stateToCheck == nullptr){
+        return 'X';
+    }
+
+    switch(stateToCheck->letter){
+        case '.':{
+            currMap->map.at(player->y).at(player->x)->characterInSpot = nullptr;
+            player->x = movementX;
+            player->y = movementY;
+            currMap->map.at(player->y).at(player->x)->characterInSpot = player;
+            break;
+        }
+        case 'X':{
+            std::cout << "--- A wall obstructs your way. ---" << std::endl;
+            std::cout << "" << std::endl;
+            break;
+        }
+        case 'D':{
+            currMap->map.at(player->y).at(player->x)->characterInSpot = nullptr;
+            player->x = movementX;
+            player->y = movementY;
+            currMap->map.at(player->y).at(player->x)->characterInSpot = player;
+            break;
+        }
+        case 'S':{
+            currMap->map.at(player->y).at(player->x)->characterInSpot = nullptr;
+            player->x = movementX;
+            player->y = movementY;
+            currMap->map.at(player->y).at(player->x)->characterInSpot = player;
+            break;
+        }
+        case 'E':{
+
+            return 'E';
+        }
+        case 'C':{
+            std::cout << "--- A chest is before you... open it? ('y' or 'n'):" << std::endl;
+            std::cout << "" << std::endl;
+            char openChestDecision;
+
+            for (;;){
+                try {
+                    std::cin >> openChestDecision;
+                    if(cin.fail()) {
+                        std::cin.clear();
+                        std::cin.ignore();
+                        throw std::runtime_error("Invalid input. Please enter a character.");
+                        continue;
+                    }else if(openChestDecision != 'n' && openChestDecision != 'y'){
+                        std::cin.clear();
+                        std::cin.ignore();
+                        continue;
+                    }
+                    break;
+                } catch (...) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                }
+            }
+
+            if(openChestDecision == 'y'){
+                std::cout << "--- Chest Contents ---" << std::endl;
+                std::cout << "" << std::endl;
+                TreasureChest * newChest;
+                newChest = (TreasureChest *)currMap->map.at(movementY).at(movementX)->state;
+                std::vector<Item> itemVector;
+                itemVector = newChest->getContents();
+                // TODO: this will handle if the player wants to obtain the items within the chest
+                if(itemVector.empty()){
+                    std::cout << "The chest is empty" << std::endl;
+                    pause(2000);
+                }else{
+                    for(int i = 0; i < itemVector.size(); i++){
+                        std::cout << "inside chest" << std::endl;
+                        std::cout << "" << std::endl;
+                    }
+                }
+                break;
+            }else{
+                break;
+            }
+        }
+        default:{
+            break;
+        }
+    }
+
+    stateToCheck = nullptr;
+    return 'C';
 }
 
 //shai's func

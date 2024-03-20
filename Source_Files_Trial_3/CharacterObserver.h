@@ -7,11 +7,14 @@
 
 #include "Character.h"
 #include "allcharacters.h"
+#include "Observer.h"
 
-class CharacterObserver {
+class CharacterObserver : public Observer {
 public:
-
-    std::string to_string(Character * character);
+    Character * character;
+    explicit CharacterObserver(Character * character);
+    std::string to_string();
+    void update(Observable * observable) override;
 
 };
 

@@ -2,12 +2,10 @@
 
 
 Barbarian::Barbarian(int levelToSet, std::string &name) : Character(levelToSet, name) {
-
     Barbarian::setHitPoints();
     Barbarian::setAttackBonus();
     isEnemy = false;
     this->characterClass = "Barbarian";
-    
 }
 
 void Barbarian::setHitPoints() { this->hitPoints = getConstitutionModifier() + 12; }

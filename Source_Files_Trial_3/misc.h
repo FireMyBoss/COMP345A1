@@ -6,8 +6,6 @@
 #include <unistd.h>
 #include <time.h>
 
-int getOS();
-
 long long getCurrentTime();
 
 int writeToFile(const char* filename, const char* content);
