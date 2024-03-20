@@ -666,12 +666,12 @@ void funcForCSV(){
 
 //shai's func
 void createNewCampaign(){
-    MapCreator a(20,20);
     bool MadeCharacter = false, MadeMaps = false;
     int input;
     std::cin.clear();
     std::cin.ignore();
     while(!MadeMaps || !MadeCharacter){
+        clearConsole();
         std::cout << "\n\nWould you like to:";
         if(!MadeCharacter){
             std::cout << "\n1. Create a character";
@@ -729,7 +729,8 @@ void createNewCampaign(){
                         std::cin.ignore();
                     }
                 }
-                std::cout << "\nPlease input the size of the hieght for the map: ";
+                std::cout << width;
+                std::cout << "\nPlease input the size of the height for the map: ";
                 for (;;) {
                     try {
                         std::cin >> height;
@@ -750,16 +751,19 @@ void createNewCampaign(){
                         std::cin.ignore();
                     }
                 }
+                std::cout << height;
                 if(firstTime){
-                    std::cout << "here";
                     MapCreator create(width,height);
                     firstTime = false;
+                    width = 0; height = 0;
                 } else {
-                    vector<int> prevEnd;
+                    std::cout << "here";
+                    vector<int> prevEnd; 
+                    std::cout << listOfMaps.back()->endY;
                     prevEnd.push_back(listOfMaps.back()->endY);
                     prevEnd.push_back(listOfMaps.back()->endX);
                     MapCreator create(width,height, prevEnd);
-                    
+                    width = 0; height = 0;
                 }
                 std::cout << "Would you like to create another map? Type 1 for yes and 2 for no: ";
                 int anotherMapInput;

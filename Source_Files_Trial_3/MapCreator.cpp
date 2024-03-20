@@ -2,6 +2,8 @@
 #include "Map.h"
 #include <iostream>
 #include <sstream>
+#include "misc.h"
+
 
 
 using namespace std;
@@ -11,8 +13,8 @@ MapCreator::MapCreator(int width, int height){
     theMap = &thisMap;
     theMap->height = height;
     theMap->width = width;
-    MapCreator::createStart(); //handles all start cases
     theMap->placePerimeterWalls();
+    MapCreator::createStart(); //handles all start cases
     if (!MapCreator::createEnd()){
         MapCreator::createThePath();
     }
@@ -94,7 +96,7 @@ void MapCreator::createStart(){
                         cout << "\n\nError: Start must NOT be a corner.";
                     } else{
                         theMap->startY = start[0];
-                        theMap->startY = start[1];
+                        theMap->startX = start[1];
                         break;
                     }
                 } else if (start[0] == (theMap->height - 1)){
@@ -102,21 +104,23 @@ void MapCreator::createStart(){
                         cout << "\n\nError: Start must NOT be a corner.";
                     } else {
                         theMap->startY = start[0];
-                        theMap->startY = start[1];
+                        theMap->startX = start[1];
                         break;
                     }
                 } else if (start[1] == 0){ //already checked previous conditions
                     theMap->startY = start[0];
-                    theMap->startY = start[1];
+                    theMap->startX = start[1];
                     break;
                 } else if (start[1] == (theMap->height - 1)){ //already checked previous conditions
                     theMap->startY = start[0];
-                    theMap->startY = start[1];
+                    theMap->startX = start[1];
                     break;
                 } else {
                     cout << "\n\nError: Start must be on the exterior of the map.";
                 }
             }
+            State * newStartSpot = new StartSpot();
+            theMap->map[theMap->startY][theMap->startX]->state = newStartSpot;
             break;
         } else if (thisIn == 2){
             theMap->createStart();
@@ -138,35 +142,38 @@ bool MapCreator::createEnd(){
                 cout << "\n\nEnter input the end index in the form of \"y,x\": ";
                 vector<int> end = getCoordinates();
                 if(end[0] == 0){
-                    if(end[0] == theMap->startY && end[1] == theMap->startX){
+                    if(end[0] == theMap->endY && end[1] == theMap->endX){
                         cout << "\n\nError: End must NOT be the same as the start.";
                     } else if(end[1] == (theMap->height - 1) || (end[1] == 0)){
                         cout << "\n\nError: End must NOT be a corner.";
                     } else{
-                        theMap->startY = end[0];
-                        theMap->startY = end[1];
+                        theMap->endY = end[0];
+                        theMap->endX = end[1];
                         break;
                     }
                 } else if (end[0] == (theMap->height - 1)){
                     if(end[1] == (theMap->height - 1) || (end[1] == 0)){
                         cout << "\n\nError: End must NOT be a corner.";
                     } else {
-                        theMap->startY = end[0];
-                        theMap->startY = end[1];
+                        theMap->endY = end[0];
+                        theMap->endX = end[1];
                         break;
                     }
                 } else if (end[1] == 0){ //already checked previous conditions
-                    theMap->startY = end[0];
-                    theMap->startY = end[1];
+                    theMap->endY = end[0];
+                    theMap->endX = end[1];
                     break;
                 } else if (end[1] == (theMap->height - 1)){ //already checked previous conditions
-                    theMap->startY = end[0];
-                    theMap->startY = end[1];
+                    theMap->endY = end[0];
+                    theMap->endX = end[1];
                     break;
                 } else {
                     cout << "\n\nError: End must be on the exterior of the map.";
                 }
             }
+            State * newEndSpot = new EndSpot();
+            cout << theMap->endY << theMap->endX;
+            theMap->map[theMap->endY][theMap->endX]->state = newEndSpot;
             cout << "\n\nEnd point created.\n\n";
             return false;
         } else if (selection == 2){
@@ -182,6 +189,7 @@ bool MapCreator::createEnd(){
 void MapCreator::createThePath(){
     int curX = theMap -> startX, curY = theMap -> startY;
     while (true){
+        clearConsole();
         cout << "\nHere is the current map\n\n";
         MapCreator::printMapWithPathAndIndex();
         cout << "\nYour previous coordniate is \"" << curY << ',' << curX << "\".\n";
@@ -240,7 +248,7 @@ void MapCreator::printMapWithPathAndIndex(){
     for(int i = 0; i < theMap->height; i++){
         for(int j = 0; j < theMap->width; j++) {
 
-            if(theMap->map.at(i).at(j)->isPath){
+            if(theMap->map.at(i).at(j)->isPath && theMap->map.at(i).at(j)->state->letter != 'S' && theMap->map.at(i).at(j)->state->letter != 'E'){
                 returnString += 'P';
             }else {
                 returnString +=theMap->map.at(i).at(j)->state->letter;
@@ -335,7 +343,6 @@ void MapCreator::createAMap(){
 State* MapCreator::getInput(){
     char input;
     bool isValid = false;
-    State *a;
 
     do {
         std::cout << "Please enter 'D' for door, 'C' for treasure chest, or 'W' for wall: ";
@@ -343,7 +350,7 @@ State* MapCreator::getInput(){
 
         input = toupper(input);
 
-        if (input == 'D' || input == 'T' || input == 'W') {
+        if (input == 'D' || input == 'C' || input == 'W') {
             isValid = true;
         } else {
             std::cout << "Invalid input. Please try again.\n";
