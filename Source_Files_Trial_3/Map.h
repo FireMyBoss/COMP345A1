@@ -36,6 +36,7 @@ public:
 		
     Map();
     Map(int height, int width);
+    Map(int height, int width, bool nothing); //for Shai
     Map(std::vector<std::vector<std::string> > mapAsVectorOfStrings);
     ~Map();
 

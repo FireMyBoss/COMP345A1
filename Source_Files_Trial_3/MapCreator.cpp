@@ -7,6 +7,9 @@
 using namespace std;
 
 MapCreator::MapCreator(int width, int height){
+    Map thisMap(height, width, true);
+    theMap = &thisMap;
+    cout<<"here";
     theMap->height = height;
     theMap->width = width;
     MapCreator::createStart(); //handles all start cases
@@ -62,27 +65,26 @@ void MapCreator::setStartBasedOnPrev(vector<int> prevMapEnd){
 }
 
 void MapCreator::createStart(){
+    int thisIn;
     while (true){
         cout << "Would you like to:\n1. Create a start point at a specific spot\n2. Create a random start point\n\nPlease input one of the numbers above: ";
-        int selection;
+       
         for (;;) {
             try {
-                std::cin >> selection;
+                cin >> thisIn;
                 if (cin.fail()) {
-                    std::cin.clear();
-                    std::cin.ignore();
-                    throw std::runtime_error("Invalid input. Please enter 1 or 2: ");
-                    continue;
-                } else if (selection != 1 && selection != 2) {
-                    continue;
+                    throw runtime_error("Invalid input. Please enter 1 or 2.");
+                } else if (thisIn != 1 && thisIn != 2) {
+                    throw runtime_error("Invalid input. Please enter 1 or 2.");
                 }
                 break;
-            } catch (...) {
-                std::cin.clear();
-                std::cin.ignore();
+            } catch (const runtime_error& e) {
+                cin.clear();
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                cerr << e.what() << endl;
             }
         }
-        if (selection == 1){
+        if (thisIn == 1){
             while (true){
                 cout << "\n\nEnter input the start index in the form of \"y,x\": ";
                 vector<int> start = getCoordinates();
@@ -115,14 +117,14 @@ void MapCreator::createStart(){
                 }
             }
             break;
-        } else if (selection == 2){
+        } else if (thisIn == 2){
             theMap->createStart();
-            cout << "\n\nStart point created!\n\n";
             break;
         }
         cout << "\n\nIncorrect input. Please try again.\n\n";
         
     }
+    cout << "\n\nStart point created!\n\n";
 }
 
 bool MapCreator::createEnd(){
@@ -233,26 +235,14 @@ vector<int>  MapCreator::getCoordinates(){
 
 void MapCreator::printMapWithPathAndIndex(){
     std::string returnString = "";
-    for (int i = 0; i < theMap->height; i++){
-        if (i > 9){
-            cout << i << " ";
-        } else {
-            cout << " " << i << " ";
-        }
-    }
     cout << "\n";
     for(int i = 0; i < theMap->height; i++){
-        if (i > 9){
-            cout << i << " ";
-        } else {
-            cout << " " << i << " ";
-        }
         for(int j = 0; j < theMap->width; j++) {
 
             if(theMap->map.at(i).at(j)->isPath){
-                returnString += " P ";
+                returnString += 'P';
             }else {
-                returnString += ' ' + theMap->map.at(i).at(j)->state->letter + ' ';
+                returnString +=theMap->map.at(i).at(j)->state->letter;
             }
         }
         returnString += "\n";
@@ -347,7 +337,7 @@ State* MapCreator::getInput(){
     State *a;
 
     do {
-        std::cout << "Please enter 'D' for door, 'T' for treasure chest, or 'W' for wall: ";
+        std::cout << "Please enter 'D' for door, 'C' for treasure chest, or 'W' for wall: ";
         std::cin >> input;
 
         input = toupper(input);

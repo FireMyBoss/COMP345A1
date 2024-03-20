@@ -17,19 +17,15 @@
  *
  *  -------------> Right is the second at()
  */
-
 using namespace std;
 
-Map::Map() {
-
-  height = 0;
- 	width = 0;
-	startX = 0;
-	startY = 0;
-	endX = 0;
-  endY = 0;
-    std::vector<Character *> players;
-    this->playersInGame = players;
+Map::Map(int height, int width, bool nothing) {
+    this->height = height;
+    this->width = width;
+    this->startX = 0;
+    this->startY = 0;
+    this->endX = 0;
+    this->endY = 0;
 
     for(int i = 0; i < height; i++) {
         for (int j = 0; j < width; j++) {
@@ -40,6 +36,9 @@ Map::Map() {
         }
     }
     
+}
+Map::Map(){
+
 }
 
 Map::Map(int height, int width){
@@ -205,7 +204,6 @@ void Map::putPlayerAtStart(Character * player){ // sets the player coordinates t
     player->y = this->startY;
 }
 void Map::placePerimeterWalls(){
-
     for(int i = 0; i < this->height; i++){
         if(this->map.at(i).at(0)->state->letter == 'S'){
             continue;

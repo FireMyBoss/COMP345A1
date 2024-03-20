@@ -10,6 +10,7 @@
 #ifdef __APPLE__
 
 	namespace fs = std::__fs::filesystem;
+    
 
 #else 
 	
@@ -665,8 +666,11 @@ void funcForCSV(){
 
 //shai's func
 void createNewCampaign(){
+    MapCreator a(20,20);
     bool MadeCharacter = false, MadeMaps = false;
     int input;
+    std::cin.clear();
+    std::cin.ignore();
     while(!MadeMaps || !MadeCharacter){
         std::cout << "\n\nWould you like to:";
         if(!MadeCharacter){
@@ -686,8 +690,10 @@ void createNewCampaign(){
                     continue;
                 } else if (input != 1 && input != 2) {
                     continue;
+                } else{
+                    break;
                 }
-                break;
+                
             } catch (...) {
                 std::cin.clear();
                 std::cin.ignore();
@@ -701,27 +707,59 @@ void createNewCampaign(){
             vector<Map*> listOfMaps;
             bool keepMakingMaps = true, firstTime = true;
             while(keepMakingMaps){
-                std::cout << "\nPlease input the size width and height in the form of: \"width,height\": ";
-                string input;
+                std::cout << "\nPlease input the size of the width for the map: ";
                 int width, height;
-                while(true){
-                    cin >> input;
-                    char comma;
-                    std::istringstream in(input);
-                    if (!(in >> width >> comma >> height) || comma != ',') {
-                        std::cerr << "Invalid input format. Please provide input in the form of \"y,x\"" << std::endl;
+                for (;;) {
+                    try {
+                        std::cin >> width;
+                        if (cin.fail()) {
+                            std::cin.clear();
+                            std::cin.ignore();
+                            throw std::runtime_error("Invalid input. Please enter an integer: ");
+                            continue;
+                        } else if (width < 10) {
+                            cout << "Input is too small. Try again: ";
+                            continue;
+                        } else{
+                            break;
+                        }
+                        
+                    } catch (...) {
+                        std::cin.clear();
+                        std::cin.ignore();
                     }
-                    if(firstTime){
-                        MapCreator create(width,height);
-                        firstTime = false;
-                        break;
-                    } else {
-                        vector<int> prevEnd;
-                        prevEnd.push_back(listOfMaps.back()->endY);
-                        prevEnd.push_back(listOfMaps.back()->endX);
-                        MapCreator create(width,height, prevEnd);
-                        break;
+                }
+                std::cout << "\nPlease input the size of the hieght for the map: ";
+                for (;;) {
+                    try {
+                        std::cin >> height;
+                        if (cin.fail()) {
+                            std::cin.clear();
+                            std::cin.ignore();
+                            throw std::runtime_error("Invalid input. Please enter an integer: ");
+                            continue;
+                        } else if (height < 10) {
+                            cout << "Input is too small. Try again: ";
+                            continue;
+                        } else{
+                            break;
+                        }
+                        
+                    } catch (...) {
+                        std::cin.clear();
+                        std::cin.ignore();
                     }
+                }
+                if(firstTime){
+                    std::cout << "here";
+                    MapCreator create(width,height);
+                    firstTime = false;
+                } else {
+                    vector<int> prevEnd;
+                    prevEnd.push_back(listOfMaps.back()->endY);
+                    prevEnd.push_back(listOfMaps.back()->endX);
+                    MapCreator create(width,height, prevEnd);
+                    
                 }
                 std::cout << "Would you like to create another map? Type 1 for yes and 2 for no: ";
                 int anotherMapInput;
@@ -735,8 +773,9 @@ void createNewCampaign(){
                             continue;
                         } else if (anotherMapInput != 1 && anotherMapInput != 2) {
                             continue;
+                        } else{
+                            break;
                         }
-                        break;
                     } catch (...) {
                         std::cin.clear();
                         std::cin.ignore();
