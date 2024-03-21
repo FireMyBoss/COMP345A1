@@ -1,9 +1,5 @@
-//
-// Created by Nicholas Kamra on 3/8/24.
-//
-
 #include "CharacterObserver.h"
-CharacterObserver::CharacterObserver(Character * character){
+CharacterObserver::CharacterObserver(Character* character){
     this->character = character;
 }
 

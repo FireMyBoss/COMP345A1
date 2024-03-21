@@ -1,6 +1,3 @@
-//
-// Created by Nicholas Kamra on 2/7/24.
-//
 
 #ifndef COMP_345_ASSIGNMENT_ONE_CHARACTER_H
 #define COMP_345_ASSIGNMENT_ONE_CHARACTER_H
@@ -43,7 +40,7 @@ public:
 
 
 
-    // Getters
+    // Getters 
     std::string getCharacterClass() const;
     std::string getName() const;
     int getLevel() const;

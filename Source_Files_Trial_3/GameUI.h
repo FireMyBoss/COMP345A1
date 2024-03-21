@@ -11,7 +11,7 @@
 #include "Character.h"
 #include "allcharacters.h"
 #include "Map.h"
-#include "Dice.cpp"
+#include "Dice.h"
 #include <cmath>
 #include <vector>
 #include <fstream>

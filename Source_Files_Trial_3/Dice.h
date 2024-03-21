@@ -6,7 +6,6 @@
 #include <cmath>
 #include <stdio.h>
 #include <unistd.h>
-#include <termios.h>
 #include "misc.h"
 #include "userInput.h"
 #include "Observable.h"
@@ -16,11 +15,6 @@ using namespace std;
 class Dice : public Observable {
 
 	public:
-	
-		int numOfDice;
-		int numOfSidesDie;
-		int modifyValue;
-		char* diceValue;
 		
 		Dice();
 		Dice(int numOfDice, int numOfSidesDie, int modifyValue);
@@ -28,20 +22,30 @@ class Dice : public Observable {
 		
 		int getNumOfDice();
 		void setNumOfDice(int numOfDice);
+		
 		int getNumOfSidesDie();
 		void setNumOfSidesDie(int numOfSidesDie);
+		
 		int getModifyValue();
 		void setModifyValue(int modifyValue);
+		
 		char* getDiceValue();
 		void setDiceValue(char* diceValue);
+		
 		int roll();
 		int roll(char* inputDiceString);
-		void diceMenu();
+		
+		int diceMenu();
 		
 	private:
 		
+		int numOfDice;
+		int numOfSidesDie;
+		int modifyValue;
+		char* diceValue;
+		
 		char* constructDiceValue();
-		int deconstructDiceValue(const char* diceVal);
+		int deconstructDiceValue(char* diceVal);
 
 };
 

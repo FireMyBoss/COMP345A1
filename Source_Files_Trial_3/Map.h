@@ -52,6 +52,7 @@ public:
     std::string toString(Map* currentMap);
     void loadCharactersIntoMap(std::vector<Character *> players);
     State * getStateOfCell(int x, int y);
+    Map* mapMenuDisplay();
 
 };
 

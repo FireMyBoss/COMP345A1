@@ -91,11 +91,8 @@ void MapCreator::createStart(){
             while (true){
                 cout << "\n\nEnter input the start index in the form of \"y,x\": ";
                 vector<int> start = getCoordinates();
-                //cout << start[0] << " " <<  start[1] << " " <<  theMap->width - 1 << " \n" << (start[1] > theMap -> height-1);
-                if(start[0] > theMap -> height-1 || start[1] > theMap -> width-1){
-                    cout << "\n\nError: Start must be inside the map.";
-                } else if(start[0] == 0){
-                    if(start[1] == (theMap->width - 1) || (start[1] == 0)){
+                if(start[0] == 0){
+                    if(start[1] == (theMap->height - 1) || (start[1] == 0)){
                         cout << "\n\nError: Start must NOT be a corner.";
                     } else{
                         theMap->startY = start[0];
@@ -103,7 +100,7 @@ void MapCreator::createStart(){
                         break;
                     }
                 } else if (start[0] == (theMap->height - 1)){
-                    if(start[1] == (theMap->width - 1) || (start[1] == 0)){
+                    if(start[1] == (theMap->height - 1) || (start[1] == 0)){
                         cout << "\n\nError: Start must NOT be a corner.";
                     } else {
                         theMap->startY = start[0];
@@ -114,7 +111,7 @@ void MapCreator::createStart(){
                     theMap->startY = start[0];
                     theMap->startX = start[1];
                     break;
-                } else if (start[1] == (theMap->width - 1)){ //already checked previous conditions
+                } else if (start[1] == (theMap->height - 1)){ //already checked previous conditions
                     theMap->startY = start[0];
                     theMap->startX = start[1];
                     break;
@@ -144,12 +141,10 @@ bool MapCreator::createEnd(){
             while (true){
                 cout << "\n\nEnter input the end index in the form of \"y,x\": ";
                 vector<int> end = getCoordinates();
-                if(end[0] == theMap->startY && end[1] == theMap->startX){
-                    cout << "\n\nError: End must NOT be the same as the start.";
-                } else if(end[0] > theMap -> height-1 || end[1] > theMap -> width-1){
-                    cout << "\n\nError: End must be inside the map.";
-                } else if(end[0] == 0){
-                    if(end[1] == (theMap->width - 1) || (end[1] == 0)){
+                if(end[0] == 0){
+                    if(end[0] == theMap->endY && end[1] == theMap->endX){
+                        cout << "\n\nError: End must NOT be the same as the start.";
+                    } else if(end[1] == (theMap->height - 1) || (end[1] == 0)){
                         cout << "\n\nError: End must NOT be a corner.";
                     } else{
                         theMap->endY = end[0];
@@ -157,7 +152,7 @@ bool MapCreator::createEnd(){
                         break;
                     }
                 } else if (end[0] == (theMap->height - 1)){
-                    if(end[1] == (theMap->width - 1) || (end[1] == 0)){
+                    if(end[1] == (theMap->height - 1) || (end[1] == 0)){
                         cout << "\n\nError: End must NOT be a corner.";
                     } else {
                         theMap->endY = end[0];
@@ -168,7 +163,7 @@ bool MapCreator::createEnd(){
                     theMap->endY = end[0];
                     theMap->endX = end[1];
                     break;
-                } else if (end[1] == (theMap->width - 1)){ //already checked previous conditions
+                } else if (end[1] == (theMap->height - 1)){ //already checked previous conditions
                     theMap->endY = end[0];
                     theMap->endX = end[1];
                     break;

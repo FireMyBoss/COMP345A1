@@ -1,6 +1,6 @@
-//
-// Created by Nicholas Kamra on 2/7/24.
-//
+// TODO: We ABSOLUTELY need to overhaul this, this is way too complicated. We need make character type control by a number, the equipement controlled by a number, same with score and modifiers (Ex: Barbarian = 0, Helmet = 0, strength = 1, etc)
+
+
 #include "Character.h"
 #include <stdlib.h>
 #include <time.h>
@@ -12,89 +12,92 @@
 // Constructors
 Character::Character(){
 
-    // Player coordinates
-    this->x = 0;
-    this->y = 0;
+	// Player coordinates
+	this->x = 0;
+	this->y = 0;
 
-    // Initializing player attributes
-    this->characterClass = "None";
-    this->name = "";
-    this->level = 0;
-    this->hitPoints = 0;
-    this->armorClass = 0;
-    this->attackBonus = 0;
-    this->damageBonus = 0;
+	// Initializing player attributes
+	this->characterClass = "None";
+  this->name = "";
+	this->level = 0;
+	this->hitPoints = 0;
+	this->armorClass = 0;
+	this->attackBonus = 0;
+	this->damageBonus = 0;
 
-    // Initializing armor slots to NULL
-    this->helmet = nullptr;
-    this->boots = nullptr;
-    this->armor = nullptr;
-    this->shield = nullptr;
-    this->weapon = nullptr;
-    this->ring = nullptr;
-    this->belt = nullptr;
+	// Initializing armor slots to NULL
+	this->helmet = nullptr;
+	this->boots = nullptr;
+	this->armor = nullptr;
+	this->shield = nullptr;
+	this->weapon = nullptr;
+	this->ring = nullptr;
+	this->belt = nullptr;
 
-    // Initialization of ability scores
-    this->strengthScore = 0;
-    this->dexterityScore = 0;
-    this->constitutionScore = 0;
-    this->intelligenceScore = 0;
-    this->wisdomScore = 0;
-    this->charismaScore = 0;
+	// Initialization of ability scores
+	this->strengthScore = 0;
+	this->dexterityScore = 0;
+	this->constitutionScore = 0;
+	this->intelligenceScore = 0;
+	this->wisdomScore = 0;
+	this->charismaScore = 0;
 
-    // Initialization of ability modifiers
-    this->strengthModifier = 0;
-    this->dexterityModifier = 0;
-    this->constitutionModifier = 0;
-    this->intelligenceModifier = 0;
-    this->wisdomModifier = 0;
-    this->charismaModifier = 0;
+	// Initialization of ability modifiers
+	this->strengthModifier = 0;
+	this->dexterityModifier = 0;
+	this->constitutionModifier = 0;
+	this->intelligenceModifier = 0;
+	this->wisdomModifier = 0;
+	this->charismaModifier = 0;
+	
 }
+
 Character::Character(int levelToSet, std::string & name) : level(levelToSet){
 
-    // Player coordinates
-    this->x = 0;
-    this->y = 0;
+	// Player coordinates
+	this->x = 0;
+	this->y = 0;
 
-    // Initializing player attributes
-    this->characterClass = "None";
-    setName(name);
-    this->hitPoints = 0;
-    setArmorClass();
-    this->attackBonus = 0;
-    setDamageBonus();
+	// Initializing player attributes
+	this->characterClass = "None";
+	setName(name);
+	this->hitPoints = 0;
+	setArmorClass();
+	this->attackBonus = 0;
+	setDamageBonus();
 
-    // Initializing armor slots to NULL
-    this->helmet = nullptr;
-    this->boots = nullptr;
-    this->armor = nullptr;
-    this->shield = nullptr;
-    this->weapon = nullptr;
-    this->ring = nullptr;
-    this->belt = nullptr;
+	// Initializing armor slots to NULL
+	this->helmet = nullptr;
+	this->boots = nullptr;
+	this->armor = nullptr;
+	this->shield = nullptr;
+	this->weapon = nullptr;
+	this->ring = nullptr;
+	this->belt = nullptr;
 
-    // Initialization of ability scores
-    time_t t;
-    srand((unsigned) time(&t));
-    this->strengthScore = rand() % 16 + 3;
-    this->dexterityScore = rand() % 16 + 3;
-    this->constitutionScore = rand() % 16 + 3;
-    this->intelligenceScore = rand() % 16 + 3;
-    this->wisdomScore = rand() % 16 + 3;
-    this->charismaScore = rand() % 16 + 3;
+	// Initialization of ability scores (All scores start at 3)
+	this->strengthScore = getCurrentTime() % 16 + 3;
+	this->dexterityScore = getCurrentTime() % 16 + 3;
+	this->constitutionScore = getCurrentTime() % 16 + 3;
+	this->intelligenceScore = getCurrentTime() % 16 + 3;
+	this->wisdomScore = getCurrentTime() % 16 + 3;
+	this->charismaScore = getCurrentTime() % 16 + 3;
 
-    // Initialization of ability modifiers
-    setStrengthModifier();
-    setDexterityModifier();
-    setConstitutionModifier();
-    setIntelligenceModifier();
-    setWisdomModifier();
-    setCharismaModifier();
+	// Initialization of ability modifiers
+	setStrengthModifier();
+	setDexterityModifier();
+	setConstitutionModifier();
+	setIntelligenceModifier();
+	setWisdomModifier();
+	setCharismaModifier();
+
 }
 
 void Character::updateCharacterCoords(int x, int y){
-    this->x = x;
-    this->y = y;
+
+	this->x = x;
+	this->y = y;
+	
 }
 
 // Getters
@@ -172,71 +175,36 @@ int Character::calculateModifier(int abilityScore) {return floor((abilityScore -
 
 void Character::printCharacter(Character* character){
 
-    std::cout << "---Character Characteristics---" << std::endl;
-    std::cout << "Name: ";
-    std::cout << character->getName() << std::endl;
-    std::cout << "Class: ";
-    std::cout << character->getCharacterClass() << std::endl;
-    std::cout << "Level: ";
-    std::cout << character->getLevel() << std::endl;
-    std::cout << "Hit Points: ";
-    std::cout << character->getHitPoints() << std::endl;
-    std::cout << "Armor Class: ";
-    std::cout << character->getArmorClass() << std::endl;
-    std::cout << "Attack Bonus: ";
-    std::cout << character->getAttackBonus() << std::endl;
-    std::cout << "Damage Bonus: ";
-    std::cout << character->getDamageBonus() << std::endl;
-
-    std::cout << "" << std::endl;
-
-    std::cout << "---Armor---" << std::endl;
-    std::cout << "Helmet: ";
-    std::cout << character->getHelmet() << std::endl;
-    std::cout << "Boots: ";
-    std::cout << character->getBoots() << std::endl;
-    std::cout << "Armor: ";
-    std::cout << character->getArmor() << std::endl;
-    std::cout << "Shield: ";
-    std::cout << character->getShield() << std::endl;
-    std::cout << "Weapon: ";
-    std::cout << character->getWeapon() << std::endl;
-    std::cout << "Ring: ";
-    std::cout << character->getRing() << std::endl;
-
-    std::cout << "" << std::endl;
-
-    std::cout << "---Ability Scores---" << std::endl;
-    std::cout << "Strength Score: ";
-    std::cout << character->getStrengthScore() << std::endl;
-    std::cout << "Dexterity Score: ";
-    std::cout << character->getDexterityScore() << std::endl;
-    std::cout << "Constitution Score: ";
-    std::cout << character->getConstitutionScore() << std::endl;
-    std::cout << "Intelligence Score: ";
-    std::cout << character->getIntelligenceScore() << std::endl;
-    std::cout << "Wisdom Score: ";
-    std::cout << character->getWisdomScore() << std::endl;
-    std::cout << "Charisma Score: ";
-    std::cout << character->getCharismaScore() << std::endl;
-
-    std::cout << "" << std::endl;
-
-    std::cout << "---Ability Modifiers---" << std::endl;
-    std::cout << "Strength Modifier: ";
-    std::cout << character->getStrengthModifier() << std::endl;
-    std::cout << "Dexterity Modifier: ";
-    std::cout << character->getDexterityModifier() << std::endl;
-    std::cout << "Constitution Modifier: ";
-    std::cout << character->getConstitutionModifier() << std::endl;
-    std::cout << "Intelligence Modifier: ";
-    std::cout << character->getIntelligenceModifier() << std::endl;
-    std::cout << "Wisdom Modifier: ";
-    std::cout << character->getWisdomModifier() << std::endl;
-    std::cout << "Charisma Modifier: ";
-    std::cout << character->getCharismaModifier() << std::endl;
-
-    std::cout << "" << std::endl;
+	std::cout << "---Character Characteristics---\n"
+          << "Name: " << character->getName() << '\n'
+          << "Class: " << character->getCharacterClass() << '\n'
+          << "Level: " << character->getLevel() << '\n'
+          << "Hit Points: " << character->getHitPoints() << '\n'
+          << "Armor Class: " << character->getArmorClass() << '\n'
+          << "Attack Bonus: " << character->getAttackBonus() << '\n'
+          << "Damage Bonus: " << character->getDamageBonus() << "\n\n"
+          << "---Armor---\n"
+          << "Helmet: " << character->getHelmet() << '\n'
+          << "Boots: " << character->getBoots() << '\n'
+          << "Armor: " << character->getArmor() << '\n'
+          << "Shield: " << character->getShield() << '\n'
+          << "Weapon: " << character->getWeapon() << '\n'
+          << "Ring: " << character->getRing() << "\n\n"
+          << "---Ability Scores---\n"
+          << "Strength Score: " << character->getStrengthScore() << '\n'
+          << "Dexterity Score: " << character->getDexterityScore() << '\n'
+          << "Constitution Score: " << character->getConstitutionScore() << '\n'
+          << "Intelligence Score: " << character->getIntelligenceScore() << '\n'
+          << "Wisdom Score: " << character->getWisdomScore() << '\n'
+          << "Charisma Score: " << character->getCharismaScore() << "\n\n"
+          << "---Ability Modifiers---\n"
+          << "Strength Modifier: " << character->getStrengthModifier() << '\n'
+          << "Dexterity Modifier: " << character->getDexterityModifier() << '\n'
+          << "Constitution Modifier: " << character->getConstitutionModifier() << '\n'
+          << "Intelligence Modifier: " << character->getIntelligenceModifier() << '\n'
+          << "Wisdom Modifier: " << character->getWisdomModifier() << '\n'
+          << "Charisma Modifier: " << character->getCharismaModifier() << '\n'
+          << '\n';
 
 }
 

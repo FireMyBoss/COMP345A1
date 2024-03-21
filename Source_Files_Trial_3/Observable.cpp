@@ -4,6 +4,7 @@
 
 #include "Observable.h"
 #include "Observer.h"
+#include <algorithm>
 
 void Observable::attach(Observer * observerToAdd){
     this->observerVec.push_back(observerToAdd);
