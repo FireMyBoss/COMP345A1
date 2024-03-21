@@ -620,7 +620,7 @@ void displayCampaignMenu(){
                 displayLoadCampaignMenu();
                 break;
             }
-            case '2': {
+            case '2': { //where campaign is created
                 createNewCampaign();
                 break;
             }
@@ -1176,10 +1176,11 @@ void createNewCampaign(){
         }
         if(input == 1){
             MadeCharacter = true;
-            //
+            //where character will be created
         } else { //input == 2
+            //where maps are created
             MadeMaps = true;
-            vector<Map*> listOfMaps;
+            vector<Map*> listOfMaps; // <-- inside this vector
             bool keepMakingMaps = true, firstTime = true;
             while(keepMakingMaps){
                 std::cout << "\nPlease input the size of the width for the map: ";
