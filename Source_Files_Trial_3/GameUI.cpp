@@ -1204,7 +1204,7 @@ void createNewCampaign(){
                         std::cin.ignore();
                     }
                 }
-                std::cout << width;
+                //std::cout << width;
                 std::cout << "\nPlease input the size of the height for the map: ";
                 for (;;) {
                     try {
@@ -1226,7 +1226,7 @@ void createNewCampaign(){
                         std::cin.ignore();
                     }
                 }
-                std::cout << height;
+                //std::cout << height;
                 if(firstTime){
                     MapCreator create(width,height);
                     firstTime = false;

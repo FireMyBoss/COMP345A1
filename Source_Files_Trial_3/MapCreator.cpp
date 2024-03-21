@@ -91,7 +91,7 @@ void MapCreator::createStart(){
             while (true){
                 cout << "\n\nEnter input the start index in the form of \"y,x\": ";
                 vector<int> start = getCoordinates();
-                cout << start[0] << " " <<  start[1] << " " <<  theMap->width - 1 << " \n" << (start[1] > theMap -> height-1);
+                //cout << start[0] << " " <<  start[1] << " " <<  theMap->width - 1 << " \n" << (start[1] > theMap -> height-1);
                 if(start[0] > theMap -> height-1 || start[1] > theMap -> width-1){
                     cout << "\n\nError: Start must be inside the map.";
                 } else if(start[0] == 0){
