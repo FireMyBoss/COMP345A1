@@ -44,6 +44,3 @@ class Boots : public Equipment{
 		 static string listOfEnchantments[2]; /**< An array containing the list of enchantments available for boots. */
 
 };
-
-
-#endif
