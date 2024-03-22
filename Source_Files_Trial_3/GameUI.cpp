@@ -965,7 +965,9 @@ void createNewCampaign(){
         }
         if(input == 1){
             MadeCharacter = true;
-            //
+            std::vector<Character*> listOfCharacters; // this is the list that contains the character
+            Character *newCharacter = new Character();
+            newCharacter->createNewCharacter(listOfCharacters);
         } else { //input == 2
             MadeMaps = true;
             vector<Map*> listOfMaps;
@@ -1021,7 +1023,7 @@ void createNewCampaign(){
                     firstTime = false;
                     width = 0; height = 0;
                 } else {
-                    std::cout << "here";
+                    //std::cout << "here";
                     vector<int> prevEnd; 
                     std::cout << listOfMaps.back()->endY;
                     prevEnd.push_back(listOfMaps.back()->endY);

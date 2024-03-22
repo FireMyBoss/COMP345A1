@@ -37,7 +37,7 @@ public:
     // Constructors
     Character();
     explicit Character(int levelToSet, std::string & name);
-    //explicit Character(int levelToSet, std::string & name, int type);
+    Character(int levelToSet, std::string & name, int type);
     Character(int levelToSet, std::string & name, bool isEnemy);
 
     int fighterType;
