@@ -23,6 +23,7 @@
 #include <sstream>
 #include <unordered_set>
 #include "MapObserver.h"
+#include "GameLoggerObserver.h" // TODO: changed here -----------------
 /*
 Character information in CSV file is saved as below:
 name
@@ -41,7 +42,7 @@ ring
 belt
 strength score
 dexterity score
-consitution score
+constitution score
 intelligence score
 wisdom score
 charisma score
@@ -78,8 +79,8 @@ std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path 
 std::vector<std::vector<std::string> > getCharacterInformationInCharacterDirectory(fs::path & characterDirectoryPath);
 std::string normalizeCSVOutput(std::string CSVInput);
 Map* generateInitialMapInfo();
-bool pauseMenuUIandExitGame();
-char getUserInput(Character * player, Map * currMap);
+bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver);
+char getUserInput(Character * player, Map * currMap, Observer * gameloggerObserver);
 void save();
 void createNewCampaign();
 

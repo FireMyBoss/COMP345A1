@@ -4,7 +4,7 @@
 
 #include "GameUI.h"
 #include "MapCreator.h"
-
+#
 #include "Dice.h"
 
 #ifdef __APPLE__
@@ -192,8 +192,8 @@ void gameLoopExampleForDemo(){
 
         // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
         char selection;
-
-        selection = getUserInput(newCharacter, newMap);
+        Observer * gameLoggerObserver = new GameLoggerObserver();
+        selection = getUserInput(newCharacter, newMap, gameLoggerObserver);
         clearConsole();
         if(selection == 'S'){
             delete newMap;
@@ -204,9 +204,14 @@ void gameLoopExampleForDemo(){
     }
 
 }
-
+// TODO: this has been updated ------------------------
 void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::vector<Map *> ptrVectorOfAllMaps, std::vector<Character *> ptrVectorOfAllCharacters){
-// TODO: items in parameter vectors may have backwards items
+
+    Game * currGame = new Game();
+    Observer * gameLoggerObserver = new GameLoggerObserver();
+    GameLoggerObserver * gameLoggerObserverDowncasted = dynamic_cast<GameLoggerObserver *>(gameLoggerObserver);
+
+    gameLoggerObserverDowncasted->log("New game started.", currGame); // gameLogger Update
 
     clearConsole();
 
@@ -214,28 +219,48 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
 
     int currMapIndex = 0;
 
-    Map * currMap = ptrVectorOfAllMaps.at(currMapIndex);
-    Observer * mapObserver = new MapObserver(currMap);
-    currMap->attach(mapObserver);
-    Character * newCharacter = ptrVectorOfAllCharacters.at(0);
-    Observer * characterObserver = new CharacterObserver(newCharacter);
-    newCharacter->attach(characterObserver);
+    for(Map * map : ptrVectorOfAllMaps){
+        Map * newMap = map;
+        Observer * mapObserver = new MapObserver(newMap);
+        newMap->attach(mapObserver);
+        newMap->attach(gameLoggerObserver);
+    }
+
+    for(Character * character : ptrVectorOfAllCharacters){
+        Character * newCharacter = character;
+        Observer * characterObserver = new CharacterObserver(newCharacter);
+        newCharacter->attach(characterObserver);
+        newCharacter->attach(gameLoggerObserver);
+    }
+
+    Map * currMap = ptrVectorOfAllMaps.at(0);
+    gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
+    Character * currCharacter = ptrVectorOfAllCharacters.at(0);
 
     currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
+    gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
+
+    gameLoggerObserverDowncasted->log("It is " + currCharacter->getName() + " turn.", currCharacter); // gameLogger Update
+    currMap->notify();
 
     while(play){
 
-        currMap->notify();
-        newCharacter->notify();
-
         // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
+        gameLoggerObserverDowncasted->log("It is " + currCharacter->getName() + " turn.", currCharacter); // gameLogger Update
         char selection;
 
-        selection = getUserInput(newCharacter, currMap);
+        selection = getUserInput(currCharacter, currMap, gameLoggerObserver);
 
-       clearConsole();
+        clearConsole();
+
+        currMap->notify();
+        currCharacter->notify();
+
+        gameLoggerObserverDowncasted->log("End of " + currCharacter->getName() + " turn.", currCharacter); // gameLogger Update
 
         if(selection == 'S'){
+            std::ofstream gameLogFile("GameLog.txt");
+            gameLogFile << "";
             play = false;
         }else if(selection == 'E'){
 
@@ -246,9 +271,9 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
                     continue;
                 }
                 currMap = ptrVectorOfAllMaps.at(currMapIndex);
-                mapObserver = new MapObserver(currMap);
-                currMap->attach(mapObserver);
+                gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
                 currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
+                gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
 
         }else{
                 continue;
@@ -306,7 +331,7 @@ std::vector<std::string> getMapsInCampaignCSV(fs::path & campaignCSVFilePath){
 
     return mapNamesInCampaign;
 }
-// TODO: there is an error here -----------------------------
+
 std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path & mapDirectoryPath){
 
 
@@ -700,8 +725,94 @@ void funcForCSV(){
     }
 
 }
+void pauseMenuUnsubscribe(GameLoggerObserver * gameLoggerObserver){
 
-bool pauseMenuUIandExitGame(){
+    for(;;) {
+        clearConsole();
+
+        std::cout << "GameLogger Settings" << std::endl;
+        std::cout << "-------------------" << std::endl;
+        std::cout << std::endl;
+        std::cout << "Press '1' to toggle the 'Game' log: ";
+        bool gameExist = gameLoggerObserver->existsInSubscriberList("Game");
+        if(gameExist){
+            std::cout << "ON" << std::endl;
+        }else{
+            std::cout << "OFF" << std::endl;
+        }
+        std::cout << "Press '2' to toggle the 'Character' log: ";
+        bool characterExist = gameLoggerObserver->existsInSubscriberList("Character");
+        if(characterExist){
+            std::cout << "ON" << std::endl;
+        }else{
+            std::cout << "OFF" << std::endl;
+        }
+        std::cout << "Press '3' to toggle the 'Map' log: ";
+        bool mapExist = gameLoggerObserver->existsInSubscriberList("Map");
+        if(mapExist){
+            std::cout << "ON" << std::endl;
+        }else{
+            std::cout << "OFF" << std::endl;
+        }
+        std::cout << "Press '4' to toggle the 'Dice' log: ";
+        bool diceExist = gameLoggerObserver->existsInSubscriberList("Dice");
+        if(diceExist){
+            std::cout << "ON" << std::endl;
+        }else{
+            std::cout << "OFF" << std::endl;
+        }
+        std::cout << "Press '5' to exit" << std::endl;
+
+        char playerInputChar;
+
+        for (;;) {
+            try {
+                std::cin >> playerInputChar;
+                if (cin.fail()) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                    throw std::runtime_error("Invalid input. Please enter a character.");
+                    continue;
+                } else if (playerInputChar != '1' && playerInputChar != '2' && playerInputChar != '3'
+                           && playerInputChar != '4' && playerInputChar != '5') {
+                    std::cin.clear();
+                    std::cin.ignore();
+                    continue;
+                }
+                break;
+            } catch (...) {
+                std::cin.clear();
+                std::cin.ignore();
+            }
+        }
+
+        switch (playerInputChar) {
+            case '1': {
+                gameLoggerObserver->changeSubscription("Game");
+                break;
+            }
+            case '2': {
+                gameLoggerObserver->changeSubscription("Character");
+                break;
+            }
+            case '3': {
+                gameLoggerObserver->changeSubscription("Map");
+                break;
+            }
+            case '4': {
+                gameLoggerObserver->changeSubscription("Dice");
+                break;
+            }
+            case '5': {
+                return;
+            }
+            default: {
+                break;
+            }
+        }
+    }
+}
+bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver){
 
     clearConsole();
 
@@ -710,6 +821,7 @@ bool pauseMenuUIandExitGame(){
     std::cout << "" << std::endl;
     std::cout << "Enter '1' to unpause" << std::endl;
     std::cout << "Enter '2' to exit game" << std::endl;
+    std::cout << "Enter '3' to change log information" << std::endl;
 
     char playerInputChar;
 
@@ -721,7 +833,7 @@ bool pauseMenuUIandExitGame(){
                 std::cin.ignore();
                 throw std::runtime_error("Invalid input. Please enter a character.");
                 continue;
-            }else if(playerInputChar != '1' && playerInputChar != '2'){
+            }else if(playerInputChar != '1' && playerInputChar != '2' && playerInputChar != '3'){
                 std::cin.clear();
                 std::cin.ignore();
                 continue;
@@ -740,13 +852,19 @@ bool pauseMenuUIandExitGame(){
 
             return true;
         }
+        case '3':{
+            pauseMenuUnsubscribe(gameLoggerObserver);
+            return false;
+        }
         default:{
             break;
         }
     }
     return false;
 }
-char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
+char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserver){ // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
+
+    GameLoggerObserver * gameLoggerObserverCasted = (GameLoggerObserver *)gameLoggerObserver;
 
     std::cout << "Please enter a direction to move ('w', 'a', 's', 'd') or pause ('p'):";
     std::cout << "" << std::endl;
@@ -784,6 +902,10 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
             movementY = player->y - 1;
             try {
                 stateToCheck = currMap->getStateOfCell(movementX, movementY);
+
+                // TODO: testing this here -------------------------------
+                std::string toLog = player->getName() + " has moved up.";
+                gameLoggerObserverCasted->log(toLog, player);
             }catch(...){
                 return 'X';
             }
@@ -795,6 +917,10 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
             movementY = player->y;
             try {
                 stateToCheck = currMap->getStateOfCell(movementX, movementY);
+
+                // TODO: testing this here -------------------------------
+                std::string toLog = player->getName() + " has moved left.";
+                gameLoggerObserverCasted->log(toLog, player);
             }catch(...){
                 return 'X';
             }
@@ -806,6 +932,10 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
             movementY = player->y + 1;
             try {
                 stateToCheck = currMap->getStateOfCell(movementX, movementY);
+
+                // TODO: testing this here -------------------------------
+                std::string toLog = player->getName() + " has moved down.";
+                gameLoggerObserverCasted->log(toLog, player);
             }catch(...){
                 return 'X';
             }
@@ -817,6 +947,10 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
             movementY = player->y;
             try {
                 stateToCheck = currMap->getStateOfCell(movementX, movementY);
+
+                // TODO: testing this here -------------------------------
+                std::string toLog = player->getName() + " has moved right.";
+                gameLoggerObserverCasted->log(toLog, player);
             }catch(...){
                 return 'X';
             }
@@ -825,7 +959,7 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
         case 'p':{
             stateToCheck = nullptr;
             bool exitGame;
-            exitGame = pauseMenuUIandExitGame();
+            exitGame = pauseMenuUIandExitGame(gameLoggerObserverCasted);
             if(exitGame){
                 return 'S';
             }else{
@@ -851,7 +985,9 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
         }
         case 'X':{
             std::cout << "--- A wall obstructs your way. ---" << std::endl;
-            std::cout << "" << std::endl;
+            // TODO: testing this here -------------------------------
+            std::string toLog = player->getName() + " has bumped into a wall.";
+            gameLoggerObserverCasted->log(toLog, player);
             break;
         }
         case 'D':{
@@ -859,6 +995,9 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
             player->x = movementX;
             player->y = movementY;
             currMap->map.at(player->y).at(player->x)->characterInSpot = player;
+            // TODO: testing this here -------------------------------
+            std::string toLog = player->getName() + " has opened a door.";
+            gameLoggerObserverCasted->log(toLog, player);
             break;
         }
         case 'S':{
@@ -898,6 +1037,9 @@ char getUserInput(Character * player, Map * currMap){ // return 'E' for end and 
             }
 
             if(openChestDecision == 'y'){
+                // TODO: testing this here -------------------------------
+                std::string toLog = player->getName() + " has opened a chest.";
+                gameLoggerObserverCasted->log(toLog, player);
                 std::cout << "--- Chest Contents ---" << std::endl;
                 std::cout << "" << std::endl;
                 TreasureChest * newChest;
