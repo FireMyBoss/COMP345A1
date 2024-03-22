@@ -76,12 +76,16 @@ Character::Character(int levelToSet, std::string & name) : level(levelToSet){
 	this->belt = nullptr;
 
 	// Initialization of ability scores (All scores start at 3)
-	this->strengthScore = getCurrentTime() % 16 + 3;
+	
+    this->strengthScore = getCurrentTime() % 16 + 3;
 	this->dexterityScore = getCurrentTime() % 16 + 3;
 	this->constitutionScore = getCurrentTime() % 16 + 3;
 	this->intelligenceScore = getCurrentTime() % 16 + 3;
 	this->wisdomScore = getCurrentTime() % 16 + 3;
 	this->charismaScore = getCurrentTime() % 16 + 3;
+     
+    // this was the old way, heres ass3 way
+    //setFighterType();
 
 	// Initialization of ability modifiers
 	setStrengthModifier();

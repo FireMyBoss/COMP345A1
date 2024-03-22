@@ -6,7 +6,6 @@
 // Driver code
 
 int main() {
-
 	displayStartingMenu();
 
 }

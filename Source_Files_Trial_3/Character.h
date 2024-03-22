@@ -6,6 +6,7 @@
 #include "misc.h"
 #include "Observable.h"
 
+
 /* Playable character types are as follows: Barbarian, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer,
  * Wizard, and Bard. Each character has characteristics, ability scores, and modifiers for each ability. For player
  * characteristics, we have the following: characterClass, name, level, hitPoints, armorClass, attackBonus, and
