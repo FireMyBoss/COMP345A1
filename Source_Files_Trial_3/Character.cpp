@@ -8,6 +8,7 @@
 #include <utility>
 #include <iostream>
 #include "allcharacters.h"
+#include "FighterType.h"
 
 // Constructors
 Character::Character(){
@@ -34,13 +35,17 @@ Character::Character(){
 	this->ring = nullptr;
 	this->belt = nullptr;
 
-	// Initialization of ability scores
-	this->strengthScore = 0;
-	this->dexterityScore = 0;
-	this->constitutionScore = 0;
-	this->intelligenceScore = 0;
-	this->wisdomScore = 0;
-	this->charismaScore = 0;
+	// Initialization of ability scores (All scores start at 3)
+	/*
+    this->strengthScore = getCurrentTime() % 16 + 3;
+	this->dexterityScore = getCurrentTime() % 16 + 3;
+	this->constitutionScore = getCurrentTime() % 16 + 3;
+	this->intelligenceScore = getCurrentTime() % 16 + 3;
+	this->wisdomScore = getCurrentTime() % 16 + 3;
+	this->charismaScore = getCurrentTime() % 16 + 3;
+    */
+    // this was the old way, heres ass3 way
+    setFighterType(this);
 
 	// Initialization of ability modifiers
 	this->strengthModifier = 0;
@@ -76,16 +81,16 @@ Character::Character(int levelToSet, std::string & name) : level(levelToSet){
 	this->belt = nullptr;
 
 	// Initialization of ability scores (All scores start at 3)
-	
+	/*
     this->strengthScore = getCurrentTime() % 16 + 3;
 	this->dexterityScore = getCurrentTime() % 16 + 3;
 	this->constitutionScore = getCurrentTime() % 16 + 3;
 	this->intelligenceScore = getCurrentTime() % 16 + 3;
 	this->wisdomScore = getCurrentTime() % 16 + 3;
 	this->charismaScore = getCurrentTime() % 16 + 3;
-     
+    */
     // this was the old way, heres ass3 way
-    //setFighterType();
+    setFighterType(this);
 
 	// Initialization of ability modifiers
 	setStrengthModifier();

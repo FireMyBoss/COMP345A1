@@ -7,8 +7,8 @@
 #include "Character.h" // Include the header file where Character is declared
 
 
-void setFighterType(Character &Fighter, int type); // 0 = Bully, 1 = Nimble, 2 = tank
-void setFighterType(Character &Fighter); //makes a random Fighter, calls ^
+void setFighterType(Character *Fighter, int type); // 0 = Bully, 1 = Nimble, 2 = tank
+void setFighterType(Character *Fighter); //makes a random Fighter, calls ^
 
 
 

@@ -1,5 +1,6 @@
 #include <iostream>
 #include "GameUI.h"
+#include "Character.h"
 
 
 
@@ -7,5 +8,16 @@
 
 int main() {
 	displayStartingMenu();
-
+    
+    //for testing
+    /*
+    Character h;
+    cout << h.fighterTypeName << endl;
+    cout << h.getStrengthScore()<< endl;
+    cout << h.getDexterityScore()<< endl;
+    cout << h.getConstitutionScore()<< endl;
+    cout << h.getIntelligenceScore()<< endl;
+    cout << h.getWisdomScore()<< endl;
+    cout << h.getCharismaScore()<< endl;
+    */
 }
