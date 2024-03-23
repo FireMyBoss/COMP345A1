@@ -42,6 +42,6 @@ void setFighterType(Character *Fighter, int type){  // 0 = Bully, 1 = Nimble, 2 
 }
 
 void setFighterType(Character *Fighter){ //makes a random Fighter, calls ^
-    setFighterType(Fighter, getCurrentTime()/100000 %3);
+    setFighterType(Fighter, getCurrentTime() %3);
 } 
 

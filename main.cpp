@@ -9,7 +9,7 @@
 int main() {
 	displayStartingMenu();
     
-    //for testing
+    //for demo
     /*
     Character h;
     cout << h.fighterTypeName << endl;
