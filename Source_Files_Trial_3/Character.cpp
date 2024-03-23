@@ -8,7 +8,6 @@
 #include <utility>
 #include <iostream>
 #include "allcharacters.h"
-#include "FighterType.h"
 
 // Constructors
 Character::Character(){
@@ -35,17 +34,13 @@ Character::Character(){
 	this->ring = nullptr;
 	this->belt = nullptr;
 
-	// Initialization of ability scores (All scores start at 3)
-	/*
-    this->strengthScore = getCurrentTime() % 16 + 3;
-	this->dexterityScore = getCurrentTime() % 16 + 3;
-	this->constitutionScore = getCurrentTime() % 16 + 3;
-	this->intelligenceScore = getCurrentTime() % 16 + 3;
-	this->wisdomScore = getCurrentTime() % 16 + 3;
-	this->charismaScore = getCurrentTime() % 16 + 3;
-    */
-    // this was the old way, heres ass3 way
-    setFighterType(this);
+	// Initialization of ability scores
+	this->strengthScore = 0;
+	this->dexterityScore = 0;
+	this->constitutionScore = 0;
+	this->intelligenceScore = 0;
+	this->wisdomScore = 0;
+	this->charismaScore = 0;
 
 	// Initialization of ability modifiers
 	this->strengthModifier = 0;
@@ -81,61 +76,12 @@ Character::Character(int levelToSet, std::string & name) : level(levelToSet){
 	this->belt = nullptr;
 
 	// Initialization of ability scores (All scores start at 3)
-	/*
-    this->strengthScore = getCurrentTime() % 16 + 3;
+	this->strengthScore = getCurrentTime() % 16 + 3;
 	this->dexterityScore = getCurrentTime() % 16 + 3;
 	this->constitutionScore = getCurrentTime() % 16 + 3;
 	this->intelligenceScore = getCurrentTime() % 16 + 3;
 	this->wisdomScore = getCurrentTime() % 16 + 3;
 	this->charismaScore = getCurrentTime() % 16 + 3;
-    */
-    // this was the old way, heres ass3 way
-    setFighterType(this);
-
-	// Initialization of ability modifiers
-	setStrengthModifier();
-	setDexterityModifier();
-	setConstitutionModifier();
-	setIntelligenceModifier();
-	setWisdomModifier();
-	setCharismaModifier();
-
-}
-
-Character::Character(int levelToSet, std::string & name, int fighterType) : level(levelToSet){
-
-	// Player coordinates
-	this->x = 0;
-	this->y = 0;
-
-	// Initializing player attributes
-	this->characterClass = "None";
-	setName(name);
-	this->hitPoints = 0;
-	setArmorClass();
-	this->attackBonus = 0;
-	setDamageBonus();
-
-	// Initializing armor slots to NULL
-	this->helmet = nullptr;
-	this->boots = nullptr;
-	this->armor = nullptr;
-	this->shield = nullptr;
-	this->weapon = nullptr;
-	this->ring = nullptr;
-	this->belt = nullptr;
-
-	// Initialization of ability scores (All scores start at 3)
-	/*
-    this->strengthScore = getCurrentTime() % 16 + 3;
-	this->dexterityScore = getCurrentTime() % 16 + 3;
-	this->constitutionScore = getCurrentTime() % 16 + 3;
-	this->intelligenceScore = getCurrentTime() % 16 + 3;
-	this->wisdomScore = getCurrentTime() % 16 + 3;
-	this->charismaScore = getCurrentTime() % 16 + 3;
-    */
-    // this was the old way, heres ass3 way
-    setFighterType(this, fighterType);
 
 	// Initialization of ability modifiers
 	setStrengthModifier();
@@ -279,28 +225,6 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
 
     std::cout << "" << std::endl;
 
-    std::cout << "Fighter type of Characters:\n'1' for Bully\n'2' for Nimble\n'3' for Tank\nEnter Type for your character: " << std::endl;
-
-
-    // take input for level of character
-    int fighterType = 0;
-    for (;;){
-        try {
-            std::cin >> fighterType;
-            if(cin.fail()) {
-                std::cin.clear();
-                std::cin.ignore();
-                throw std::runtime_error("Invalid input. Please enter an integer.");
-                continue;
-            } else if (fighterType == 0 || fighterType > 3){
-                throw std::runtime_error("Please input one of the numbers above.");
-            }
-            break;
-        } catch (...) {
-            std::cin.clear();
-            std::cin.ignore();
-        }
-    }
 
     std::cout << "Enter a level for your character: " << std::endl;
 
@@ -362,37 +286,37 @@ Character* Character::createNewCharacter(std::vector<Character*> & createdCharac
 
     switch(characterClass) {
         case 1:
-            newCharacter = new Barbarian(level, name, fighterType);
+            newCharacter = new Barbarian(level, name);
             break;
         case 2:
-            newCharacter = new Bard(level, name, fighterType);
+            newCharacter = new Bard(level, name);
             break;
         case 3:
-            newCharacter = new Cleric(level, name, fighterType);
+            newCharacter = new Cleric(level, name);
             break;
         case 4:
-            newCharacter = new Druid(level, name, fighterType);
+            newCharacter = new Druid(level, name);
             break;
         case 5:
-            newCharacter = new Fighter(level, name, fighterType);
+            newCharacter = new Fighter(level, name);
             break;
         case 6:
-            newCharacter = new Monk(level, name, fighterType);
+            newCharacter = new Monk(level, name);
             break;
         case 7:
-            newCharacter = new Paladin(level, name, fighterType);
+            newCharacter = new Paladin(level, name);
             break;
         case 8:
-            newCharacter = new Ranger(level, name, fighterType);
+            newCharacter = new Ranger(level, name);
             break;
         case 9:
-            newCharacter = new Rogue(level, name, fighterType);
+            newCharacter = new Rogue(level, name);
             break;
         case 10:
-            newCharacter = new Sorcerer(level, name, fighterType);
+            newCharacter = new Sorcerer(level, name);
             break;
         case 11:
-            newCharacter = new Wizard(level, name, fighterType);
+            newCharacter = new Wizard(level, name);
             break;
         default:
             std::cout << "--- No character created ----" << std::endl;

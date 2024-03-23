@@ -27,7 +27,6 @@ class Barbarian : public Character {
 	public:
 	
     explicit Barbarian(int levelToSet, std::string &name); /**< Constructor for Barbarian class. */
-    Barbarian(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Barbarian. */
     void setAttackBonus() override; /**< Sets attack bonus for Barbarian. */
     
@@ -44,7 +43,6 @@ class Bard : public Character {
 	public:
 	
     explicit Bard(int levelToSet, std::string &name); /**< Constructor for Bard class. */
-    Bard(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Bard. */
     void setAttackBonus() override; /**< Sets attack bonus for Bard. */
     
@@ -58,7 +56,6 @@ class Bard : public Character {
 class Cleric : public Character {
 public:
     explicit Cleric(int levelToSet, std::string &name); /**< Constructor for Cleric class. */
-    Cleric(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Cleric. */
     void setAttackBonus() override; /**< Sets attack bonus for Cleric. */
 };
@@ -71,7 +68,6 @@ public:
 class Druid : public Character {
 public:
     explicit Druid(int levelToSet, std::string &name); /**< Constructor for Druid class. */
-    Druid(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Druid. */
     void setAttackBonus() override; /**< Sets attack bonus for Druid. */
 };
@@ -84,7 +80,6 @@ public:
 class Fighter : public Character {
 public:
     explicit Fighter(int levelToSet, std::string &name); /**< Constructor for Fighter class. */
-    Fighter(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Fighter. */
     void setAttackBonus() override; /**< Sets attack bonus for Fighter. */
 };
@@ -97,7 +92,6 @@ public:
 class Monk : public Character {
 public:
     explicit Monk(int levelToSet, std::string &name); /**< Constructor for Monk class. */
-    Monk(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Monk. */
     void setAttackBonus() override; /**< Sets attack bonus for Monk. */
 };
@@ -110,7 +104,6 @@ public:
 class Paladin : public Character {
 public:
     explicit Paladin(int levelToSet, std::string &name); /**< Constructor for Paladin class. */
-    Paladin(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Paladin. */
     void setAttackBonus() override; /**< Sets attack bonus for Paladin. */
 };
@@ -123,7 +116,6 @@ public:
 class Ranger : public Character {
 public:
     explicit Ranger(int levelToSet, std::string &name); /**< Constructor for Ranger class. */
-    Ranger(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Ranger. */
     void setAttackBonus() override; /**< Sets attack bonus for Ranger. */
 };
@@ -136,7 +128,6 @@ public:
 class Rogue : public Character {
 public:
     explicit Rogue(int levelToSet, std::string &name); /**< Constructor for Rogue class. */
-    Rogue(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Rogue. */
     void setAttackBonus() override; /**< Sets attack bonus for Rogue. */
 };
@@ -149,7 +140,6 @@ public:
 class Sorcerer : public Character {
 public:
     explicit Sorcerer(int levelToSet, std::string &name); /**< Constructor for Sorcerer class. */
-    Sorcerer(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Sorcerer. */
     void setAttackBonus() override; /**< Sets attack bonus for Sorcerer. */
 };
@@ -162,7 +152,6 @@ public:
 class Wizard : public Character {
 public:
     explicit Wizard(int levelToSet, std::string &name); /**< Constructor for Wizard class. */
-    Wizard(int levelToSet, std::string &name, int fighterType);
     void setHitPoints() override; /**< Sets hit points for Wizard. */
     void setAttackBonus() override; /**< Sets attack bonus for Wizard. */
 };

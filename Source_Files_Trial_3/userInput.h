@@ -5,8 +5,6 @@
 #include <termios.h>
 #include <cstring>
 #include <cmath>
-#include "State.h"
-#include "Item.h"
 
 #pragma once
 
@@ -62,6 +60,8 @@ int ifUserOpensChest(char* input);
 int ifUserPauses(char* input);
 
 int ifUserSelectsMenuOption(char* input);
+
+int ifUserAttacks(char* input);
 
 int diagonalTest(int input, int timeInNs);
 

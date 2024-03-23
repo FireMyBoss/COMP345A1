@@ -10,7 +10,6 @@ class Observer;
 
 class Observable {
 public:
-    virtual ~Observable(){};
     void attach(Observer * observerToAdd);
     void detach(Observer * observerToRemove);
     void notify();
