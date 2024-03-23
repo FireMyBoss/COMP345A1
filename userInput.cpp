@@ -242,14 +242,6 @@ int ifUserSelectsMenuOption(char* input) { // User inputs 'c' key
 
 }
 
-int ifUserAttacks(char* input) { //User inputs 'k' key
-
-	int hashVal = hashUserInput(input);
-	
-	return hashVal == 214 || hashVal == 139; //k in ASCII: 107, space in ASCII: 32. 214 case: kk, 139 case: k space OR space k 
-
-}
-
 
 int diagonalTest(int input, int timeInNs) {
 
@@ -386,10 +378,6 @@ int userInputCase(char* input) {
         case 198: case 131: // ifUserSelectsMenuOption
 
             return 10;
-            
-        case 214: case 139: // ifUserAttacks
-        
-        	return 11;
 
         default:
 

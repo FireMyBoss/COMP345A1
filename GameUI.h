@@ -23,10 +23,9 @@
 #include <sstream>
 #include <unordered_set>
 #include "MapObserver.h"
-#include "EmojiMap.h"
+#include "GameLoggerObserver.h" // TODO: changed here -----------------
 /*
 Character information in CSV file is saved as below:
-
 name
 character class
 level
@@ -34,7 +33,6 @@ hit Points
 armor class
 attack bonus
 damage bonus
-
 helmet
 boots
 armor
@@ -42,24 +40,18 @@ shield
 weapon
 ring
 belt
-
 strength score
 dexterity score
-consitution score
+constitution score
 intelligence score
 wisdom score
 charisma score
-
 strength modifier
 dexterity modifier
 constitution modifier
 intelligence modifier
 wisdom modifier
 charisma modifier
-
-xInd
-yInd
-isPlayer
  */
 
 #ifdef __APPLE__
@@ -87,8 +79,8 @@ std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path 
 std::vector<std::vector<std::string> > getCharacterInformationInCharacterDirectory(fs::path & characterDirectoryPath);
 std::string normalizeCSVOutput(std::string CSVInput);
 Map* generateInitialMapInfo();
-bool pauseMenuUIandExitGame();
-char getUserInput(Character * player, Map * currMap);
+bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver);
+char getUserInput(Character * player, Map * currMap, Observer * gameloggerObserver);
 void save();
 void createNewCampaign();
 
