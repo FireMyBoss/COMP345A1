@@ -23,7 +23,9 @@
 #include <sstream>
 #include <unordered_set>
 #include "MapObserver.h"
-#include "GameLoggerObserver.h" // TODO: changed here -----------------
+#include "GameLoggerObserver.h"
+#include "EmojiMap.h"
+ // TODO: changed here -----------------
 /*
 Character information in CSV file is saved as below:
 name

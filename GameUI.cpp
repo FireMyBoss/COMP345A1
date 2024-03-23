@@ -663,7 +663,6 @@ void displayCampaignMenu(){
     }
 }
 
-
 void displayStartingMenu(){
 
     for(;;) {
@@ -676,6 +675,7 @@ void displayStartingMenu(){
         std::cout << "Enter '1' to start game" << std::endl;
         std::cout << "Enter '2' to exit game" << std::endl;
         std::cout << "Enter '3' to enter creation testing" << std::endl;
+        std::cout << "Enter '4' to enter NPC testing" << std::endl;
 
         char userSelection;
 
@@ -687,7 +687,7 @@ void displayStartingMenu(){
                     std::cin.ignore();
                     throw std::runtime_error("Invalid input. Please enter an integer.");
                     continue;
-                } else if (userSelection != '1' && userSelection != '2' && userSelection != '3') {
+                } else if (userSelection != '1' && userSelection != '2' && userSelection != '3' && userSelection != '4') {
                     continue;
                 }
                 break;
@@ -703,13 +703,48 @@ void displayStartingMenu(){
             displayCampaignMenu();
 
         } else if(userSelection == '2') {
+        		clearConsole();
             return;
-        }else{
+        }else if (userSelection == '3'){
             creationTestsUI();
+        } else if (userSelection == '4') {
+        	
+        	std::string userInput;
+        	
+        	clearConsole();
+        	cout << "You are entering the NPC testing zone. Would you like to proceed?\nOption ('y' for yes, any key for no): \n\n";
+        	
+        	cin >> userInput;
+        	
+        	if(userInput == "y") {
+        	
+		      	EmojiMap newMap = EmojiMap(80,80);
+		
+						int npcY = 0;
+						int npcX = 20;
+						int npcState = 6;
+						
+						newMap.setNumberAtCell(npcState, npcY, npcX);
+						
+						int** NPCList = new int*[1];
+						NPCList[0] = new int[3];
+						
+						NPCList[0][0] = npcY;
+						NPCList[0][1] = npcX;
+						NPCList[0][2] = npcState;
+						
+						
+						newMap.runGame(NPCList, 1, 0);
+						
+						delete[] NPCList[0];
+						
+						delete[] NPCList;
+        	
+        	}
+        	
         }
     }
 }
-
 
 void funcForCSV(){
 
