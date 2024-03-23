@@ -1,0 +1,31 @@
+New game started.
+New map is loading.
+Characters loaded into map.
+It is King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+New map is loading.
+Characters loaded into map.

@@ -20,4 +20,5 @@ int main() {
     cout << h.getWisdomScore()<< endl;
     cout << h.getCharismaScore()<< endl;
     */
+    
 }
