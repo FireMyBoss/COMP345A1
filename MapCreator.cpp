@@ -64,6 +64,8 @@ void MapCreator::setStartBasedOnPrev(vector<int> prevMapEnd){
             theMap -> startY = theMap->height/2;
         }
     }
+    State * newStartSpot = new StartSpot();
+    theMap->map[theMap->startY][theMap->startX]->state = newStartSpot;
     
 }
 

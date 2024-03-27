@@ -1149,9 +1149,9 @@ void createNewCampaign(){
             MadeMaps = true;
             vector<Map*> listOfMaps;
             bool keepMakingMaps = true, firstTime = true;
+            int width, height;
             while(keepMakingMaps){
                 std::cout << "\nPlease input the size of the width for the map: ";
-                int width, height;
                 for (;;) {
                     try {
                         std::cin >> width;
@@ -1172,7 +1172,6 @@ void createNewCampaign(){
                         std::cin.ignore();
                     }
                 }
-                std::cout << width;
                 std::cout << "\nPlease input the size of the height for the map: ";
                 for (;;) {
                     try {
@@ -1194,18 +1193,19 @@ void createNewCampaign(){
                         std::cin.ignore();
                     }
                 }
-                std::cout << height;
+                cout << endl; 
                 if(firstTime){
                     MapCreator create(width,height);
+                    listOfMaps.push_back(create.returnMap());
                     firstTime = false;
                     width = 0; height = 0;
                 } else {
-                    //std::cout << "here";
                     vector<int> prevEnd; 
                     std::cout << listOfMaps.back()->endY;
                     prevEnd.push_back(listOfMaps.back()->endY);
                     prevEnd.push_back(listOfMaps.back()->endX);
                     MapCreator create(width,height, prevEnd);
+                    listOfMaps.push_back(create.returnMap());
                     width = 0; height = 0;
                 }
                 std::cout << "Would you like to create another map? Type 1 for yes and 2 for no: ";
