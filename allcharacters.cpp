@@ -1,4 +1,4 @@
-/**
+/** Hello world
  * @file
  * @brief Implementation file for character classes.
  * 
