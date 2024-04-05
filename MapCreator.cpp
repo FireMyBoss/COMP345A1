@@ -251,9 +251,9 @@ void MapCreator::printMapWithPathAndIndex(){
         for(int j = 0; j < theMap->width; j++) {
 
             if(theMap->map.at(i).at(j)->isPath && theMap->map.at(i).at(j)->state->letter != 'S' && theMap->map.at(i).at(j)->state->letter != 'E'){
-                returnString += 'P';
+                returnString += "🟩";
             }else {
-                returnString +=theMap->map.at(i).at(j)->state->letter;
+                returnString +=theMap->map.at(i).at(j)->state->colour;
             }
         }
         returnString += "\n";
