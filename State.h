@@ -17,7 +17,7 @@ public:
 
 class EmptySpot : public State{
 public:
-    EmptySpot(){this->letter = '.'; this->colour = "⬜";};
+    EmptySpot(){this->letter = '.'; this->colour = "🟩";};
 };
 
 class Wall : public State{
