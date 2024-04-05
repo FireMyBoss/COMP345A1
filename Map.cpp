@@ -65,7 +65,7 @@ Map::Map(int height, int width){
     Map::createStart();
     Map::placePerimeterWalls();
     Map::snakeEndPath();
-    Map::fillMapWithWalls();
+    // Map::fillMapWithWalls();
     Map::fillMapWithRooms();
 }
 
