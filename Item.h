@@ -9,6 +9,7 @@ using namespace std;
 
 class Item : public Observable{
 private:
+    void abstractPure(){} override;
     bool equipped;
 protected:
    int enchantmentBonus; //bonus amount, 1-5

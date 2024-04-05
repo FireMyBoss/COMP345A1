@@ -8,7 +8,8 @@
 #include "Observable.h"
 
 class Game : public Observable {
-
+private:
+    void abstractPure(){} override;
 };
 
 

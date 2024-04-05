@@ -26,6 +26,7 @@
 */
 class Character : public Observable {
 public:
+
     // Player coordinates
     int x;
     int y;
@@ -117,6 +118,8 @@ public:
     void createCharacterInterface();
 
 protected:
+
+    void abstractPure(){} override;
 
     // Characteristics
     std::string characterClass;
