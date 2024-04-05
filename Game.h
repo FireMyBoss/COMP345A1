@@ -9,7 +9,7 @@
 
 class Game : public Observable {
 private:
-    void abstractPure(){} override;
+    void abstractPure() override {};
 };
 
 

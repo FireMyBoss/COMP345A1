@@ -24,6 +24,8 @@
 
 class Map : public Observable {
 public:
+    void abstractPure() override {};
+
     int height;
     int width;
     int startX;

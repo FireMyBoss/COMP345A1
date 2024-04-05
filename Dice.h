@@ -39,7 +39,7 @@ class Dice : public Observable {
 		
 	private:
 
-        void abstractPure(){} override;
+        void abstractPure() override {};
 
 		int numOfDice;
 		int numOfSidesDie;

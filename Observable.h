@@ -10,7 +10,7 @@ class Observer;
 
 class Observable {
 public:
-    void abstractPure() = 0;
+    virtual void abstractPure() = 0;
     void attach(Observer * observerToAdd);
     void detach(Observer * observerToRemove);
     void notify();

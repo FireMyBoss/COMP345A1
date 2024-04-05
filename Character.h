@@ -119,7 +119,7 @@ public:
 
 protected:
 
-    void abstractPure(){} override;
+    void abstractPure() override {};
 
     // Characteristics
     std::string characterClass;
