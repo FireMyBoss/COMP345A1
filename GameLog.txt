@@ -201,3 +201,8 @@ King Kamra has moved down.
 End of King Kamra turn.
 New map is loading.
 Characters loaded into map.
+New game started.
+New game started.
+New game started.
+New game started.
+New game started.

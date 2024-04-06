@@ -1124,6 +1124,8 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
 
 //shai's func
 void createNewCampaign(){
+    vector<Map*> listOfMaps;
+    std::vector<Character*> listOfCharacters; // this is the list that contains the character
     bool MadeCharacter = false, MadeMaps = false;
     int input;
     std::cin.clear();
@@ -1159,12 +1161,11 @@ void createNewCampaign(){
         }
         if(input == 1){
             MadeCharacter = true;
-            std::vector<Character*> listOfCharacters; // this is the list that contains the character
             Character *newCharacter = new Character();
             newCharacter->createNewCharacter(listOfCharacters);
         } else { //input == 2
             MadeMaps = true;
-            vector<Map*> listOfMaps;
+            
             bool keepMakingMaps = true, firstTime = true;
             int width, height;
             while(keepMakingMaps){
@@ -1254,11 +1255,15 @@ void createNewCampaign(){
         }
 
     }
+    /*
+    vector<std::string> order{"hello"};
+    gameLoopLoadingCampaign(order, listOfMaps, listOfCharacters);
+    */
 }
 
 
 void fillEmptyChestsWithItems(Map * currMap){
-
+/*
     for(int i = 0; i < currMap->height; i++){
         for(int j = 0; j < currMap->width; j++){
             if(currMap->map.at(i).at(j)->state->letter == 'C'){
@@ -1268,5 +1273,5 @@ void fillEmptyChestsWithItems(Map * currMap){
 
         }
     }
-
+*/
 }
