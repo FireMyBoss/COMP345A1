@@ -1268,5 +1268,4 @@ void fillEmptyChestsWithItems(Map * currMap){
 
         }
     }
-
 }
