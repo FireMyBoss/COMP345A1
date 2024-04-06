@@ -34,8 +34,8 @@ public:
 
     void createAMap(); //housing func
 
-    void addHorizontalState(int OriginX, int OriginY, int endX, State & stt);
-    void addVerticalState(int OriginX, int OriginY, int endY, State & stt);
+    void addHorizontalWall(int OriginX, int OriginY, int endX);
+    void addVerticalWall(int OriginX, int OriginY, int endY);
 
     void addState(int x, int y, State & stt);
     
