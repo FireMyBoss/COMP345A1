@@ -184,6 +184,7 @@ void gameLoopExampleForDemo(){
     newMap->attach(mapObserver);
 
     newMap->loadCharactersIntoMap(characterVec);
+    loadEnemiesIntoMap(newMap);
 
     while(play){
 
@@ -238,6 +239,7 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
     Character * currCharacter = ptrVectorOfAllCharacters.at(0);
 
     currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
+    loadEnemiesIntoMap(currMap);
     gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
 
     gameLoggerObserverDowncasted->log("It is " + currCharacter->getName() + " turn.", currCharacter); // gameLogger Update
@@ -273,6 +275,7 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
                 currMap = ptrVectorOfAllMaps.at(currMapIndex);
                 gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
                 currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
+                loadEnemiesIntoMap(currMap);
                 gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
 
         }else{

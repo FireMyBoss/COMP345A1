@@ -546,7 +546,23 @@ void Map::loadCharactersIntoMap(std::vector<Character *> players){
     this->map.at(startY).at(startX)->characterInSpot = players.at(0);
 
 }
-
+void loadEnemiesIntoMap(Map * currMap){
+    for(int i = 0; i < currMap->width; i++){
+        for(int j = 0; j < currMap->height; j++){
+            if(currMap->map.at(j).at(i)->state->letter == '.' && currMap->map.at(j).at(i)->characterInSpot == nullptr){
+                // have random chance of spawning 5%, create enemy npc, set the cell to having npc in it
+                int randNum = rand() % 100;
+                if(randNum < 2){ // create enemy character and populate on map
+                    Character * newEnemy = createEnemyCharacter();
+                    currMap->map.at(j).at(i)->characterInSpot = newEnemy;
+                    newEnemy->x = i;
+                    newEnemy->y = j;
+                }else
+                    continue;
+            }
+        }
+    }
+}
 State * Map::getStateOfCell(int x, int y){
     return this->map.at(y).at(x)->state;
 }
