@@ -265,7 +265,6 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
             gameLogFile << "";
             play = false;
         }else if(selection == 'E'){
-
                 currMapIndex++;
 
                 if(ptrVectorOfAllMaps.size() - 1 < currMapIndex){
