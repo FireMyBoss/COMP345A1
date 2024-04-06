@@ -251,7 +251,7 @@ void MapCreator::printMapWithPathAndIndex(){
         for(int j = 0; j < theMap->width; j++) {
 
             if(theMap->map.at(i).at(j)->isPath && theMap->map.at(i).at(j)->state->letter != 'S' && theMap->map.at(i).at(j)->state->letter != 'E'){
-                returnString += "🟩";
+                returnString += "🟨";
             }else {
                 returnString +=theMap->map.at(i).at(j)->state->colour;
             }
@@ -328,20 +328,38 @@ void MapCreator::createAMap(){
                 isValidInput = true;
             }
         } while (!isValidInput);
+        
         if(input == 1){
             cout << "In the form of \"y,x\", please input a coordinate: ";
             vector<int> coords = MapCreator::getCoordinates();
             State * theType = MapCreator::getInput();
-            MapCreator::addState(coords[1], coords[0], *theType);
+            if(theType->letter == 'X'){ //is a wall
+                cout << "In the form of \"y,x\", please input a coordinate for the end of the wall: ";
+                vector<int> pathCoords = MapCreator::getCoordinates();          
+                if(pathCoords[0] == coords[0] || pathCoords[1] == coords[1]){ //check to see if its on the same plane
+                    if(pathCoords[0] > 0 && pathCoords[0] < theMap->height-1 && pathCoords[1] > 0 && pathCoords[1] < theMap->width-1){ //inside the constrains of the Map
+                        if (pathCoords[0] == coords[0]){ //going horizontal
+                            MapCreator::addHorizontalWall(coords[1], coords[0], pathCoords[1]);
+                        } else { // pathCoords[1] == curX , going vertical
+                            MapCreator::addVerticalWall(coords[1], coords[0], pathCoords[0]);
+                        }
+                    } else {
+                        cout << "One or both coordinates may be outside of the length or width of the map, or touching the outer walls.\n";
+                    }
+                } else {
+                    cout << "One or both coordinates may be outside of the length or width of the map, or touching the outer walls.\n";
+                }
+            }else {MapCreator::addState(coords[1], coords[0], *theType);}
         } else if (input == 2){
             break;
         } else { //input == 3
            theMap ->fillMapWithRooms();
            roomsCreated = true;
-        }   
-    }
+        }
+           
+    
 }
-
+}
 State* MapCreator::getInput(){
     char input;
     bool isValid = false;
@@ -372,7 +390,22 @@ State* MapCreator::getInput(){
     }
 }
 
-void MapCreator::addState(int x, int y, State & stt){
-    theMap->map[y][x]->state = &stt;
 
+void MapCreator::addState(int x, int y, State & stt){
+    if(!theMap->map[y][x]->isPath)theMap->map[y][x]->state = &stt;  //if it's not a path
+}
+
+void MapCreator::addHorizontalWall(int OriginX, int OriginY, int endX){
+    int higher = OriginX > endX ? OriginX : endX;
+    int lower = OriginX > endX ? endX : OriginX;
+    for (int i = lower; i <= higher; i++){
+        if(!theMap->map[OriginY][i]->isPath) theMap->map[OriginY][i]->state = new Wall; //if it's not a path
+    }
+}
+void MapCreator::addVerticalWall(int OriginX, int OriginY, int endY){
+    int higher = OriginY > endY ? OriginY : endY;
+    int lower = OriginY > endY ? endY : OriginY;
+    for (int i = lower; i <= higher; i++){
+        if(!theMap->map[i][OriginX]->isPath) theMap->map[i][OriginX]->state = new Wall; //if it's not a path
+    }
 }
