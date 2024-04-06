@@ -121,6 +121,9 @@ protected:
 
     void abstractPure() override {};
 
+    // Inventory
+    std::vector<Item *> characterInventory;
+
     // Characteristics
     std::string characterClass;
     std::string name;
