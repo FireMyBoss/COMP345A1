@@ -15,10 +15,13 @@ std::string MapObserver::to_string(){ // this should be the map observer class
     for(int i = 0; i < this->map->height; i++){
         for(int j = 0; j < this->map->width; j++) {
 
-            if(this->map->map.at(i).at(j)->characterInSpot!=nullptr){
-                returnString += 'P';
+            if(this->map->map.at(i).at(j)->characterInSpot!=nullptr && !this->map->map.at(i).at(j)->characterInSpot->isEnemy){
+                returnString += "😃";
+            }else if(this->map->map.at(i).at(j)->characterInSpot!=nullptr){
+                returnString += "😡";
             }else {
-                returnString += this->map->map.at(i).at(j)->state->letter;
+                    returnString += this->map->map.at(i).at(j)->state->colour;
+
             }
         }
         returnString += "\n";

@@ -38,7 +38,9 @@ class Dice : public Observable {
 		int diceMenu();
 		
 	private:
-		
+
+        void abstractPure() override {};
+
 		int numOfDice;
 		int numOfSidesDie;
 		int modifyValue;

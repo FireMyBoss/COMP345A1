@@ -15,10 +15,10 @@ private:
     int space;
     vector<Item> contents;
 public:
-    TreasureChest(int spc, vector<Item> & preExistingContent) : space(spc), contents(preExistingContent){this->letter = 'C'; this->colour = "orange";};
-    explicit TreasureChest(vector<Item> & preExistingContent) : contents(preExistingContent){this->letter = 'C'; this->colour = "orange";};
-    explicit TreasureChest(int spc) : space(spc){this->letter = 'C'; this->colour = "orange";};
-    TreasureChest(){time_t t; srand((unsigned) time(&t)); this->space = rand() % 11 + 1; this->letter = 'C'; this->colour = "orange";}
+    TreasureChest(int spc, vector<Item> & preExistingContent) : space(spc), contents(preExistingContent){this->letter = 'C'; this->colour = "🎁";};
+    explicit TreasureChest(vector<Item> & preExistingContent) : contents(preExistingContent){this->letter = 'C'; this->colour = "🎁";};
+    explicit TreasureChest(int spc) : space(spc){this->letter = 'C'; this->colour = "🎁";};
+    TreasureChest(){time_t t; srand((unsigned) time(&t)); this->space = rand() % 11 + 1; this->letter = 'C'; this->colour = "🎁";}
 
     int getSpace() const {return space;};
     void setSpace(int value){space = value;};

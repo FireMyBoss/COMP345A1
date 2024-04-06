@@ -26,6 +26,7 @@
 */
 class Character : public Observable {
 public:
+
     // Player coordinates
     int x;
     int y;
@@ -118,6 +119,11 @@ public:
 
 protected:
 
+    void abstractPure() override {};
+
+    // Inventory
+    std::vector<Item *> characterInventory;
+
     // Characteristics
     std::string characterClass;
     std::string name;
@@ -155,5 +161,6 @@ protected:
 
 };
 Character * buildCharacterFromSaveFile(std::vector<std::string> characterInformation);
+Character * createEnemyCharacter();
 
 #endif //COMP_345_ASSIGNMENT_ONE_CHARACTER_H

@@ -11,6 +11,7 @@ class Item : public Observable{
 private:
     bool equipped;
 protected:
+    void abstractPure() override {};
    int enchantmentBonus; //bonus amount, 1-5
    string enchantmentType;  //bonus type (name)
    string name;

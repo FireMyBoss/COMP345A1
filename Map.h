@@ -24,6 +24,8 @@
 
 class Map : public Observable {
 public:
+    void abstractPure() override {};
+
     int height;
     int width;
     int startX;
@@ -57,5 +59,6 @@ public:
 };
 
 std::vector<std::vector<std::string> > mapToVectorForCSV(Map * theMap);
+void loadEnemiesIntoMap(Map * currMap);
 
 #endif //SOURCE_FILES_TRIAL_3_MAP_H

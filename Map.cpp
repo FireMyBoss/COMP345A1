@@ -65,7 +65,7 @@ Map::Map(int height, int width){
     Map::createStart();
     Map::placePerimeterWalls();
     Map::snakeEndPath();
-    Map::fillMapWithWalls();
+    // Map::fillMapWithWalls();
     Map::fillMapWithRooms();
 }
 
@@ -508,17 +508,23 @@ bool Map::foundCellForRoomAndAdded(Rooms * room){
     return true;
 }
 bool Map::createTreasureChest(){    // 1% chance this cell gets a treasure chest
-    srand((unsigned) time(NULL));
-    return (rand() % 100 == 69) ? true : false; //nice
+    int larger = this->height > this->width ? this->height*10 : this->width*10;
+    return (rand() % larger == 0) ? true : false; 
 }
 void Map::fillMapWithChests(){ //checks if cell is path or not epmpty. if so, calls createTreasureChest
+    int numOfChests = 0;
+    int smaller = this->height < this->width ? this->height : this->width;
+    srand((unsigned) time(NULL));
     for(int i = 0; i < height; i++){
         for(int j = 0; j < width; j++) {
-            if (!map[i][j]->isPath && typeid(map[i][j]->state) == typeid(EmptySpot)){
+            if ((!map[i][j]->isPath) && map[i][j]->state->letter == '.'){
                 if(createTreasureChest()){
                     map[i][j]->state = new TreasureChest(5); //space in treasure chest can be added later, and contents can be added later aswell
+                    numOfChests++;
+                    break;
                 }
             }
+            if(numOfChests > smaller) return;
         }
     }
 }
@@ -546,7 +552,23 @@ void Map::loadCharactersIntoMap(std::vector<Character *> players){
     this->map.at(startY).at(startX)->characterInSpot = players.at(0);
 
 }
-
+void loadEnemiesIntoMap(Map * currMap){
+    for(int i = 0; i < currMap->width; i++){
+        for(int j = 0; j < currMap->height; j++){
+            if(currMap->map.at(j).at(i)->state->letter == '.' && currMap->map.at(j).at(i)->characterInSpot == nullptr){
+                // have random chance of spawning 5%, create enemy npc, set the cell to having npc in it
+                int randNum = rand() % 100;
+                if(randNum < 5){ // create enemy character and populate on map
+                    Character * newEnemy = createEnemyCharacter();
+                    currMap->map.at(j).at(i)->characterInSpot = newEnemy;
+                    newEnemy->x = i;
+                    newEnemy->y = j;
+                }else
+                    continue;
+            }
+        }
+    }
+}
 State * Map::getStateOfCell(int x, int y){
     return this->map.at(y).at(x)->state;
 }
