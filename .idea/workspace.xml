@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ee3FgIcjwgbtvz8nXHlaBdThrq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Campaigns/Campaign1/Maps" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="" />
+      <created>1712251115585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712251115585</updated>
+      <workItem from="1712251119062" duration="2055000" />
+      <workItem from="1712355895308" duration="22424000" />
+      <workItem from="1712423118712" duration="484000" />
+      <workItem from="1712423639025" duration="10000" />
+    </task>
+    <task id="LOCAL-00001" summary="Testing git">
+      <created>1712251162557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712251162557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stopped walls from populating map">
+      <created>1712358673213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712358673213</updated>
+    </task>
+    <task id="LOCAL-00003" summary="empty spots within MapObserver are green. Path spots should be gold or yellow.">
+      <created>1712359632958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712359632958</updated>
+    </task>
+    <task id="LOCAL-00004" summary="empty spots within MapObserver are green. Path spots should be gold or yellow.">
+      <created>1712359651139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712359651139</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Made Observable class pure virtual">
+      <created>1712360965982</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712360965982</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed compile error">
+      <created>1712361257048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712361257048</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Stuff">
+      <created>1712362728309</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712362728309</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added enemies. When colliding with enemy the ptr is lost so -- Must fix --">
+      <created>1712367106818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712367106818</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added a better map to Campaign1">
+      <created>1712405675673</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712405675673</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Increases enemy spawn rate">
+      <created>1712413824829</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712413824829</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added end of game notification">
+      <created>1712414327072</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712414327073</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Treasure chest population function added; missing functionality still.">
+      <created>1712420947963</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712420947963</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Treasure chest population function added; missing functionality still.">
+      <created>1712421430886</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712421430887</updated>
+    </task>
+    <task id="LOCAL-00014" summary="n">
+      <created>1712421818918</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712421818918</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1712422450758</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712422450758</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1712423250858</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712423250859</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing git" />
+    <MESSAGE value="stopped walls from populating map" />
+    <MESSAGE value="empty spots within MapObserver are green. Path spots should be gold or yellow." />
+    <MESSAGE value="Made Observable class pure virtual" />
+    <MESSAGE value="Fixed compile error" />
+    <MESSAGE value="Stuff" />
+    <MESSAGE value="Added enemies. When colliding with enemy the ptr is lost so -- Must fix --" />
+    <MESSAGE value="Added a better map to Campaign1" />
+    <MESSAGE value="Increases enemy spawn rate" />
+    <MESSAGE value="Added end of game notification" />
+    <MESSAGE value="Treasure chest population function added; missing functionality still." />
+    <MESSAGE value="n" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
