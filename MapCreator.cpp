@@ -381,7 +381,7 @@ State* MapCreator::getInput(){
     switch (input) {
         case 'D':
             return new Door();
-        case 'T':
+        case 'C':
             return new TreasureChest();
         case 'W':
             return new Wall();
