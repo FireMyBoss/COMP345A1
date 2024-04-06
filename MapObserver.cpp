@@ -18,7 +18,7 @@ std::string MapObserver::to_string(){ // this should be the map observer class
             if(this->map->map.at(i).at(j)->characterInSpot!=nullptr && !this->map->map.at(i).at(j)->characterInSpot->isEnemy){
                 returnString += "😃";
             }else if(this->map->map.at(i).at(j)->characterInSpot!=nullptr){
-                returnString += "X";
+                returnString += "😡";
             }else {
                     returnString += this->map->map.at(i).at(j)->state->colour;
 
