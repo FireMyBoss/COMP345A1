@@ -1256,10 +1256,8 @@ void createNewCampaign(){
     }
 }
 
-void fillEmptyChestsWithItems(Map * currMap){
 
-}
-/*void fillEmptyChestsWithItems(Map * currMap){
+void fillEmptyChestsWithItems(Map * currMap){
 
     for(int i = 0; i < currMap->height; i++){
         for(int j = 0; j < currMap->width; j++){
@@ -1271,4 +1269,4 @@ void fillEmptyChestsWithItems(Map * currMap){
         }
     }
 
-}*/
+}
