@@ -303,7 +303,7 @@ void MapCreator::addVerticalPath(int OriginX, int OriginY, int endY){
 
 void MapCreator::createAMap(){
     cout << "\nWelcome to the Map editing screen.\n\n";
-    bool roomsCreated = false;
+    bool roomsCreated = false, chestCreated = false;
     while (true){
         MapCreator::printMapWithPathAndIndex();
         int input;
@@ -313,17 +313,22 @@ void MapCreator::createAMap(){
             if(!roomsCreated){
                 cout << "3. Randomly generate rooms around the map\n";
             }
+            if(!chestCreated){
+                cout << "4. Randomly generate Treasure Chests around the map\n";
+            }
             cout << "\nPlease input one of the numbers above: ";
             
             std::cin >> input;
 
             // Check if the input is valid
-            if (std::cin.fail() || (input != 1 && input != 2 && input != 3)) {
+            if (std::cin.fail() || (input != 1 && input != 2 && input != 3 && input != 4)) {
                 std::cin.clear(); 
                 std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); 
-                std::cout << "Invalid input. Please enter 1, 2, or 3." << std::endl;
+                std::cout << "Invalid input. Please enter 1, 2, 3, or 4." << std::endl;
             } else if (input == 3 && roomsCreated) {
                 std::cout << "You've already selected '3'. Please choose another number." << std::endl;
+            } else if (input == 4 && chestCreated) {
+                std::cout << "You've already selected '4'. Please choose another number." << std::endl;
             } else {
                 isValidInput = true;
             }
@@ -352,13 +357,14 @@ void MapCreator::createAMap(){
             }else {MapCreator::addState(coords[1], coords[0], *theType);}
         } else if (input == 2){
             break;
-        } else { //input == 3
+        } else if (input == 3){ 
            theMap ->fillMapWithRooms();
            roomsCreated = true;
+        } else {    //input == 4
+            theMap->fillMapWithChests();
+            chestCreated = true;
         }
-           
-    
-}
+    }
 }
 State* MapCreator::getInput(){
     char input;
