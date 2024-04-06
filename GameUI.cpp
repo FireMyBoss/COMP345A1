@@ -236,6 +236,8 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
 
     Map * currMap = ptrVectorOfAllMaps.at(0);
     gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
+    fillEmptyChestsWithItems(currMap);
+    gameLoggerObserverDowncasted->log("Populating chests with items.", currMap); // gameLoggerUpdate
     Character * currCharacter = ptrVectorOfAllCharacters.at(0);
 
     currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
@@ -280,6 +282,8 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
                 }
                 currMap = ptrVectorOfAllMaps.at(currMapIndex);
                 gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
+                fillEmptyChestsWithItems(currMap);
+                gameLoggerObserverDowncasted->log("Populating chests with items.", currMap); // gameLogger Update
                 currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
                 loadEnemiesIntoMap(currMap);
                 gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
@@ -856,7 +860,7 @@ void pauseMenuUnsubscribe(GameLoggerObserver * gameLoggerObserver){
         }
     }
 }
-bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver){
+bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver, Character * player){
 
     clearConsole();
 
@@ -866,6 +870,7 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver){
     std::cout << "Enter '1' to unpause" << std::endl;
     std::cout << "Enter '2' to exit game" << std::endl;
     std::cout << "Enter '3' to change log information" << std::endl;
+    std::cout << "Enter '4' to see inventory" << std::endl;
 
     char playerInputChar;
 
@@ -877,7 +882,7 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver){
                 std::cin.ignore();
                 throw std::runtime_error("Invalid input. Please enter a character.");
                 continue;
-            }else if(playerInputChar != '1' && playerInputChar != '2' && playerInputChar != '3'){
+            }else if(playerInputChar != '1' && playerInputChar != '2' && playerInputChar != '3' && playerInputChar != '4'){
                 std::cin.clear();
                 std::cin.ignore();
                 continue;
@@ -893,11 +898,14 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver){
             return false;
         }
         case '2':{
-
             return true;
         }
         case '3':{
             pauseMenuUnsubscribe(gameLoggerObserver);
+            return false;
+        }
+        case '4':{
+            // showInventory(); TODO: must implement this ----------------------
             return false;
         }
         default:{
@@ -1003,7 +1011,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
         case 'p':{
             stateToCheck = nullptr;
             bool exitGame;
-            exitGame = pauseMenuUIandExitGame(gameLoggerObserverCasted);
+            exitGame = pauseMenuUIandExitGame(gameLoggerObserverCasted, player);
             if(exitGame){
                 return 'S';
             }else{
@@ -1247,3 +1255,20 @@ void createNewCampaign(){
 
     }
 }
+
+void fillEmptyChestsWithItems(Map * currMap){
+
+}
+/*void fillEmptyChestsWithItems(Map * currMap){
+
+    for(int i = 0; i < currMap->height; i++){
+        for(int j = 0; j < currMap->width; j++){
+            if(currMap->map.at(i).at(j)->state->letter == 'C'){
+                TreasureChest * currChest = dynamic_cast<TreasureChest *>(currMap->map.at(i).at(j)->state);
+
+            }
+
+        }
+    }
+
+}*/
