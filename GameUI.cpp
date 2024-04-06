@@ -269,7 +269,14 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
 
                 if(ptrVectorOfAllMaps.size() - 1 < currMapIndex){
                     currMapIndex--;
-                    continue;
+                    clearConsole();
+                    std::cout << "Congratulations! You have made it to the end of the campaign." << std::endl;
+                    pause(5000);
+                    clearConsole();
+                    std::cout << "...Exiting to main menu..." << std::endl;
+                    pause(1000);
+                    clearConsole();
+                    play = false;
                 }
                 currMap = ptrVectorOfAllMaps.at(currMapIndex);
                 gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
