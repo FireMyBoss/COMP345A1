@@ -81,9 +81,10 @@ std::vector<std::vector<std::string> > getMapInformationInMapDirectory(fs::path 
 std::vector<std::vector<std::string> > getCharacterInformationInCharacterDirectory(fs::path & characterDirectoryPath);
 std::string normalizeCSVOutput(std::string CSVInput);
 Map* generateInitialMapInfo();
-bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver);
+bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver, Character * player);
 char getUserInput(Character * player, Map * currMap, Observer * gameloggerObserver);
 void save();
 void createNewCampaign();
+void fillEmptyChestsWithItems(Map * currMap);
 
 #endif //COMP345A1_MAIN_GAMEUI_H
