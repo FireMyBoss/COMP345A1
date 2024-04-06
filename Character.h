@@ -161,5 +161,6 @@ protected:
 
 };
 Character * buildCharacterFromSaveFile(std::vector<std::string> characterInformation);
+Character * createEnemyCharacter();
 
 #endif //COMP_345_ASSIGNMENT_ONE_CHARACTER_H
