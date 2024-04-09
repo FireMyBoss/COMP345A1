@@ -18,12 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GameLog.txt" afterDir="false" />
+    <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="Commit for me">
       <change beforePath="$PROJECT_DIR$/GameUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameUI.h" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output" beforeDir="false" afterPath="$PROJECT_DIR$/output" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +81,7 @@
       <workItem from="1712423118712" duration="484000" />
       <workItem from="1712423639025" duration="10000" />
       <workItem from="1712446686055" duration="1474000" />
-      <workItem from="1712672115532" duration="15641000" />
+      <workItem from="1712672115532" duration="16109000" />
     </task>
     <task id="LOCAL-00001" summary="Testing git">
       <created>1712251162557</created>
@@ -213,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712681211673</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit for me">
+      <created>1712695582423</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712695582424</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +259,7 @@
     <MESSAGE value="Treasure chest population function added; missing functionality still." />
     <MESSAGE value="n" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Commit for me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit for me" />
   </component>
 </project>
