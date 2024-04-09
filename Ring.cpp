@@ -11,6 +11,5 @@ Ring::Ring(){
 }
 
 void Ring::getRandomEnchantment(){
-    srand((unsigned) time(NULL));
     setEnchantment(listOfEnchantments[rand() % 5]);
 }
