@@ -121,7 +121,7 @@ void Backpack::printItem(){
 				std::cout << "\nBoots's enchantment: " << itm->getEnchantment();
 				std::cout << "\nBoots's bonus: " << itm->getBonus();
 			
-			break;
+				break;
 			case 4: //Helmet
 			
 				std::cout << "\n\nCreating Helmet: ";
@@ -129,7 +129,7 @@ void Backpack::printItem(){
 				std::cout << "\nHelmet's enchantment: " << itm->getEnchantment();
 				std::cout << "\nHelmet's bonus: " << itm->getBonus();
 			
-			break;
+				break;
 			case 5: //Ring
 			
 				std::cout << "\n\nCreating Ring: ";
@@ -137,15 +137,15 @@ void Backpack::printItem(){
 				std::cout << "\nRing's enchantment: " << itm->getEnchantment();
 				std::cout << "\nRing's bonus: " << itm->getBonus();
 			
-			break;
-      case 6: //Shield
+				break;
+        	case 6: //Shield
 				
 				std::cout << "\n\nCreating Shield: ";
 				itm = new Shield();
 				std::cout << "\nShield's enchantment: " << itm->getEnchantment();
 				std::cout << "\nShield's bonus: " << itm->getBonus();
 			
-			break;
+				break;
 			case 7: //Weapon
 				
 				std::cout << "\n\nCreating Weapon: ";
@@ -153,7 +153,7 @@ void Backpack::printItem(){
 				std::cout << "\nWeapon's enchantment: " << itm->getEnchantment();
 				std::cout << "\nWeapon's bonus: " << itm->getBonus();
 			
-			break;
+				break;
 			default: //Invalid option
 				
 				std::cout <<"\nError on input, please try again:";

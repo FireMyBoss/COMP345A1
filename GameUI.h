@@ -89,4 +89,7 @@ void fillEmptyChestsWithItems(Map * currMap);
 void showInventory(Character * playerToGetItems, Character * monsterInventory, TreasureChest * chest);
 bool itemIsEquipped(std::vector<Item *> equippedItemVector, Item * item);
 
+void setNonCanonicalMode();
+void restoreTerminal();
+
 #endif //COMP345A1_MAIN_GAMEUI_H
