@@ -117,12 +117,12 @@ public:
     void displayCreatedCharacterList(std::vector<Character*> & createdCharacterArray);
     void createCharacterInterface();
 
+    // Inventory
+    std::vector<Item *> characterInventory;
+
 protected:
 
     void abstractPure() override {};
-
-    // Inventory
-    std::vector<Item *> characterInventory;
 
     // Characteristics
     std::string characterClass;
