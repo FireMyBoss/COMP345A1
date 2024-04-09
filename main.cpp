@@ -11,8 +11,11 @@
 int main() {
 	displayStartingMenu();
 	
-	
-	/*
+	//Check that enemy contains an item
+	//createEnemyCharacter();
+
+
+	/* check if TreasureChest generates items
 	TreasureChest tc;
 	std::vector <Item*> cont = tc.getContents();
 	for(Item* i : cont){
