@@ -31,4 +31,6 @@ public:
 
 };
 
+Item* getRandItem();
+
 #endif

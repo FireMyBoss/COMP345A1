@@ -1007,7 +1007,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
     std::cout << "" << std::endl;
     char playerInputChar;
     //SHAI LOOK
-    //
+    
     for (;;){
         try {
             
@@ -1186,7 +1186,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
                 std::cout << "" << std::endl;
                 TreasureChest * newChest;
                 newChest = (TreasureChest *)currMap->map.at(movementY).at(movementX)->state;
-                std::vector<Item> itemVector;
+                std::vector<Item*> itemVector;
                 itemVector = newChest->getContents();
                 // TODO: this will handle if the player wants to obtain the items within the chest
                 if(itemVector.empty()){
