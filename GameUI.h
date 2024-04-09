@@ -86,5 +86,6 @@ char getUserInput(Character * player, Map * currMap, Observer * gameloggerObserv
 void save();
 void createNewCampaign();
 void fillEmptyChestsWithItems(Map * currMap);
+void showInventory(Character * playerToGetItems, Character * monsterInventory, TreasureChest * chest);
 
 #endif //COMP345A1_MAIN_GAMEUI_H

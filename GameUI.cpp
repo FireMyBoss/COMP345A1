@@ -906,7 +906,7 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver, Character *
             return false;
         }
         case '4':{
-            // showInventory(); TODO: must implement this ----------------------
+            showInventory(player, player, nullptr);
             return false;
         }
         default:{
@@ -915,6 +915,90 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver, Character *
     }
     return false;
 }
+
+void showInventory(Character * playerToGetInventory, Character * monsterInventory, TreasureChest * chest){
+
+    bool keepLooping = true;
+
+    while(keepLooping) {
+        clearConsole();
+        // For player's Inventory
+        std::string stringForCharacterInventory = playerToGetInventory->getName() + "'s Current Inventory";
+        std::cout << stringForCharacterInventory << std::endl;
+        for(char i : stringForCharacterInventory){
+            std::cout << "-";
+        }
+        std::cout << "" << std::endl;
+        std::cout << "Backpack Contents:" << std::endl;
+        for(int i = 0; i < playerToGetInventory->characterInventory.size(); i++){
+            std::cout << playerToGetInventory->characterInventory.at(i)->itmName << std::endl;
+         }
+        std::cout << "" << std::endl;
+        std::cout << "Equipped Items:" << std::endl;
+        std::cout << "Helmet: ";
+        if(playerToGetInventory->getHelmet()==nullptr){
+            std::cout << "Empty" << std::endl;
+        }else{
+            std::cout << playerToGetInventory->getHelmet()->itmName << std::endl;
+        }
+        std::cout << "Boots: ";
+        if(playerToGetInventory->getBoots()==nullptr){
+            std::cout << "Empty" << std::endl;
+        }else{
+            std::cout << playerToGetInventory->getBoots()->itmName << std::endl;
+        }
+        std::cout << "Armor: ";
+        if(playerToGetInventory->getArmor()==nullptr){
+            std::cout << "Empty" << std::endl;
+        }else{
+            std::cout << playerToGetInventory->getArmor()->itmName << std::endl;
+        }
+        std::cout << "Shield: ";
+        if(playerToGetInventory->getShield()==nullptr){
+            std::cout << "Empty" << std::endl;
+        }else{
+            std::cout << playerToGetInventory->getShield()->itmName << std::endl;
+        }
+        std::cout << "Weapon: ";
+        if(playerToGetInventory->getWeapon()==nullptr){
+            std::cout << "Empty" << std::endl;
+        }else{
+            std::cout << playerToGetInventory->getWeapon()->itmName << std::endl;
+        }
+        std::cout << "Ring: ";
+        if(playerToGetInventory->getRing()==nullptr){
+            std::cout << "Empty" << std::endl;
+        }else{
+            std::cout << playerToGetInventory->getRing()->itmName << std::endl;
+        }
+        std::cout << "Belt: ";
+        if(playerToGetInventory->getBelt()==nullptr){
+            std::cout << "Empty" << std::endl;
+        }else{
+            std::cout << playerToGetInventory->getBelt()->itmName << std::endl;
+        }
+        std::cout << "" << std::endl;
+        std::cout << "Backpack Contents:" << std::endl;
+        if(playerToGetInventory->characterInventory.size()==0){
+            std::cout << "Empty" << std::endl;
+        }
+        for (int i = 0; i < playerToGetInventory->characterInventory.size(); i++) {
+            std::cout << playerToGetInventory->characterInventory.at(i)->itmName << std::endl;
+        }
+        std::cout << "" << std::endl;
+        pause(5000);
+        return;
+
+        if (monsterInventory==nullptr && chest==nullptr) { // if we are in player inventory through pause menu
+
+        } else if (chest == nullptr) { // we are handling monster inventory
+
+        } else { // we are handling a player entering a treasure chest
+
+        }
+    }
+}
+
 char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserver){ // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
 
     GameLoggerObserver * gameLoggerObserverCasted = (GameLoggerObserver *)gameLoggerObserver;
