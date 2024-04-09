@@ -4,7 +4,8 @@
 
 #include "GameUI.h"
 #include "MapCreator.h"
-#
+#include <termios.h>
+#include <unistd.h>
 #include "Dice.h"
 
 #ifdef __APPLE__
@@ -921,10 +922,23 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
     std::cout << "Please enter a direction to move ('w', 'a', 's', 'd') or pause ('p'):";
     std::cout << "" << std::endl;
     char playerInputChar;
-
+//SHAI LOOK
+//
     for (;;){
         try {
-            std::cin >> playerInputChar;
+            struct termios oldt, newt;
+    
+            std::cout << "Press a key: ";
+    
+            tcgetattr(STDIN_FILENO, &oldt); // Save current terminal attributes
+            newt = oldt;
+            newt.c_lflag &= ~(ICANON | ECHO); // Turn off canonical mode and echoing
+            tcsetattr(STDIN_FILENO, TCSANOW, &newt); // Apply new attributes
+    
+            playerInputChar = getchar(); // Read a single character
+
+            tcsetattr(STDIN_FILENO, TCSANOW, &oldt); // Restore old terminal attributes
+    
             if(cin.fail()) {
                 std::cin.clear();
                 std::cin.ignore();
