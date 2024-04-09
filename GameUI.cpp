@@ -927,9 +927,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
     for (;;){
         try {
             struct termios oldt, newt;
-    
-            std::cout << "Press a key: ";
-    
+
             tcgetattr(STDIN_FILENO, &oldt); // Save current terminal attributes
             newt = oldt;
             newt.c_lflag &= ~(ICANON | ECHO); // Turn off canonical mode and echoing
