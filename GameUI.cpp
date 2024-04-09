@@ -906,7 +906,7 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver, Character *
             return false;
         }
         case '4':{
-            showInventory(player, player, nullptr);
+            showInventory(player, nullptr, nullptr);
             return false;
         }
         default:{
@@ -918,78 +918,103 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver, Character *
 
 void showInventory(Character * playerToGetInventory, Character * monsterInventory, TreasureChest * chest){
 
+    // remove this once done with testing
+    Item * newShield = new Shield();
+    playerToGetInventory->characterInventory.push_back(newShield);
+    Item * newHelmet = new Helmet();
+    playerToGetInventory->setHelmet((Helmet *)newHelmet);
+
     bool keepLooping = true;
+        // Creating vectors for showing player equip and backpack
+        std::vector < Item * > equippedVector;
+
+        try {
+            equippedVector.push_back((Item *) playerToGetInventory->getHelmet());
+        }catch(...){}
+        try {
+            equippedVector.push_back((Item *) playerToGetInventory->getBoots());
+        }catch(...){}
+        try{
+            equippedVector.push_back((Item *) playerToGetInventory->getArmor());
+        }catch(...){}
+        try{
+            equippedVector.push_back((Item *) playerToGetInventory->getShield());
+        }catch(...){}
+        try{
+            equippedVector.push_back((Item *) playerToGetInventory->getWeapon());
+        }catch(...){}
+        equippedVector.push_back((Item *) playerToGetInventory->getBelt());
+        try{
+            equippedVector.push_back((Item *) playerToGetInventory->getRing());
+        }catch(...){}
+
+        std::vector < Item * > playerBackpackAndEquipped(playerToGetInventory->characterInventory.begin(),
+                                                         playerToGetInventory->characterInventory.end());
+
+        for (auto i: equippedVector)
+            playerBackpackAndEquipped.push_back(i);
 
     while(keepLooping) {
+
         clearConsole();
-        // For player's Inventory
-        std::string stringForCharacterInventory = playerToGetInventory->getName() + "'s Current Inventory";
-        std::cout << stringForCharacterInventory << std::endl;
-        for(char i : stringForCharacterInventory){
-            std::cout << "-";
-        }
-        std::cout << "" << std::endl;
-        std::cout << "Backpack Contents:" << std::endl;
-        for(int i = 0; i < playerToGetInventory->characterInventory.size(); i++){
-            std::cout << playerToGetInventory->characterInventory.at(i)->itmName << std::endl;
-         }
-        std::cout << "" << std::endl;
-        std::cout << "Equipped Items:" << std::endl;
-        std::cout << "Helmet: ";
-        if(playerToGetInventory->getHelmet()==nullptr){
-            std::cout << "Empty" << std::endl;
-        }else{
-            std::cout << playerToGetInventory->getHelmet()->itmName << std::endl;
-        }
-        std::cout << "Boots: ";
-        if(playerToGetInventory->getBoots()==nullptr){
-            std::cout << "Empty" << std::endl;
-        }else{
-            std::cout << playerToGetInventory->getBoots()->itmName << std::endl;
-        }
-        std::cout << "Armor: ";
-        if(playerToGetInventory->getArmor()==nullptr){
-            std::cout << "Empty" << std::endl;
-        }else{
-            std::cout << playerToGetInventory->getArmor()->itmName << std::endl;
-        }
-        std::cout << "Shield: ";
-        if(playerToGetInventory->getShield()==nullptr){
-            std::cout << "Empty" << std::endl;
-        }else{
-            std::cout << playerToGetInventory->getShield()->itmName << std::endl;
-        }
-        std::cout << "Weapon: ";
-        if(playerToGetInventory->getWeapon()==nullptr){
-            std::cout << "Empty" << std::endl;
-        }else{
-            std::cout << playerToGetInventory->getWeapon()->itmName << std::endl;
-        }
-        std::cout << "Ring: ";
-        if(playerToGetInventory->getRing()==nullptr){
-            std::cout << "Empty" << std::endl;
-        }else{
-            std::cout << playerToGetInventory->getRing()->itmName << std::endl;
-        }
-        std::cout << "Belt: ";
-        if(playerToGetInventory->getBelt()==nullptr){
-            std::cout << "Empty" << std::endl;
-        }else{
-            std::cout << playerToGetInventory->getBelt()->itmName << std::endl;
-        }
-        std::cout << "" << std::endl;
-        std::cout << "Backpack Contents:" << std::endl;
-        if(playerToGetInventory->characterInventory.size()==0){
-            std::cout << "Empty" << std::endl;
-        }
-        for (int i = 0; i < playerToGetInventory->characterInventory.size(); i++) {
-            std::cout << playerToGetInventory->characterInventory.at(i)->itmName << std::endl;
-        }
-        std::cout << "" << std::endl;
-        pause(5000);
-        return;
 
         if (monsterInventory==nullptr && chest==nullptr) { // if we are in player inventory through pause menu
+
+            // Display of character title
+            std::string stringForCharacterInventory = playerToGetInventory->getName() + "'s Current Inventory";
+            std::cout << stringForCharacterInventory << std::endl;
+            for(char i : stringForCharacterInventory){
+                std::cout << "-";
+            }
+            std::cout << "" << std::endl;
+            // Display of player contents and handling input
+            int itemIndex = 0;
+            for(auto i : playerBackpackAndEquipped){
+                if(itemIsEquipped(equippedVector, i)){
+                    std::cout << "Press '" + to_string(itemIndex) + "' " + i->itmName + " *equipped" << std::endl;
+                }else if(i!=nullptr){
+                    std::cout << "Press '" + to_string(itemIndex) + "' " + i->itmName << std::endl;
+                }
+                itemIndex++;
+            }
+            std::cout << "Press 'e' to go back" << std::endl;
+            // Get user selection for up and down
+            char playerInputChar;
+            for (;;){
+                try {
+                    struct termios oldt, newt;
+
+                    std::cout << "Press a key: ";
+
+                    tcgetattr(STDIN_FILENO, &oldt); // Save current terminal attributes
+                    newt = oldt;
+                    newt.c_lflag &= ~(ICANON | ECHO); // Turn off canonical mode and echoing
+                    tcsetattr(STDIN_FILENO, TCSANOW, &newt); // Apply new attributes
+
+                    playerInputChar = getchar(); // Read a single character
+
+                    tcsetattr(STDIN_FILENO, TCSANOW, &oldt); // Restore old terminal attributes
+
+                    if(cin.fail()) {
+                        std::cin.clear();
+                        std::cin.ignore();
+                        throw std::runtime_error("Invalid input. Please enter a character.");
+                        continue;
+                    }
+                    break;
+                    // check for only acceptable characters
+                } catch (...) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                }
+            }
+            if(playerInputChar == 'e'){
+                return;
+            }else{
+                try{
+
+                }
+            }
 
         } else if (chest == nullptr) { // we are handling monster inventory
 
@@ -997,6 +1022,13 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
 
         }
     }
+}
+bool itemIsEquipped(std::vector<Item *> equippedItemVector, Item * item){
+    for(auto i : equippedItemVector){
+        if(i == item && i!=nullptr)
+            return true;
+    }
+    return false;
 }
 
 char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserver){ // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue

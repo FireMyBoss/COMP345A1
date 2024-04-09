@@ -19,10 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/COMP345Directory.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Character.h" beforeDir="false" afterPath="$PROJECT_DIR$/Character.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GameLog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameUI.h" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.h" afterDir="false" />
@@ -88,7 +85,7 @@
       <workItem from="1712423118712" duration="484000" />
       <workItem from="1712423639025" duration="10000" />
       <workItem from="1712446686055" duration="1474000" />
-      <workItem from="1712672115532" duration="4764000" />
+      <workItem from="1712672115532" duration="15641000" />
     </task>
     <task id="LOCAL-00001" summary="Testing git">
       <created>1712251162557</created>
@@ -209,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712446963628</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update">
+      <created>1712681211673</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712681211673</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -87,5 +87,6 @@ void save();
 void createNewCampaign();
 void fillEmptyChestsWithItems(Map * currMap);
 void showInventory(Character * playerToGetItems, Character * monsterInventory, TreasureChest * chest);
+bool itemIsEquipped(std::vector<Item *> equippedItemVector, Item * item);
 
 #endif //COMP345A1_MAIN_GAMEUI_H
