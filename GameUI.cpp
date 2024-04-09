@@ -1277,15 +1277,14 @@ void createNewCampaign(){
 
 
 void fillEmptyChestsWithItems(Map * currMap){
-/*
+
     for(int i = 0; i < currMap->height; i++){
         for(int j = 0; j < currMap->width; j++){
             if(currMap->map.at(i).at(j)->state->letter == 'C'){
-                TreasureChest * currChest = dynamic_cast<TreasureChest *>(currMap->map.at(i).at(j)->state);
 
             }
 
         }
     }
-*/
+
 }
