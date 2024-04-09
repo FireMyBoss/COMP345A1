@@ -1006,20 +1006,14 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
     std::cout << "Please enter a direction to move ('w', 'a', 's', 'd') or pause ('p'):";
     std::cout << "" << std::endl;
     char playerInputChar;
-//SHAI LOOK
-//
+    //SHAI LOOK
+    //
     for (;;){
         try {
-            struct termios oldt, newt;
-
-            tcgetattr(STDIN_FILENO, &oldt); // Save current terminal attributes
-            newt = oldt;
-            newt.c_lflag &= ~(ICANON | ECHO); // Turn off canonical mode and echoing
-            tcsetattr(STDIN_FILENO, TCSANOW, &newt); // Apply new attributes
-    
-            playerInputChar = getchar(); // Read a single character
-
-            tcsetattr(STDIN_FILENO, TCSANOW, &oldt); // Restore old terminal attributes
+            
+            setNonCanonicalMode();
+            read(STDIN_FILENO, &playerInputChar, 1); // Read a single character
+            restoreTerminal();
     
             if(cin.fail()) {
                 std::cin.clear();
@@ -1217,6 +1211,23 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
     stateToCheck = nullptr;
     return 'C';
 }
+
+// Function to set terminal attributes for non-canonical input
+void setNonCanonicalMode() {
+    struct termios term;
+    tcgetattr(STDIN_FILENO, &term);
+    term.c_lflag &= ~(ICANON | ECHO); // Disable canonical mode and echo
+    tcsetattr(STDIN_FILENO, TCSANOW, &term);
+}
+
+// Function to restore terminal attributes
+void restoreTerminal() {
+    struct termios term;
+    tcgetattr(STDIN_FILENO, &term);
+    term.c_lflag |= (ICANON | ECHO); // Restore canonical mode and echo
+    tcsetattr(STDIN_FILENO, TCSANOW, &term);
+}
+
 
 //shai's func
 void createNewCampaign(){

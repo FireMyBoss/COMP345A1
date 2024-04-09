@@ -88,4 +88,7 @@ void createNewCampaign();
 void fillEmptyChestsWithItems(Map * currMap);
 void showInventory(Character * playerToGetItems, Character * monsterInventory, TreasureChest * chest);
 
+void setNonCanonicalMode();
+void restoreTerminal();
+
 #endif //COMP345A1_MAIN_GAMEUI_H
