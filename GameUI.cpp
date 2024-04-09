@@ -1013,7 +1013,7 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
             }else{
                 try{
 
-                }
+                }catch(...){}
             }
 
         } else if (chest == nullptr) { // we are handling monster inventory
