@@ -929,23 +929,33 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
         std::vector < Item * > equippedVector;
 
         try {
-            equippedVector.push_back((Item *) playerToGetInventory->getHelmet());
+            if(playerToGetInventory->getHelmet()!=nullptr)
+                equippedVector.push_back((Item *) playerToGetInventory->getHelmet());
         }catch(...){}
         try {
-            equippedVector.push_back((Item *) playerToGetInventory->getBoots());
+            if(playerToGetInventory->getBoots()!=nullptr)
+                equippedVector.push_back((Item *) playerToGetInventory->getBoots());
+
         }catch(...){}
         try{
-            equippedVector.push_back((Item *) playerToGetInventory->getArmor());
+            if(playerToGetInventory->getArmor()!=nullptr)
+                equippedVector.push_back((Item *) playerToGetInventory->getArmor());
         }catch(...){}
         try{
-            equippedVector.push_back((Item *) playerToGetInventory->getShield());
+            if(playerToGetInventory->getShield()!=nullptr)
+                equippedVector.push_back((Item *) playerToGetInventory->getShield());
         }catch(...){}
         try{
-            equippedVector.push_back((Item *) playerToGetInventory->getWeapon());
+            if(playerToGetInventory->getWeapon() != nullptr)
+                equippedVector.push_back((Item *) playerToGetInventory->getWeapon());
         }catch(...){}
-        equippedVector.push_back((Item *) playerToGetInventory->getBelt());
         try{
-            equippedVector.push_back((Item *) playerToGetInventory->getRing());
+            if(playerToGetInventory->getRing()!=nullptr)
+                equippedVector.push_back((Item *) playerToGetInventory->getRing());
+        }catch(...){}
+        try{
+            if(playerToGetInventory->getBelt()!=nullptr)
+                equippedVector.push_back((Item *) playerToGetInventory->getBelt());
         }catch(...){}
 
         std::vector < Item * > playerBackpackAndEquipped(playerToGetInventory->characterInventory.begin(),
@@ -982,18 +992,8 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
             char playerInputChar;
             for (;;){
                 try {
-                    struct termios oldt, newt;
 
-                    std::cout << "Press a key: ";
-
-                    tcgetattr(STDIN_FILENO, &oldt); // Save current terminal attributes
-                    newt = oldt;
-                    newt.c_lflag &= ~(ICANON | ECHO); // Turn off canonical mode and echoing
-                    tcsetattr(STDIN_FILENO, TCSANOW, &newt); // Apply new attributes
-
-                    playerInputChar = getchar(); // Read a single character
-
-                    tcsetattr(STDIN_FILENO, TCSANOW, &oldt); // Restore old terminal attributes
+                    std::cin >> playerInputChar;
 
                     if(cin.fail()) {
                         std::cin.clear();
@@ -1010,10 +1010,19 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
             }
             if(playerInputChar == 'e'){
                 return;
-            }else{
-                try{
+                // TODO: there is an issue here
+            }else if((int)playerInputChar - 48 < playerBackpackAndEquipped.size() && (int)playerInputChar - 48 >= 0){
 
-                }catch(...){}
+                    if(itemIsEquipped(equippedVector, playerBackpackAndEquipped.at((int)playerInputChar - 48))){
+                        // remove from equipped inventory
+                        std::cout << "trying to remove" << std::endl;
+                        pause(5000);
+                        // TODO remove the equipped
+
+
+                    }else{
+
+                    }
             }
 
         } else if (chest == nullptr) { // we are handling monster inventory
