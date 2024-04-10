@@ -544,8 +544,8 @@ Character * buildCharacterFromSaveFile(std::vector<std::string> characterInforma
 
 }
 Character * createEnemyCharacter(){
-    std::vector<std::string> names = {"Ellie", "Timmy Turner", "Doug Dimmadome Owner of the Dimmsdale Dimmadome"}; //absolutely hilarious
-
+    std::vector<std::string> names = {"Big Chungus", "Timmy Turner", "Doug Dimmadome, Owner of the Dimmsdale Dimmadome",
+                                      "Vicky", "Beautiful Squidward", "Linus Tech Tips"}; //absolutely hilarious
     int levelToSet = rand() % 100 + 1;
     std::string name = names.at(rand() % 3);
     Character * newEnemy = new Fighter(levelToSet, name);

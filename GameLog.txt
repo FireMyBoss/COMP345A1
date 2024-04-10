@@ -4,1159 +4,6 @@ Populating chests with items.
 Characters loaded into map.
 It is King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
 New game started.
 New map is loading.
 Populating chests with items.
@@ -1196,167 +43,64 @@ It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
 King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved up.
@@ -1372,6 +116,9 @@ King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
@@ -1387,16 +134,85 @@ It is King Kamra turn.
 King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved up.
+King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved up.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved left.
@@ -1404,45 +220,8 @@ End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved left.
 End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
 King Kamra has moved down.
 King Kamra has bumped into a wall.
@@ -1451,229 +230,98 @@ It is King Kamra turn.
 King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
 King Kamra has opened a chest.
 End of King Kamra turn.
 It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-King Kamra has opened a door.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
 King Kamra has opened a chest.
 End of King Kamra turn.
 It is King Kamra turn.
+End of King Kamra turn.
+It is King Kamra turn.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a chest.
 New game started.
 New map is loading.
 Populating chests with items.
@@ -1740,10 +388,6 @@ It is King Kamra turn.
 King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
@@ -1751,244 +395,6 @@ King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-King Kamra has opened a door.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has opened a door.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
@@ -1997,598 +403,58 @@ It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved left.
 End of King Kamra turn.
+Big Chungus attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
+Big Chungus attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved right.
 End of King Kamra turn.
-It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
 It is King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
 New game started.
 New map is loading.
 Populating chests with items.
@@ -2643,8 +509,16 @@ It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved up.
 End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a chest.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
@@ -2661,7 +535,85 @@ It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved left.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved up.
@@ -2670,68 +622,48 @@ It is King Kamra turn.
 King Kamra has moved right.
 End of King Kamra turn.
 It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a chest.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved left.
-End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
@@ -2748,8 +680,11 @@ It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
@@ -2777,6 +712,33 @@ End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a chest.
 New game started.
 New map is loading.
 Populating chests with items.
@@ -2822,20 +784,7 @@ It is King Kamra turn.
 King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved up.
@@ -2850,484 +799,35 @@ It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
+King Kamra has moved down.
 King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
@@ -3338,3341 +838,374 @@ King Kamra has moved right.
 King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
+King Kamra has moved down.
+King Kamra has opened a chest.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
 King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a chest.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved up.
 King Kamra has opened a chest.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
+King Kamra has opened a chest.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved left.
 End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved down.
+King Kamra has moved right.
 King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-New game started.
-New map is loading.
-Populating chests with items.
-Characters loaded into map.
-It is King Kamra turn.
-It is King Kamra turn.
 King Kamra has moved right.
 King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved down.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved right.
-King Kamra has bumped into a wall.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
-End of King Kamra turn.
-It is King Kamra turn.
-King Kamra has moved right.
-King Kamra has bumped into a wall.
+King Kamra has moved up.
 End of King Kamra turn.
 It is King Kamra turn.
+King Kamra has moved up.
 New game started.
 New map is loading.
 Populating chests with items.
@@ -6681,223 +1214,56 @@ It is King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
 It is King Kamra turn.
 King Kamra has moved down.
 End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
 It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved up.
 End of King Kamra turn.
-Elliedies
 It is King Kamra turn.
 King Kamra has moved up.
+King Kamra has opened a chest.
 End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved down.
-End of King Kamra turn.
-Elliedies
-Ellie attacked King Kamra
-King Kamra was hit for 1 damage
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
-It is King Kamra turn.
-King Kamra has moved up.
-End of King Kamra turn.
-Elliedies
 It is King Kamra turn.

@@ -13,8 +13,9 @@ class TreasureChest : public Item, public State
 {
 private:
     int space;
-    vector<Item*> contents;
+
 public:
+    vector<Item*> contents;
     TreasureChest(int spc, vector<Item*> & preExistingContent) : space(spc), contents(preExistingContent){this->letter = 'C'; this->colour = "🎁"; fillEmptyChestsWthItems();};
     explicit TreasureChest(vector<Item*> & preExistingContent) : contents(preExistingContent){this->letter = 'C'; this->colour = "🎁"; fillEmptyChestsWthItems();};
     explicit TreasureChest(int spc) : space(spc){this->letter = 'C'; this->colour = "🎁"; fillEmptyChestsWthItems();};

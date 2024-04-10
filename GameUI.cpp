@@ -1081,8 +1081,75 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
 
         } else if (chest == nullptr) { // we are handling monster inventory
 
-        } else { // we are handling a player entering a treasure chest
+            std::cout << "Monster's Drops" << std::endl;
+            std::cout << "---------------" << std::endl;
+            for(int i = 0; i < monsterInventory->characterInventory.size(); i++){
+                std::cout << "Press '" + to_string(i) + "' " + monsterInventory->characterInventory.at(i)->itmName << std::endl;
+            }
+            std::cout << "Press 'e' to exit" << std::endl;
+            // Get user selection for up and down
+            char playerInputChar;
+            for (;;){
+                try {
 
+                    std::cin >> playerInputChar;
+
+                    if(cin.fail()) {
+                        std::cin.clear();
+                        std::cin.ignore();
+                        throw std::runtime_error("Invalid input. Please enter a character.");
+                        continue;
+                    }
+                    break;
+                    // check for only acceptable characters
+                } catch (...) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                }
+            }
+            if(playerInputChar == 'e') {
+                return;
+            }else if((int)playerInputChar - 48 >= 0 && (int)playerInputChar - 48 < chest->contents.size()){
+                // any other selection
+                playerToGetInventory->characterInventory.push_back(monsterInventory->characterInventory.at((int)playerInputChar - 48));
+                monsterInventory->characterInventory.erase(monsterInventory->characterInventory.begin() + ((int)playerInputChar - 48));
+            }
+
+        } else { // we are handling a player entering a treasure chest
+            std::vector<Item *> newChest = chest->getContents();
+            std::cout << "Treasure Chest Contents" << std::endl;
+            std::cout << "-----------------------" << std::endl;
+            for(int i = 0; i < newChest.size(); i++){
+                std::cout << "Press '" + to_string(i) + "' " + newChest.at(i)->itmName << std::endl;
+            }
+            std::cout << "Press 'e' to exit" << std::endl;
+            // Get user selection for up and down
+            char playerInputChar;
+            for (;;){
+                try {
+
+                    std::cin >> playerInputChar;
+
+                    if(cin.fail()) {
+                        std::cin.clear();
+                        std::cin.ignore();
+                        throw std::runtime_error("Invalid input. Please enter a character.");
+                        continue;
+                    }
+                    break;
+                    // check for only acceptable characters
+                } catch (...) {
+                    std::cin.clear();
+                    std::cin.ignore();
+                }
+            }
+            if(playerInputChar == 'e') {
+                return;
+            }else if((int)playerInputChar - 48 >= 0 && (int)playerInputChar - 48 < chest->contents.size()){
+                // any other selection
+                playerToGetInventory->characterInventory.push_back(newChest.at((int)playerInputChar - 48));
+                chest->contents.erase(chest->contents.begin() + ((int)playerInputChar - 48));
+            }
         }
     }
 }
@@ -1289,7 +1356,10 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
                 // TODO: testing this here -------------------------------
                 std::string toLog = player->getName() + " has opened a chest.";
                 gameLoggerObserverCasted->log(toLog, player);
-                std::cout << "--- Chest Contents ---" << std::endl;
+                TreasureChest * newChest;
+                newChest = (TreasureChest *)currMap->map.at(movementY).at(movementX)->state;
+                showInventory(player, nullptr, newChest);
+                /*std::cout << "--- Chest Contents ---" << std::endl;
                 std::cout << "" << std::endl;
                 TreasureChest * newChest;
                 newChest = (TreasureChest *)currMap->map.at(movementY).at(movementX)->state;
@@ -1304,7 +1374,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
                         std::cout << "inside chest" << std::endl;
                         std::cout << "" << std::endl;
                     }
-                }
+                }*/
                 break;
             }else{
                 break;
