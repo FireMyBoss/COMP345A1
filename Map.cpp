@@ -552,6 +552,7 @@ void Map::loadCharactersIntoMap(std::vector<Character *> players){
     this->map.at(startY).at(startX)->characterInSpot = players.at(0);
 
 }
+//SHAISHAI
 void loadEnemiesIntoMap(Map * currMap){
     for(int i = 0; i < currMap->width; i++){
         for(int j = 0; j < currMap->height; j++){
@@ -563,6 +564,7 @@ void loadEnemiesIntoMap(Map * currMap){
                     currMap->map.at(j).at(i)->characterInSpot = newEnemy;
                     newEnemy->x = i;
                     newEnemy->y = j;
+                    currMap->EnemiesInGame.push_back(newEnemy);
                 }else
                     continue;
             }

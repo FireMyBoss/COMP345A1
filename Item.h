@@ -31,6 +31,6 @@ public:
 
 };
 
-Item* getRandItem();
+Item* getRandItem(int type);
 
 #endif

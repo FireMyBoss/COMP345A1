@@ -36,6 +36,8 @@ public:
 
     std::vector<std::vector<Cell *> > map;
     std::vector<Character *> playersInGame;
+    std::vector<Character *> EnemiesInGame;
+
 		
     Map();
     Map(int height, int width);

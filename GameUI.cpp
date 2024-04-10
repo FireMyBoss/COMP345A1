@@ -268,29 +268,83 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
             gameLogFile << "";
             play = false;
         }else if(selection == 'E'){
-                currMapIndex++;
+            currMapIndex++;
 
-                if(ptrVectorOfAllMaps.size() - 1 < currMapIndex){
-                    currMapIndex--;
-                    clearConsole();
-                    std::cout << "Congratulations! You have made it to the end of the campaign." << std::endl;
-                    pause(5000);
-                    clearConsole();
-                    std::cout << "...Exiting to main menu..." << std::endl;
-                    pause(1000);
-                    clearConsole();
-                    play = false;
-                }
-                currMap = ptrVectorOfAllMaps.at(currMapIndex);
-                gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
-                fillEmptyChestsWithItems(currMap);
-                gameLoggerObserverDowncasted->log("Populating chests with items.", currMap); // gameLogger Update
-                currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
-                loadEnemiesIntoMap(currMap);
-                gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
+            if(ptrVectorOfAllMaps.size() - 1 < currMapIndex){
+                currMapIndex--;
+                clearConsole();
+                std::cout << "Congratulations! You have made it to the end of the campaign." << std::endl;
+                pause(5000);
+                clearConsole();
+                std::cout << "...Exiting to main menu..." << std::endl;
+                pause(1000);
+                clearConsole();
+                play = false;
+                break;
+            }
+            currMap = ptrVectorOfAllMaps.at(currMapIndex);
+            gameLoggerObserverDowncasted->log("New map is loading.", currMap); // gameLogger Update
+            fillEmptyChestsWithItems(currMap);
+            gameLoggerObserverDowncasted->log("Populating chests with items.", currMap); // gameLogger Update
+            currMap->loadCharactersIntoMap(ptrVectorOfAllCharacters);
+            loadEnemiesIntoMap(currMap);
+            gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
 
         }else{
-                continue;
+            //SHAI GO HERE FOR MONSTER STUFF
+            //Monster's turn
+            for(Character* monster : currMap->EnemiesInGame){
+                if (monster == nullptr){
+                    continue;
+                } else if(monster->getHitPoints() <= 0){ //monster fucking dies
+                currMap->map.at(monster->y).at(monster->x)->characterInSpot = nullptr;
+                gameLoggerObserverDowncasted->log(monster->getName() +  "dies", monster);
+                monster = nullptr;
+                } else if(monster->wasHit){
+                    monster->wasHit = false;
+                    currCharacter->setHitPoints(currCharacter->getHitPoints()-1);
+                    gameLoggerObserverDowncasted->log(monster->getName() +  " attacked " + currCharacter->getName(),monster);
+                    gameLoggerObserverDowncasted->log(currCharacter->getName() +  " was hit for 1 damage",currCharacter);
+                    //hit back
+                } else { //rand direction to move
+                    int direction = (rand() % 4);
+                    int monX = monster->x, monY = monster->y;
+                    State * stateToCheck;
+                    switch (direction){
+                    case 0: //up
+                        stateToCheck = currMap->getStateOfCell(monX, --monY);
+                        break;
+                    case 1: //left
+                        stateToCheck = currMap->getStateOfCell(--monX, monY);
+                        break;
+                    case 2: //right
+                        stateToCheck = currMap->getStateOfCell(++monX, monY);
+                        break;
+                    case 3: //down
+                        stateToCheck = currMap->getStateOfCell(monX, ++monY);
+                        break;
+                    default:
+                        stateToCheck = nullptr;
+                        break;
+                    }
+                    if(currMap->map.at(monY).at(monX)->characterInSpot != nullptr){ //another character/enemy there
+                        continue; //do nothing
+                    }
+                    switch (stateToCheck->letter)
+                    {
+                    case '.':
+                    case 'D':
+                        currMap->map.at(monster->y).at(monster->x)->characterInSpot = nullptr;
+                        monster->x = monX;
+                        monster->y = monY;
+                        currMap->map.at(monster->y).at(monster->x)->characterInSpot = monster;
+                        break;
+                    default:
+                        continue;
+                    }
+                }
+            }
+            continue;
 
         }
     }
@@ -1077,7 +1131,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
     State * stateToCheck;
     int movementX = 0;
     int movementY = 0;
-
+    //ShaiShai
     switch(playerInputChar){
         case 'w':{
             // must first check if out of bounds
@@ -1123,7 +1177,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
                 return 'X';
             }
             break;
-        }
+        } 
         case 'd':{
             // must first check if out of bounds
             movementX = player->x + 1;
@@ -1157,13 +1211,19 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
     if(stateToCheck == nullptr){
         return 'X';
     }
-
+    //Shai attack enemy
     switch(stateToCheck->letter){
         case '.':{
+            if(currMap->map.at(movementY).at(movementX)->characterInSpot != nullptr) { //enemy in spot
+                currMap->map.at(movementY).at(movementX)->characterInSpot->wasHit = true; //hit enemy
+                //deduct enemy HP
+
+            } else {
             currMap->map.at(player->y).at(player->x)->characterInSpot = nullptr;
             player->x = movementX;
             player->y = movementY;
             currMap->map.at(player->y).at(player->x)->characterInSpot = player;
+            }
             break;
         }
         case 'X':{
@@ -1174,6 +1234,11 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
             break;
         }
         case 'D':{
+            if(currMap->map.at(movementY).at(movementX)->characterInSpot != nullptr) { //enemy in spot
+                currMap->map.at(movementY).at(movementX)->characterInSpot->wasHit = true; //hit enemy
+                //deduct enemy HP
+
+            } else {
             currMap->map.at(player->y).at(player->x)->characterInSpot = nullptr;
             player->x = movementX;
             player->y = movementY;
@@ -1181,6 +1246,7 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
             // TODO: testing this here -------------------------------
             std::string toLog = player->getName() + " has opened a door.";
             gameLoggerObserverCasted->log(toLog, player);
+            }
             break;
         }
         case 'S':{

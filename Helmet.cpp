@@ -12,6 +12,5 @@ Helmet::Helmet(){
 }
 
 void Helmet::getRandomEnchantment(){
-    srand((unsigned) time(NULL));
     setEnchantment(listOfEnchantments[rand() % 3]);
 }

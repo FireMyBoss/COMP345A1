@@ -544,13 +544,19 @@ Character * buildCharacterFromSaveFile(std::vector<std::string> characterInforma
 
 }
 Character * createEnemyCharacter(){
-    std::vector<std::string> names = {"Ellie", "Timmy Turner", "Doug Dimmadome Owner of the Dimmsdale Dimmadome"};
+    std::vector<std::string> names = {"Ellie", "Timmy Turner", "Doug Dimmadome Owner of the Dimmsdale Dimmadome"}; //absolutely hilarious
 
     int levelToSet = rand() % 100 + 1;
     std::string name = names.at(rand() % 3);
     Character * newEnemy = new Fighter(levelToSet, name);
     newEnemy->isEnemy = true;
-
-
+    newEnemy->wasHit = false;
+    newEnemy->setHitPoints(5);
+    newEnemy -> characterInventory.push_back(getRandItem(((rand()) % 7) + 1));
+    /*
+    std::cout <<"\nThe item is a " << newEnemy->characterInventory[0]->itmName << endl;
+	std::cout << "Its enchantment is: " << newEnemy->characterInventory[0]->getEnchantment() << endl;
+	std::cout << "Its bonus is: " << newEnemy->characterInventory[0]->getBonus() << endl;
+    */
     return newEnemy;
 }
