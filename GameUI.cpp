@@ -246,20 +246,21 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
     gameLoggerObserverDowncasted->log("Characters loaded into map.", currMap); // gameLogger Update
 
     gameLoggerObserverDowncasted->log("It is " + currCharacter->getName() + " turn.", currCharacter); // gameLogger Update
-    currMap->notify();
+    //currMap->notify();
 
     while(play){
 
         // return 'E' for end and 'S' to stop game and 'X' for error and 'C' continue
         gameLoggerObserverDowncasted->log("It is " + currCharacter->getName() + " turn.", currCharacter); // gameLogger Update
         char selection;
-
+        currMap->notify();
+        currCharacter->notify();
         selection = getUserInput(currCharacter, currMap, gameLoggerObserver);
 
         clearConsole();
 
-        currMap->notify();
-        currCharacter->notify();
+        
+        
 
         gameLoggerObserverDowncasted->log("End of " + currCharacter->getName() + " turn.", currCharacter); // gameLogger Update
 
@@ -297,14 +298,25 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
                 if (monster->isDEAD){
                     continue;
                 } else if(monster->getHitPoints() <= 0 && !monster->isDEAD){ //monster fucking dies
+                monster->isDEAD = true;
                 currMap->map.at(monster->y).at(monster->x)->characterInSpot = nullptr;
                 gameLoggerObserverDowncasted->log(monster->getName() +  " dies", monster);
-                monster->isDEAD = true;
+                showInventory(currCharacter, monster, nullptr);
+                clearConsole();
                 } else if(monster->wasHit){
                     monster->wasHit = false;
                     currCharacter->setHitPoints(currCharacter->getHitPoints()-1);
                     gameLoggerObserverDowncasted->log(monster->getName() +  " attacked " + currCharacter->getName(),monster);
                     gameLoggerObserverDowncasted->log(currCharacter->getName() +  " was hit for 1 damage",currCharacter);
+                    if(currCharacter->getHitPoints() == 0){ //Character fucking dies
+                        clearConsole();
+                        std::cout << "You died." << std::endl;
+                        pause(2000);
+                        std::cout << "Respawning..." << std::endl;
+                        pause(3000);
+                        currCharacter->setHitPoints(8);
+                        clearConsole();
+                    }
                     //hit back
                 } else { //rand direction to move
                     int direction = (rand() % 4);
@@ -1114,7 +1126,7 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
             }
             if(playerInputChar == 'e') {
                 return;
-            }else if((int)playerInputChar - 48 >= 0 && (int)playerInputChar - 48 < chest->contents.size()){
+            }else if((int)playerInputChar - 48 >= 0 && (int)playerInputChar - 48 < monsterInventory->characterInventory.size()){
                 // any other selection
                 playerToGetInventory->characterInventory.push_back(monsterInventory->characterInventory.at((int)playerInputChar - 48));
                 monsterInventory->characterInventory.erase(monsterInventory->characterInventory.begin() + ((int)playerInputChar - 48));
