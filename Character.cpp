@@ -550,6 +550,8 @@ Character * createEnemyCharacter(){
     std::string name = names.at(rand() % 3);
     Character * newEnemy = new Fighter(levelToSet, name);
     newEnemy->isEnemy = true;
+    newEnemy->wasHit = false;
+    newEnemy->setHitPoints(5);
     newEnemy -> characterInventory.push_back(getRandItem(((rand()) % 7) + 1));
     /*
     std::cout <<"\nThe item is a " << newEnemy->characterInventory[0]->itmName << endl;

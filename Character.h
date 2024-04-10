@@ -31,7 +31,9 @@ public:
     int x;
     int y;
 
+    //for enemies
     bool isEnemy;
+    bool wasHit;
 
     void updateCharacterCoords(int x, int y);
 
