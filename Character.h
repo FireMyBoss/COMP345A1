@@ -31,6 +31,8 @@ public:
     int x;
     int y;
 
+    bool isDEAD;
+
     //for enemies
     bool isEnemy;
     bool wasHit;
@@ -41,7 +43,7 @@ public:
     Character();
     explicit Character(int levelToSet, std::string & name);
     Character(int levelToSet, std::string & name, int type);
-    Character(int levelToSet, std::string & name, bool isEnemy);
+    //Character(int levelToSet, std::string & name, bool isEnemy);
 
     int fighterType;
     std::string fighterTypeName;

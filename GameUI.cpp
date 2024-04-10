@@ -294,12 +294,12 @@ void gameLoopLoadingCampaign(std::vector<std::string> mapNamesInCampaign, std::v
             //SHAI GO HERE FOR MONSTER STUFF
             //Monster's turn
             for(Character* monster : currMap->EnemiesInGame){
-                if (monster == nullptr){
+                if (monster->isDEAD){
                     continue;
-                } else if(monster->getHitPoints() <= 0){ //monster fucking dies
+                } else if(monster->getHitPoints() <= 0 && !monster->isDEAD){ //monster fucking dies
                 currMap->map.at(monster->y).at(monster->x)->characterInSpot = nullptr;
-                gameLoggerObserverDowncasted->log(monster->getName() +  "dies", monster);
-                monster = nullptr;
+                gameLoggerObserverDowncasted->log(monster->getName() +  " dies", monster);
+                monster->isDEAD = true;
                 } else if(monster->wasHit){
                     monster->wasHit = false;
                     currCharacter->setHitPoints(currCharacter->getHitPoints()-1);
@@ -1283,8 +1283,10 @@ char getUserInput(Character * player, Map * currMap, Observer * gameLoggerObserv
         case '.':{
             if(currMap->map.at(movementY).at(movementX)->characterInSpot != nullptr) { //enemy in spot
                 currMap->map.at(movementY).at(movementX)->characterInSpot->wasHit = true; //hit enemy
-                //deduct enemy HP
-
+                int damage = (rand()%6)+1;
+                currMap->map.at(movementY).at(movementX)->characterInSpot->setHitPoints(currMap->map.at(movementY).at(movementX)->characterInSpot->getHitPoints()-damage);
+                gameLoggerObserverCasted->log(player->getName() +  " hit " + currMap->map.at(movementY).at(movementX)->characterInSpot->getName() + " for " + to_string(damage) +  " damage", player);
+                //deduct enemy Hp
             } else {
             currMap->map.at(player->y).at(player->x)->characterInSpot = nullptr;
             player->x = movementX;
