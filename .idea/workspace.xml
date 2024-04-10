@@ -18,15 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="Updated inventory stuff">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Character.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Character.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GameLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Map.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreasureChest.h" beforeDir="false" afterPath="$PROJECT_DIR$/TreasureChest.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output" beforeDir="false" afterPath="$PROJECT_DIR$/output" afterDir="false" />
-    </list>
+    <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="treasure chest and monster inventory accessible and able to be equipped" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +80,7 @@
       <workItem from="1712423639025" duration="10000" />
       <workItem from="1712446686055" duration="1474000" />
       <workItem from="1712672115532" duration="24127000" />
-      <workItem from="1712778170362" duration="6769000" />
+      <workItem from="1712778170362" duration="7089000" />
     </task>
     <task id="LOCAL-00001" summary="Testing git">
       <created>1712251162557</created>
@@ -251,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712781094087</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="treasure chest and monster inventory accessible and able to be equipped">
+      <created>1712788171904</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712788171904</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +298,7 @@
     <MESSAGE value="Added catch block" />
     <MESSAGE value="updated" />
     <MESSAGE value="Updated inventory stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated inventory stuff" />
+    <MESSAGE value="treasure chest and monster inventory accessible and able to be equipped" />
+    <option name="LAST_COMMIT_MESSAGE" value="treasure chest and monster inventory accessible and able to be equipped" />
   </component>
 </project>
