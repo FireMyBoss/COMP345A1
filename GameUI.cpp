@@ -972,12 +972,6 @@ bool pauseMenuUIandExitGame(GameLoggerObserver * gameLoggerObserver, Character *
 
 void showInventory(Character * playerToGetInventory, Character * monsterInventory, TreasureChest * chest){
 
-    // remove this once done with testing
-    Item * newShield = new Shield();
-    playerToGetInventory->characterInventory.push_back(newShield);
-    Item * newHelmet = new Helmet();
-    playerToGetInventory->setHelmet((Helmet *)newHelmet);
-
     bool keepLooping = true;
         // Creating vectors for showing player equip and backpack
         std::vector < Item * > equippedVector;
@@ -1067,14 +1061,25 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
                 // TODO: there is an issue here
             }else if((int)playerInputChar - 48 < playerBackpackAndEquipped.size() && (int)playerInputChar - 48 >= 0){
 
-                    if(itemIsEquipped(equippedVector, playerBackpackAndEquipped.at((int)playerInputChar - 48))){
-                        // remove from equipped inventory
-                        std::cout << "trying to remove" << std::endl;
-                        pause(5000);
-                        // TODO remove the equipped
-
-
+                    if(itemIsEquipped(equippedVector,playerBackpackAndEquipped.at((int)playerInputChar - 48))){
+                        Item * itemToRemove = playerBackpackAndEquipped.at((int)playerInputChar - 48);
+                        int index = 0;
+                        for(auto i : equippedVector){
+                            if(i == itemToRemove){
+                                equippedVector.erase(equippedVector.begin() + index);
+                            }
+                            index++;
+                        }
+                        playerToGetInventory.characterInventory.push_back(itemToRemove);
                     }else{
+                        Item * itemToRemove = playerBackpackAndEquipped.at((int)playerInputChar - 48);
+                        int index = 0;
+                        for(auto i : playerToGetInventory.characterInventory){
+                            if(i == itemToRemove){
+                                playerToGetInventory.characterInventory.erase(playerToGetInventory.characterInventory.begin() + index);
+                            }
+                            index++;
+                        }
 
                     }
             }
@@ -1151,6 +1156,21 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
                 chest->contents.erase(chest->contents.begin() + ((int)playerInputChar - 48));
             }
         }
+    }
+}
+void addItemToCharacterEquip(Item * itemToAdd, Character * player){
+    if(Item * newItem = dynamic_cast<Helmet *>(itemToAdd)){
+        if(!existsInSubscriberList("Character"))
+            return;
+    }else if(Map * curr = dynamic_cast<Map *>(typeOfObservable)){
+        if(!existsInSubscriberList("Map"))
+            return;
+    }else if(Dice * curr = dynamic_cast<Dice *>(typeOfObservable)){
+        if(!existsInSubscriberList("Dice"))
+            return;
+    }else if(Game * curr = dynamic_cast<Game *>(typeOfObservable)){
+        if(!existsInSubscriberList("Game"))
+            return;
     }
 }
 bool itemIsEquipped(std::vector<Item *> equippedItemVector, Item * item){

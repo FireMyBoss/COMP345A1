@@ -88,6 +88,7 @@ void createNewCampaign();
 void fillEmptyChestsWithItems(Map * currMap);
 void showInventory(Character * playerToGetItems, Character * monsterInventory, TreasureChest * chest);
 bool itemIsEquipped(std::vector<Item *> equippedItemVector, Item * item);
+void addItemToCharacterEquip(Item * itemToAdd, Character * player);
 
 void setNonCanonicalMode();
 void restoreTerminal();

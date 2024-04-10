@@ -19,9 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="treasure chest and monster inventory accessible and able to be equipped">
-      <change beforePath="$PROJECT_DIR$/GameLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GameLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output" beforeDir="false" afterPath="$PROJECT_DIR$/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameUI.h" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <workItem from="1712423639025" duration="10000" />
       <workItem from="1712446686055" duration="1474000" />
       <workItem from="1712672115532" duration="24127000" />
-      <workItem from="1712778170362" duration="7501000" />
+      <workItem from="1712778170362" duration="10173000" />
     </task>
     <task id="LOCAL-00001" summary="Testing git">
       <created>1712251162557</created>
@@ -261,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712788270111</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="treasure chest and monster inventory accessible and able to be equipped">
+      <created>1712788637507</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1712788637507</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
