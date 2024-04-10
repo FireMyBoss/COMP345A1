@@ -559,7 +559,7 @@ void loadEnemiesIntoMap(Map * currMap){
             if(currMap->map.at(j).at(i)->state->letter == '.' && currMap->map.at(j).at(i)->characterInSpot == nullptr){
                 // have random chance of spawning 5%, create enemy npc, set the cell to having npc in it
                 int randNum = rand() % 100;
-                if(randNum < 1){ // create enemy character and populate on map
+                if(randNum < 10){ // create enemy character and populate on map
                     Character * newEnemy = createEnemyCharacter();
                     currMap->map.at(j).at(i)->characterInSpot = newEnemy;
                     newEnemy->x = i;
