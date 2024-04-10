@@ -6901,3 +6901,5724 @@ King Kamra has moved up.
 End of King Kamra turn.
 Elliedies
 It is King Kamra turn.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Timmy Turnerfor 1 damage
+End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Timmy Turnerfor 4 damage
+End of King Kamra turn.
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 1 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 5 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Elliefor 5 damage
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 2 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 6 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 6 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Elliefor 3 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Elliefor 3 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Timmy Turnerfor 2 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Timmy Turnerfor 2 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Timmy Turnerfor 1 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a door.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Elliefor 4 damage
+End of King Kamra turn.
+Ellie attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Elliefor 1 damage
+End of King Kamra turn.
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Timmy Turnerfor 3 damage
+End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Timmy Turnerfor 4 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 5 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Timmy Turnerfor 6 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has opened a chest.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has opened a door.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Timmy Turnerfor 3 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Timmy Turnerfor 5 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has opened a door.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Timmy Turnerfor 2 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Timmy Turnerfor 4 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 1 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 5 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 1 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 2 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 3 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Elliedies
+Timmy Turnerdies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Elliedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 5 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Timmy Turnerfor 3 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Timmy Turnerfor 5 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Timmy Turnerfor 1 damage
+End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Timmy Turnerfor 5 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 3 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 2 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a door.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has opened a door.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 1 damage
+End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 2 damage
+End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 6 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has opened a chest.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has opened a door.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has opened a door.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 5 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has opened a door.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 6 damage
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has opened a door.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has opened a chest.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 3 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 3 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadomefor 6 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+Doug Dimmadome Owner of the Dimmsdale Dimmadomedies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Elliefor 5 damage
+End of King Kamra turn.
+Elliedies
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Timmy Turnerfor 3 damage
+End of King Kamra turn.
+Elliedies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Elliedies
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 1 damage
+End of King Kamra turn.
+Elliedies
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Timmy Turnerfor 1 damage
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+Elliedies
+Timmy Turnerdies
+It is King Kamra turn.
+New game started.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Timmy Turner for 1 damage
+End of King Kamra turn.
+Timmy Turner attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Timmy Turner for 5 damage
+End of King Kamra turn.
+Timmy Turner dies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadome for 6 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome dies
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadome for 3 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadome for 1 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadome for 4 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome dies
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadome for 5 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome dies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadome for 4 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome attacked King Kamra
+King Kamra was hit for 1 damage
+It is King Kamra turn.
+King Kamra has moved right.
+King Kamra hit Doug Dimmadome Owner of the Dimmsdale Dimmadome for 4 damage
+End of King Kamra turn.
+Doug Dimmadome Owner of the Dimmsdale Dimmadome dies
+It is King Kamra turn.
+King Kamra has moved right.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved up.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+New map is loading.
+Populating chests with items.
+Characters loaded into map.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+King Kamra has bumped into a wall.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved left.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.
+It is King Kamra turn.
+King Kamra has moved down.
+End of King Kamra turn.

@@ -17,6 +17,7 @@ Character::Character(){
 	this->x = 0;
 	this->y = 0;
 
+    this->isDEAD = false;
 	// Initializing player attributes
 	this->characterClass = "None";
   this->name = "";
@@ -63,6 +64,7 @@ Character::Character(int levelToSet, std::string & name) : level(levelToSet){
 	this->x = 0;
 	this->y = 0;
 
+    this->isDEAD = false;
 	// Initializing player attributes
 	this->characterClass = "None";
 	setName(name);
@@ -108,6 +110,7 @@ Character::Character(int levelToSet, std::string & name, int fighterType) : leve
 	this->x = 0;
 	this->y = 0;
 
+    this->isDEAD = false;
 	// Initializing player attributes
 	this->characterClass = "None";
 	setName(name);
