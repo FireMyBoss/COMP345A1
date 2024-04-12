@@ -18,11 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="treasure chest and monster inventory accessible and able to be equipped">
+    <list default="true" id="e627254b-910a-41b4-a59a-87691c428a69" name="Changes" comment="Adding player equip stuff. It's broken but it compiles.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GameLog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GameUI.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/Item.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output" beforeDir="false" afterPath="$PROJECT_DIR$/output" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,7 @@
       <workItem from="1712423639025" duration="10000" />
       <workItem from="1712446686055" duration="1474000" />
       <workItem from="1712672115532" duration="24127000" />
-      <workItem from="1712778170362" duration="12038000" />
+      <workItem from="1712778170362" duration="17964000" />
     </task>
     <task id="LOCAL-00001" summary="Testing git">
       <created>1712251162557</created>
@@ -277,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712791625943</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Adding player equip stuff. It's broken but it compiles.">
+      <created>1712793703112</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1712793703112</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +332,7 @@
     <MESSAGE value="updated" />
     <MESSAGE value="Updated inventory stuff" />
     <MESSAGE value="treasure chest and monster inventory accessible and able to be equipped" />
-    <option name="LAST_COMMIT_MESSAGE" value="treasure chest and monster inventory accessible and able to be equipped" />
+    <MESSAGE value="Adding player equip stuff. It's broken but it compiles." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding player equip stuff. It's broken but it compiles." />
   </component>
 </project>

@@ -1074,6 +1074,7 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
             for(char i : stringForCharacterInventory){
                 std::cout << "-";
             }
+
             std::cout << "" << std::endl;
             // Display of player contents and handling input
             int itemIndex = 0;
@@ -1085,6 +1086,7 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
                 }
                 itemIndex++;
             }
+
             std::cout << "Press 'e' to go back" << std::endl;
             // Get user selection for up and down
             char playerInputChar;
@@ -1106,14 +1108,14 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
                     std::cin.ignore();
                 }
             }
+
             if(playerInputChar == 'e'){
                 return;
                 // TODO: there is an issue here
             }else if((int)playerInputChar - 48 < playerBackpackAndEquipped.size() && (int)playerInputChar - 48 >= 0){
-
+                /*
                     if(itemIsEquipped(equippedVector,playerBackpackAndEquipped.at((int)playerInputChar - 48))){
                         Item * itemToRemove = playerBackpackAndEquipped.at((int)playerInputChar - 48);
-                        itemToRemove->equipped = true;
                         int index = 0;
                         for(auto i : equippedVector){
                             if(i == itemToRemove){
@@ -1122,20 +1124,22 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
                             index++;
                         }
                         addItemToCharacterEquip(itemToRemove, playerToGetInventory);
-                        itemToRemove->equipped = false;
                         playerToGetInventory->characterInventory.push_back(itemToRemove);
                     }else{
                         Item * itemToAdd = playerBackpackAndEquipped.at((int)playerInputChar - 48);
                         int index = 0;
-                        for(auto i : playerToGetInventory->characterInventory){
+
+                        for(Item * i : playerToGetInventory->characterInventory){
                             if(i == itemToAdd){
                                 playerToGetInventory->characterInventory.erase(playerToGetInventory->characterInventory.begin() + index);
                             }
                             index++;
                         }
+
                         addItemToCharacterEquip(itemToAdd, playerToGetInventory);
-                        itemToAdd->equipped = true;
+                        equippedVector.push_back(itemToAdd);
                     }
+                    */
             }
 
         } else if (chest == nullptr) { // we are handling monster inventory
@@ -1213,75 +1217,91 @@ void showInventory(Character * playerToGetInventory, Character * monsterInventor
     }
 }
 void addItemToCharacterEquip(Item * itemToAdd, Character * player){
+
     if(!itemToAdd->equipped) {
-        std::cout << "In equip" << std::endl;
-        pause(2000);
         if (Helmet *newItem = dynamic_cast<Helmet *>(itemToAdd)) {
             if(player->getHelmet()==nullptr) {
+                itemToAdd->equipped = true;
                 player->setHelmet(newItem);
             }
 
         } else if (Boots *newItem = dynamic_cast<Boots *>(itemToAdd)) {
             if(player->getBoots()==nullptr) {
+                itemToAdd->equipped = true;
                 player->setBoots(newItem);
             }
 
         } else if (Armor *newItem = dynamic_cast<Armor *>(itemToAdd)) {
             if(player->getArmor()==nullptr) {
+                itemToAdd->equipped = true;
                 player->setArmor(newItem);
             }
 
         } else if (Shield *newItem = dynamic_cast<Shield *>(itemToAdd)) {
             if(player->getShield()==nullptr) {
+                itemToAdd->equipped = true;
                 player->setShield(newItem);
             }
 
         } else if (Weapon *newItem = dynamic_cast<Weapon *>(itemToAdd)) {
             if(player->getWeapon()==nullptr) {
+                itemToAdd->equipped = true;
                 player->setWeapon(newItem);
             }
 
         } else if (Ring *newItem = dynamic_cast<Ring *>(itemToAdd)) {
             if(player->getRing()==nullptr) {
+                itemToAdd->equipped = true;
                 player->setRing(newItem);
             }
 
         } else if (Belt *newItem = dynamic_cast<Belt *>(itemToAdd)) {
             if(player->getBelt()==nullptr) {
+                itemToAdd->equipped = true;
                 player->setBelt(newItem);
             }
 
         }
     }else{
-        if (Item *newItem = dynamic_cast<Helmet *>(itemToAdd)) {
+
+        if (Helmet *newItem = dynamic_cast<Helmet *>(itemToAdd)) {
+            itemToAdd->equipped = false;
             player->setHelmet(nullptr);
 
-        } else if (Item *newItem = dynamic_cast<Boots *>(itemToAdd)) {
+        } else if (Boots *newItem = dynamic_cast<Boots *>(itemToAdd)) {
+            itemToAdd->equipped = false;
             player->setBoots(nullptr);
 
-        } else if (Item *newItem = dynamic_cast<Armor *>(itemToAdd)) {
+        } else if (Armor *newItem = dynamic_cast<Armor *>(itemToAdd)) {
+            itemToAdd->equipped = false;
             player->setArmor(nullptr);
 
-        } else if (Item *newItem = dynamic_cast<Shield *>(itemToAdd)) {
+        } else if (Shield *newItem = dynamic_cast<Shield *>(itemToAdd)) {
+            itemToAdd->equipped = false;
             player->setShield(nullptr);
 
-        } else if (Item *newItem = dynamic_cast<Weapon *>(itemToAdd)) {
+        } else if (Weapon *newItem = dynamic_cast<Weapon *>(itemToAdd)) {
+            itemToAdd->equipped = false;
             player->setWeapon(nullptr);
 
-        } else if (Item *newItem = dynamic_cast<Ring *>(itemToAdd)) {
+        } else if (Ring *newItem = dynamic_cast<Ring *>(itemToAdd)) {
+            itemToAdd->equipped = false;
             player->setRing(nullptr);
 
-        } else if (Item *newItem = dynamic_cast<Belt *>(itemToAdd)) {
+        } else if (Belt *newItem = dynamic_cast<Belt *>(itemToAdd)) {
+            itemToAdd->equipped = false;
             player->setBelt(nullptr);
 
         }
     }
 }
 bool itemIsEquipped(std::vector<Item *> equippedItemVector, Item * item){
+
     for(auto i : equippedItemVector){
         if(i == item && i!=nullptr)
             return true;
     }
+
     return false;
 }
 
